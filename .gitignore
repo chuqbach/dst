@@ -4,5 +4,9 @@
 # Allow .gitignore
 !.gitignore
 
-# Whitelist a specific folder and all its contents
+# Allow directories so Git can see the folder structure
+!*/
+
+# Whitelist the Cluster_2 folder and all of its contents
+!Cluster_2/
 !Cluster_2/**
