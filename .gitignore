@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+
+# Allow .gitignore
+!.gitignore
+
+# Whitelist a specific folder and all its contents
+!Cluster_2/**
