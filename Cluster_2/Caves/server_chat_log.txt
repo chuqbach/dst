@@ -1,14 +1,28 @@
-[00:01:04]: [Join Announcement] Apache Spark
-[00:01:34]: [Join Announcement] pL4y3r
-[00:01:35]: [Join Announcement] quachphuquoc
-[00:03:19]: [Join Announcement] DINO
-[00:14:35]: [Death Announcement] Apache Spark was killed by Spider. He became a spooky ghost!
-[00:15:31]: [Resurrect Announcement] Apache Spark was resurrected by Fire Pit.
-[00:23:25]: [Leave Announcement] DINO
-[00:24:42]: [Join Announcement] DINO
-[00:25:08]: [Resurrect Announcement] DINO was resurrected by Fire Pit.
-[00:25:24]: [Leave Announcement] pL4y3r
-[00:27:04]: [Join Announcement] pL4y3r
-[00:46:13]: [Leave Announcement] quachphuquoc
-[00:46:14]: [Leave Announcement] pL4y3r
-[00:46:16]: [Leave Announcement] Apache Spark
+[00:00:55]: [Join Announcement] Apache Spark
+[00:03:41]: [Join Announcement] pL4y3r
+[00:11:57]: [Join Announcement] DINO
+[00:23:13]: [Death Announcement] DINO was killed by Starvation. She became a spooky ghost!
+[00:24:17]: [Resurrect Announcement] DINO was resurrected by Campfire.
+[00:24:54]: [Death Announcement] DINO was killed by Clockwork Knight. She became a spooky ghost!
+[00:25:00]: [Resurrect Announcement] DINO was resurrected by Campfire.
+[00:25:13]: [Death Announcement] DINO was killed by Clockwork Bishop. She became a spooky ghost!
+[00:25:20]: [Resurrect Announcement] DINO was resurrected by Campfire.
+[00:25:42]: [Death Announcement] DINO was killed by Clockwork Bishop. She became a spooky ghost!
+[00:25:49]: [Resurrect Announcement] DINO was resurrected by Campfire.
+[00:26:22]: [Death Announcement] Apache Spark was killed by Clockwork Bishop. He became a spooky ghost!
+[00:26:22]: [Death Announcement] pL4y3r was killed by Clockwork Bishop. She became a spooky ghost!
+[00:26:42]: [Resurrect Announcement] Apache Spark was resurrected by Campfire.
+[00:26:43]: [Resurrect Announcement] pL4y3r was resurrected by Campfire.
+[00:49:48]: [Death Announcement] Apache Spark was killed by Hound. He became a spooky ghost!
+[00:50:28]: [Resurrect Announcement] Apache Spark was resurrected by Campfire.
+[01:09:39]: [Leave Announcement] pL4y3r
+[01:10:11]: [Death Announcement] DINO was killed by Spider Warrior. She became a spooky ghost!
+[01:10:29]: [Join Announcement] pL4y3r
+[01:11:10]: [Resurrect Announcement] DINO was resurrected by Campfire.
+[01:13:49]: [Death Announcement] DINO was killed by Spider Queen. She became a spooky ghost!
+[01:14:14]: [Resurrect Announcement] DINO was resurrected by Campfire.
+[01:15:59]: [Death Announcement] pL4y3r was killed by Nurse Spider. She became a spooky ghost!
+[01:16:10]: [Resurrect Announcement] pL4y3r was resurrected by Campfire.
+[01:20:31]: [Skin Announcement] Apache Spark feet_webber_ice
+[01:20:44]: [Leave Announcement] pL4y3r
+[01:20:44]: [Leave Announcement] Apache Spark
