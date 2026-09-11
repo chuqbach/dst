@@ -148,7 +148,7 @@ KLEI     1 return {
     pvp=false,
     server_language="en" 
   },
-  session_id="1416517D9FC5885D",
+  session_id="2B7859EAF73E26E3",
   version=5,
   world={
     options={
@@ -271,8 +271,8 @@ KLEI     1 return {
         twiggytrees_regrowth="default",
         weather="default",
         winters_feast="default",
-        world_size="default",
-        worldseed=216284183,
+        world_size="medium",
+        worldseed="",
         wormattacks="default",
         wormattacks_boss="default",
         wormhole_prefab="tentacle_pillar",
