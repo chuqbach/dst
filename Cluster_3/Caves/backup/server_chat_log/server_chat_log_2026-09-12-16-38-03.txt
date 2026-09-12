@@ -1,0 +1,3 @@
+[00:00:55]: [Join Announcement] Apache Spark
+[00:26:52]: [Death Announcement] Apache Spark was killed by Pengull. He became a spooky ghost!
+[00:26:52]: [Leave Announcement] Apache Spark
