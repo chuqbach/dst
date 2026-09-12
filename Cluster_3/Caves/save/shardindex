@@ -157,7 +157,7 @@ KLEI     1 return {
     pvp=false,
     server_language="en" 
   },
-  session_id="3ED71ADDF8196CC8",
+  session_id="3ED71AC0346035F4",
   version=5,
   world={
     options={
