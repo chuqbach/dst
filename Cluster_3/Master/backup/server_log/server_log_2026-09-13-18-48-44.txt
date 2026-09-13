@@ -1,8 +1,8 @@
 [00:00:00]: 
 System Memory:
-	Memory Load: 33%
-	Available Physical Memory: 32557m/49058m
-	Available Page File: 32740m/52130m
+	Memory Load: 30%
+	Available Physical Memory: 33910m/49058m
+	Available Page File: 33835m/52130m
 	Available Virtual Memory: 134213474m/134217727m
 	Available Extended Virtual Memory: 0m
 [00:00:00]: 
@@ -18,7 +18,7 @@ Process Memory:
 [00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/212495009/Cluster_3/Master/ 
 [00:00:00]: Starting Up
 [00:00:00]: Version: 747465
-[00:00:00]: Current time: Sun Sep 13 18:48:44 2026
+[00:00:00]: Current time: Sun Sep 13 17:25:08 2026
 
 [00:00:00]: Don't Starve Together: 747465 WIN32
 [00:00:00]: Build Date: 4239
@@ -31,30 +31,30 @@ Process Memory:
 [00:00:00]: ....Done
 [00:00:00]: Fixing DPI
 [00:00:00]: ...Done
-[00:00:00]: THREAD - started 'GAClient' (24508)
+[00:00:00]: THREAD - started 'GAClient' (25816)
 [00:00:00]: CurlRequestManager::ClientThread::Main()
-[00:00:00]: ProfileIndex:0.50
+[00:00:00]: ProfileIndex:0.51
 [00:00:00]: Mounting file system databundles/klump.zip successful.
 [00:00:00]: Mounting file system databundles/shaders.zip successful.
 [00:00:00]: Mounting file system databundles/fonts.zip successful.
 [00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
 [00:00:00]: Mounting file system databundles/bigportraits.zip successful.
-[00:00:00]: Mounting file system databundles/images.zip successful.
-[00:00:00]: Mounting file system databundles/scripts.zip successful.
-[00:00:00]: [Steam] SteamGameServer_Init(10999, 27016)
-[00:00:00]: [Steam] SteamGameServer_Init success
-[00:00:00]: [Connect] PendingConnection::Reset(true)
-[00:00:00]: Platform: 1
-[00:00:00]: Network tick rate: U=15(2), D=0
-[00:00:00]: Network tick rate: U=15(2), D=0
-[00:00:00]: Authorized application F:\SteamLibrary\steamapps\common\Don't Starve Together\bin64\dontstarve_dedicated_server_nullrenderer_x64.exe is enabled in the firewall.
-[00:00:00]: WindowsFirewall - Application already authorized
-[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/212495009/client_save/blocklist.txt (Failure)
-[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/212495009/client_save/adminlist.txt (Failure)
-[00:00:00]: THREAD - started 'StreamInput' (23944)
-[00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/212495009/client_save/whitelist.txt (Failure)
-[00:00:00]: Offline user ID: OU_76561198172760737
-[00:00:00]: HardwareStats:
+[00:00:01]: Mounting file system databundles/images.zip successful.
+[00:00:01]: Mounting file system databundles/scripts.zip successful.
+[00:00:01]: [Steam] SteamGameServer_Init(10999, 27016)
+[00:00:01]: [Steam] SteamGameServer_Init success
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Authorized application F:\SteamLibrary\steamapps\common\Don't Starve Together\bin64\dontstarve_dedicated_server_nullrenderer_x64.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/212495009/client_save/blocklist.txt (Failure)
+[00:00:01]: THREAD - started 'StreamInput' (22660)
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/212495009/client_save/adminlist.txt (Failure)
+[00:00:01]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/212495009/client_save/whitelist.txt (Failure)
+[00:00:01]: Offline user ID: OU_76561198172760737
+[00:00:01]: HardwareStats:
   OS                        
     name                      Microsoft Windows 11 Pro
     version                   10.0.26200
@@ -76,17 +76,17 @@ Process Memory:
     driverDate                20240814000000.000000-000
     refreshRate               59
 
-[00:00:00]: cGame::InitializeOnMainThread
-[00:00:00]: Renderer initialize: Okay
-[00:00:00]: AnimManager initialize: Okay
-[00:00:00]: Buffers initialize: Okay
-[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
-[00:00:00]: GameSpecific initialize: Okay
-[00:00:00]: cGame::StartPlaying
-[00:00:00]: AppVersion::GetArchitecture() x64
-[00:00:00]: LOADING LUA
-[00:00:00]: DoLuaFile scripts/main.lua
-[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: AppVersion::GetArchitecture() x64
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
 [00:00:01]:   taskgrouplist:	default	Together	
 [00:00:01]:   taskgrouplist:	classic	Classic	
 [00:00:01]:   taskgrouplist:	cave_default	Underground	
@@ -454,22 +454,22 @@ Process Memory:
 [00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
 [00:00:05]: 	Load FE	
 [00:00:06]: 	Load FE: done	
-[00:00:06]: THREAD - started 'FilesExistAsyncThread' (13280)
+[00:00:06]: THREAD - started 'FilesExistAsyncThread' (14208)
 [00:00:06]: FilesExistAsyncThread started (0 files)...
 [00:00:06]: ... FilesExistAsyncThread complete
 [00:00:06]: Check for write access: TRUE
 [00:00:06]: Check for read access: TRUE
-[00:00:06]: Available disk space for save files: 127158 MB
+[00:00:06]: Available disk space for save files: 128294 MB
 [00:00:06]: ModIndex: Load sequence finished successfully.	
 [00:00:06]: Reset() returning
-[00:00:06]: [IPC] Signal 'DST_Master_Kill' opened  #0000000000000A30
-[00:00:06]: [IPC] Registering handler for signal #0000000000000A30
-[00:00:06]: [IPC] Handle #0000000000000A30 added to the Eventhandles
-[00:00:06]: [IPC] Signal 'DST_Master_ShutdownNoSave' opened  #00000000000009F4
-[00:00:06]: [IPC] Registering handler for signal #00000000000009F4
-[00:00:06]: [IPC] Handle #00000000000009F4 added to the Eventhandles
-[00:00:06]: [IPC] Signal 'DST_Master_Starting' opened  #0000000000000990
-[00:00:06]: [IPC] Sending signal... #0000000000000990
+[00:00:06]: [IPC] Signal 'DST_Master_Kill' opened  #000000000000070C
+[00:00:06]: [IPC] Registering handler for signal #000000000000070C
+[00:00:06]: [IPC] Handle #000000000000070C added to the Eventhandles
+[00:00:06]: [IPC] Signal 'DST_Master_ShutdownNoSave' opened  #00000000000009B4
+[00:00:06]: [IPC] Registering handler for signal #00000000000009B4
+[00:00:06]: [IPC] Handle #00000000000009B4 added to the Eventhandles
+[00:00:06]: [IPC] Signal 'DST_Master_Starting' opened  #000000000000099C
+[00:00:06]: [IPC] Sending signal... #000000000000099C
 [00:00:06]: [200] Account Communication Success (6)
 [00:00:06]: Cached userid (null) saved to APP:Klei//DoNotStarveTogether/212495009/Cluster_3/Master/save/cached_userid
 [00:00:06]: Received (KU_stiTW-Ay) from TokenPurpose
@@ -525,8 +525,8 @@ Process Memory:
 [00:00:06]: SUCCESS: Loaded modoverrides.lua	
 [00:00:06]: Could not load mod_config_data/modconfiguration_workshop-3075429483	
 [00:00:06]: Online Server Started on port: 10999
-[00:00:07]: [ClientObject] Added (pre-auth) on server: guid=6870619718587203861
-[00:00:07]: [ClientObject] Initialized (self/server object, locally trusted) on server: guid=6870619718587203861 userid=KU_stiTW-Ay netid= admin=1
+[00:00:07]: [ClientObject] Added (pre-auth) on server: guid=9124310709999139800
+[00:00:07]: [ClientObject] Initialized (self/server object, locally trusted) on server: guid=9124310709999139800 userid=KU_stiTW-Ay netid= admin=1
 [00:00:07]: SUCCESS: Loaded modoverrides.lua	
 [00:00:07]: Found a level data override file with these contents:	
 [00:00:07]: 	K: 	desc	 V: 	The standard Don't Starve experience.	
@@ -538,7 +538,7 @@ Process Memory:
 [00:00:07]: 	K: 	name	 V: 	Survival	
 [00:00:07]: 	K: 	numrandom_set_pieces	 V: 	4	
 [00:00:07]: 	K: 	override_level_string	 V: 	false	
-[00:00:07]: 	K: 	overrides	 V: 	table: 000000001396CEE0	
+[00:00:07]: 	K: 	overrides	 V: 	table: 000000001A48F8A0	
 [00:00:07]: 		K: 	alternatehunt	 V: 	default	
 [00:00:07]: 		K: 	angrybees	 V: 	default	
 [00:00:07]: 		K: 	antliontribute	 V: 	default	
@@ -737,7 +737,7 @@ Process Memory:
 [00:00:07]: 		K: 	year_of_the_snake	 V: 	default	
 [00:00:07]: 		K: 	year_of_the_varg	 V: 	default	
 [00:00:07]: 	K: 	playstyle	 V: 	survival	
-[00:00:07]: 	K: 	random_set_pieces	 V: 	table: 000000001396C580	
+[00:00:07]: 	K: 	random_set_pieces	 V: 	table: 000000001A48EE50	
 [00:00:07]: 		K: 	1	 V: 	Sculptures_2	
 [00:00:07]: 		K: 	2	 V: 	Sculptures_3	
 [00:00:07]: 		K: 	3	 V: 	Sculptures_4	
@@ -757,15 +757,15 @@ Process Memory:
 [00:00:07]: 		K: 	17	 V: 	Warzone_1	
 [00:00:07]: 		K: 	18	 V: 	Warzone_2	
 [00:00:07]: 		K: 	19	 V: 	Warzone_3	
-[00:00:07]: 	K: 	required_prefabs	 V: 	table: 000000001396CA30	
+[00:00:07]: 	K: 	required_prefabs	 V: 	table: 000000001A48FCB0	
 [00:00:07]: 		K: 	1	 V: 	multiplayer_portal	
-[00:00:07]: 	K: 	required_setpieces	 V: 	table: 000000001396D340	
+[00:00:07]: 	K: 	required_setpieces	 V: 	table: 000000001A48F530	
 [00:00:07]: 		K: 	1	 V: 	Sculptures_1	
 [00:00:07]: 		K: 	2	 V: 	Maxwell5	
 [00:00:07]: 	K: 	settings_desc	 V: 	The standard Don't Starve experience.	
 [00:00:07]: 	K: 	settings_id	 V: 	SURVIVAL_TOGETHER	
 [00:00:07]: 	K: 	settings_name	 V: 	Survival	
-[00:00:07]: 	K: 	substitutes	 V: 	table: 000000001396C760	
+[00:00:07]: 	K: 	substitutes	 V: 	table: 000000001A48F170	
 [00:00:07]: 	K: 	version	 V: 	4	
 [00:00:07]: 	K: 	worldgen_desc	 V: 	The standard Don't Starve experience.	
 [00:00:07]: 	K: 	worldgen_id	 V: 	SURVIVAL_TOGETHER	
@@ -781,7 +781,7 @@ Process Memory:
 [00:00:07]: ~InventoryLuaProxy()
 [00:00:07]: ~NetworkLuaProxy()
 [00:00:07]: ~SimLuaProxy()
-[00:00:07]: lua_close took 0.09 seconds
+[00:00:07]: lua_close took 0.08 seconds
 [00:00:07]: ReleaseAll
 [00:00:07]: ReleaseAll Finished
 [00:00:07]: cGame::StartPlaying
@@ -1053,38 +1053,38 @@ Process Memory:
 [00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
 [00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
 [00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
-[00:00:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
-[00:00:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modbackendmain.lua	
-[00:00:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modbackendmain.lua. Skipping.	
-[00:00:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
-[00:00:08]: Mod: workshop-1378549454 ([API] Gem Core)	Loading modmainpostinit.lua	
-[00:00:08]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modmainpostinit.lua	
-[00:00:08]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modmainpostinit.lua. Skipping.	
-[00:00:08]: Mod: workshop-758532836 (Global Pause)	Loading modmainpostinit.lua	
-[00:00:08]: Mod: workshop-758532836 (Global Pause)	  Mod had no modmainpostinit.lua. Skipping.	
-[00:00:08]: Mod: workshop-2321974509 (Automatic chest sorting)	Loading modmainpostinit.lua	
-[00:00:08]: Mod: workshop-2321974509 (Automatic chest sorting)	  Mod had no modmainpostinit.lua. Skipping.	
-[00:00:08]: Mod: workshop-347079953 (Display food values)	Loading modmainpostinit.lua	
-[00:00:08]: Mod: workshop-347079953 (Display food values)	  Mod had no modmainpostinit.lua. Skipping.	
-[00:00:08]: Mod: workshop-3075429483 (45 Inventory Slots [Fixed + EquipSlot UI expand] 整合版)	Loading modmainpostinit.lua	
-[00:00:08]: Mod: workshop-3075429483 (45 Inventory Slots [Fixed + EquipSlot UI expand] 整合版)	  Mod had no modmainpostinit.lua. Skipping.	
-[00:00:08]: Mod: workshop-2287303119 (Show Me (New))	Loading modmainpostinit.lua	
-[00:00:08]: Mod: workshop-2287303119 (Show Me (New))	  Mod had no modmainpostinit.lua. Skipping.	
-[00:00:08]: Mod: workshop-374550642 (Increased Stack size)	Loading modmainpostinit.lua	
-[00:00:08]: Mod: workshop-374550642 (Increased Stack size)	  Mod had no modmainpostinit.lua. Skipping.	
-[00:00:08]: Mod: workshop-569043634 (Campfire Respawn)	Loading modmainpostinit.lua	
-[00:00:08]: Mod: workshop-569043634 (Campfire Respawn)	  Mod had no modmainpostinit.lua. Skipping.	
-[00:00:08]: Mod: workshop-458587300 (Fast Travel)	Loading modmainpostinit.lua	
-[00:00:08]: Mod: workshop-458587300 (Fast Travel)	  Mod had no modmainpostinit.lua. Skipping.	
-[00:00:08]: Mod: workshop-501385076 (Quick Pick)	Loading modmainpostinit.lua	
-[00:00:08]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modmainpostinit.lua. Skipping.	
-[00:00:08]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmainpostinit.lua	
-[00:00:08]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modmainpostinit.lua. Skipping.	
-[00:00:08]: Mod: workshop-378160973 (Global Positions)	Loading modmainpostinit.lua	
-[00:00:08]: Mod: workshop-378160973 (Global Positions)	  Mod had no modmainpostinit.lua. Skipping.	
-[00:00:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmainpostinit.lua	
-[00:00:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modbackendmain.lua	
+[00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[00:00:07]: Mod: workshop-1378549454 ([API] Gem Core)	Loading modmainpostinit.lua	
+[00:00:07]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modmainpostinit.lua	
+[00:00:07]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:07]: Mod: workshop-758532836 (Global Pause)	Loading modmainpostinit.lua	
+[00:00:07]: Mod: workshop-758532836 (Global Pause)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:07]: Mod: workshop-2321974509 (Automatic chest sorting)	Loading modmainpostinit.lua	
+[00:00:07]: Mod: workshop-2321974509 (Automatic chest sorting)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:07]: Mod: workshop-347079953 (Display food values)	Loading modmainpostinit.lua	
+[00:00:07]: Mod: workshop-347079953 (Display food values)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:07]: Mod: workshop-3075429483 (45 Inventory Slots [Fixed + EquipSlot UI expand] 整合版)	Loading modmainpostinit.lua	
+[00:00:07]: Mod: workshop-3075429483 (45 Inventory Slots [Fixed + EquipSlot UI expand] 整合版)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:07]: Mod: workshop-2287303119 (Show Me (New))	Loading modmainpostinit.lua	
+[00:00:07]: Mod: workshop-2287303119 (Show Me (New))	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:07]: Mod: workshop-374550642 (Increased Stack size)	Loading modmainpostinit.lua	
+[00:00:07]: Mod: workshop-374550642 (Increased Stack size)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:07]: Mod: workshop-569043634 (Campfire Respawn)	Loading modmainpostinit.lua	
+[00:00:07]: Mod: workshop-569043634 (Campfire Respawn)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:07]: Mod: workshop-458587300 (Fast Travel)	Loading modmainpostinit.lua	
+[00:00:07]: Mod: workshop-458587300 (Fast Travel)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:07]: Mod: workshop-501385076 (Quick Pick)	Loading modmainpostinit.lua	
+[00:00:07]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:07]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmainpostinit.lua	
+[00:00:07]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	Loading modmainpostinit.lua	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmainpostinit.lua	
+[00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modmainpostinit.lua. Skipping.	
 [00:00:08]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
 [00:00:08]: LOADING LUA SUCCESS
 [00:00:08]: Registering Server mod namespace "workshop-1207269058"
@@ -1164,10 +1164,10 @@ Process Memory:
 [00:00:20]: Could not preload undefined prefab (transmute_moonglass_charged)
 [00:00:20]: Could not preload undefined prefab (hermitshop_oceanfishingbobber_goose)
 [00:00:20]: Could not preload undefined prefab (hermitcrabtea_firenettles_1)
-[00:00:21]: Could not preload undefined prefab (transmute_beardhair)
-[00:00:21]: Could not preload undefined prefab (wagpunk_workstation_blueprint_moon_device_construction1)
-[00:00:21]: Could not preload undefined prefab (shellweaver_nonslipgrit)
-[00:00:21]: Could not preload undefined prefab (wurt_turf_marsh)
+[00:00:20]: Could not preload undefined prefab (transmute_beardhair)
+[00:00:20]: Could not preload undefined prefab (wagpunk_workstation_blueprint_moon_device_construction1)
+[00:00:20]: Could not preload undefined prefab (shellweaver_nonslipgrit)
+[00:00:20]: Could not preload undefined prefab (wurt_turf_marsh)
 [00:00:21]: Could not preload undefined prefab (carnival_popcorn)
 [00:00:21]: Could not preload undefined prefab (wanderingtradershop_cutreeds)
 [00:00:21]: Could not preload undefined prefab (wormwood_juicyberrybush)
@@ -1187,9 +1187,9 @@ Process Memory:
 [00:00:21]: Could not preload undefined prefab (transmute_poop)
 [00:00:21]: Could not preload undefined prefab (hermitshop_oceanfishingbobber_canary)
 [00:00:21]: Could not preload undefined prefab (transmute_meat)
-[00:00:22]: Could not preload undefined prefab (boards_bunch)
-[00:00:22]: Could not preload undefined prefab (wendy_gravestone)
-[00:00:22]: Could not preload undefined prefab (transmute_bluegem)
+[00:00:21]: Could not preload undefined prefab (boards_bunch)
+[00:00:21]: Could not preload undefined prefab (wendy_gravestone)
+[00:00:21]: Could not preload undefined prefab (transmute_bluegem)
 [00:00:22]: Could not preload undefined prefab (yotd_boatpatch_proxy)
 [00:00:22]: Could not preload undefined prefab (hermitshop_chum)
 [00:00:22]: Could not preload undefined prefab (wanderingtradershop_gears)
@@ -1213,8 +1213,8 @@ Process Memory:
 [00:00:22]: Could not preload undefined prefab (hermitshop_oceanfishinglure_hermit_heavy)
 [00:00:22]: Could not preload undefined prefab (transmute_smallmeat)
 [00:00:22]: Could not preload undefined prefab (shellweaver_salty_doghat)
-[00:00:23]: Could not preload undefined prefab (wormwood_reeds)
-[00:00:23]: Could not preload undefined prefab (transmute_moonrocknugget)
+[00:00:22]: Could not preload undefined prefab (wormwood_reeds)
+[00:00:22]: Could not preload undefined prefab (transmute_moonrocknugget)
 [00:00:23]: Could not preload undefined prefab (rabbitkingshop_hat_rabbit)
 [00:00:23]: Could not preload undefined prefab (wanderingtradershop_livinglog)
 [00:00:23]: Could not preload undefined prefab (hermitshop_winch_blueprint)
@@ -1230,12 +1230,12 @@ Process Memory:
 [00:00:23]: Could not preload undefined prefab (transmute_dreadstone)
 [00:00:23]: Could not preload undefined prefab (hermitcrabtea_tillweed_3)
 [00:00:23]: Could not preload undefined prefab (shellweaver_desiccantboosted)
-[00:00:24]: Could not preload undefined prefab (hermitshop_chum_blueprint)
-[00:00:24]: Could not preload undefined prefab (hermitshop_oceanfishingbobber_robin_winter)
-[00:00:24]: Could not preload undefined prefab (hermitcrabtea_tillweed_2)
-[00:00:24]: Could not preload undefined prefab (shellweaver_hermitcrab_shell)
-[00:00:24]: Could not preload undefined prefab (wendy_moonbutterfly)
-[00:00:24]: Could not preload undefined prefab (transmute_flint)
+[00:00:23]: Could not preload undefined prefab (hermitshop_chum_blueprint)
+[00:00:23]: Could not preload undefined prefab (hermitshop_oceanfishingbobber_robin_winter)
+[00:00:23]: Could not preload undefined prefab (hermitcrabtea_tillweed_2)
+[00:00:23]: Could not preload undefined prefab (shellweaver_hermitcrab_shell)
+[00:00:23]: Could not preload undefined prefab (wendy_moonbutterfly)
+[00:00:23]: Could not preload undefined prefab (transmute_flint)
 [00:00:24]: Could not preload undefined prefab (hermitcrabtea_forgetmelots_3)
 [00:00:24]: Could not preload undefined prefab (hermitcrabtea_petals_evil_3)
 [00:00:24]: Could not preload undefined prefab (transmute_boneshard)
@@ -1274,9 +1274,9 @@ Process Memory:
 [00:00:24]: Could not preload undefined prefab (hermitcrabtea_petals_3)
 [00:00:24]: Could not preload undefined prefab (shellweaver_nonslipgritboosted)
 [00:00:24]: Could not preload undefined prefab (shellweaver_icestaff2)
-[00:00:25]: Could not preload undefined prefab (carnival_gametoken_multiple)
-[00:00:25]: Could not preload undefined prefab (slingshot_frame_wagpunk_1)
-[00:00:25]: 	LOAD BE: done	
+[00:00:24]: Could not preload undefined prefab (carnival_gametoken_multiple)
+[00:00:24]: Could not preload undefined prefab (slingshot_frame_wagpunk_1)
+[00:00:24]: 	LOAD BE: done	
 [00:00:25]: Begin Session: 4D2451903C2A035F
 [00:00:25]: saving to server_temp/server_save	
 [00:00:25]: OVERRIDE: setting	healthpenalty	to	always	
@@ -1383,38 +1383,38 @@ Process Memory:
 [00:00:32]: 	...Validating connections	
 [00:00:32]: 	...Housekeeping	
 [00:00:32]: 	...Done!	
-[00:00:32]: 1 uploads added to server. From server_temp
-[00:00:32]: About to start a shard with these settings:
-[00:00:32]:   ShardName: Master
-[00:00:32]:   ShardID: 1
-[00:00:32]:   ShardRole: MASTER
-[00:00:32]:   MasterHost: (null)
-[00:00:32]:   MasterBind: 127.0.0.1
-[00:00:32]:   MasterPort: 10888
-[00:00:32]: [Shard] Starting master server
-[00:00:32]: [Warning] Could not confirm port 10888 is open in the firewall. 
-[00:00:32]: [Shard] Shard server started on port: 10888
-[00:00:32]: [IPC] Signal 'DST_Master_Ready' opened  #0000000000000B18
-[00:00:32]: [IPC] Sending signal... #0000000000000B18
-[00:00:32]: Telling Client our new session identifier: 4D2451903C2A035F
-[00:00:32]: Check for write access: TRUE
-[00:00:32]: Check for read access: TRUE
-[00:00:32]: Available disk space for save files: 127153 MB
-[00:00:32]: ModIndex: Load sequence finished successfully.	
-[00:00:32]: Reset() returning
-[00:00:33]: Validating portal[10] <-> 2673340608[10] (inactive)	
+[00:00:33]: 1 uploads added to server. From server_temp
+[00:00:33]: About to start a shard with these settings:
+[00:00:33]:   ShardName: Master
+[00:00:33]:   ShardID: 1
+[00:00:33]:   ShardRole: MASTER
+[00:00:33]:   MasterHost: (null)
+[00:00:33]:   MasterBind: 127.0.0.1
+[00:00:33]:   MasterPort: 10888
+[00:00:33]: [Shard] Starting master server
+[00:00:33]: [Warning] Could not confirm port 10888 is open in the firewall. 
+[00:00:33]: [Shard] Shard server started on port: 10888
+[00:00:33]: [IPC] Signal 'DST_Master_Ready' opened  #00000000000009EC
+[00:00:33]: [IPC] Sending signal... #00000000000009EC
+[00:00:33]: Telling Client our new session identifier: 4D2451903C2A035F
+[00:00:33]: Check for write access: TRUE
+[00:00:33]: Check for read access: TRUE
+[00:00:33]: Available disk space for save files: 128299 MB
+[00:00:33]: ModIndex: Load sequence finished successfully.	
+[00:00:33]: Reset() returning
 [00:00:33]: Validating portal[8] <-> 2673340608[8] (inactive)	
 [00:00:33]: Validating portal[5] <-> 2673340608[5] (inactive)	
-[00:00:33]: Validating portal[6] <-> 2673340608[6] (inactive)	
-[00:00:33]: Validating portal[oceanwhirlbigportal] <-> 2673340608[oceanwhirlbigportal] (inactive)	
-[00:00:33]: Validating portal[3] <-> 2673340608[3] (inactive)	
-[00:00:33]: Validating portal[1] <-> 2673340608[1] (inactive)	
-[00:00:33]: Validating portal[7] <-> 2673340608[7] (inactive)	
-[00:00:33]: Validating portal[4] <-> 2673340608[4] (inactive)	
 [00:00:33]: Validating portal[2] <-> 2673340608[2] (inactive)	
-[00:00:33]: Validating portal[9] <-> 2673340608[9] (inactive)	
-[00:00:33]: Server registered via geo DNS in ap-east-1
-[00:00:33]: Sim paused
+[00:00:33]: Validating portal[3] <-> 2673340608[3] (inactive)	
+[00:00:34]: Validating portal[1] <-> 2673340608[1] (inactive)	
+[00:00:34]: Validating portal[9] <-> 2673340608[9] (inactive)	
+[00:00:34]: Validating portal[7] <-> 2673340608[7] (inactive)	
+[00:00:34]: Validating portal[10] <-> 2673340608[10] (inactive)	
+[00:00:34]: Validating portal[4] <-> 2673340608[4] (inactive)	
+[00:00:34]: Validating portal[6] <-> 2673340608[6] (inactive)	
+[00:00:34]: Validating portal[oceanwhirlbigportal] <-> 2673340608[oceanwhirlbigportal] (inactive)	
+[00:00:34]: Server registered via geo DNS in ap-east-1
+[00:00:34]: Sim paused
 [00:00:34]: [Shard] Secondary shard Caves(2673340608) connected: [LAN] 127.0.0.1
 [00:00:35]: [Shard] Secondary Caves(2673340608) ready!
 [00:00:35]: World 2673340608(Caves) is now connected	
@@ -1433,17 +1433,17 @@ Process Memory:
 [00:00:35]: [SyncWorldSettings] Sending master world option basicresource_regrowth = none to secondary shards.	
 [00:00:35]: [SyncWorldSettings] Sending master world option krampus = default to secondary shards.	
 [00:00:35]: [SyncWorldSettings] Sending master world option dropeverythingondespawn = default to secondary shards.	
-[00:00:35]: Validating portal[10] <-> 2673340608[10] (disabled)	
 [00:00:35]: Validating portal[8] <-> 2673340608[8] (disabled)	
 [00:00:35]: Validating portal[5] <-> 2673340608[5] (disabled)	
-[00:00:35]: Validating portal[6] <-> 2673340608[6] (disabled)	
-[00:00:35]: Validating portal[oceanwhirlbigportal] <-> 2673340608[oceanwhirlbigportal] (active)	
+[00:00:35]: Validating portal[2] <-> 2673340608[2] (disabled)	
 [00:00:35]: Validating portal[3] <-> 2673340608[3] (disabled)	
 [00:00:35]: Validating portal[1] <-> 2673340608[1] (disabled)	
-[00:00:35]: Validating portal[7] <-> 2673340608[7] (disabled)	
-[00:00:35]: Validating portal[4] <-> 2673340608[4] (disabled)	
-[00:00:35]: Validating portal[2] <-> 2673340608[2] (disabled)	
 [00:00:35]: Validating portal[9] <-> 2673340608[9] (disabled)	
+[00:00:35]: Validating portal[7] <-> 2673340608[7] (disabled)	
+[00:00:35]: Validating portal[10] <-> 2673340608[10] (disabled)	
+[00:00:35]: Validating portal[4] <-> 2673340608[4] (disabled)	
+[00:00:35]: Validating portal[6] <-> 2673340608[6] (disabled)	
+[00:00:35]: Validating portal[oceanwhirlbigportal] <-> 2673340608[oceanwhirlbigportal] (active)	
 [00:00:35]: [SyncWorldSettings] Resyncing master world option ghostsanitydrain = always to secondary shards.	
 [00:00:35]: [SyncWorldSettings] Resyncing master world option darkness = default to secondary shards.	
 [00:00:35]: [SyncWorldSettings] Resyncing master world option resettime = default to secondary shards.	
@@ -1459,85 +1459,86 @@ Process Memory:
 [00:00:35]: [SyncWorldSettings] Resyncing master world option basicresource_regrowth = none to secondary shards.	
 [00:00:35]: [SyncWorldSettings] Resyncing master world option krampus = default to secondary shards.	
 [00:00:35]: [SyncWorldSettings] Resyncing master world option dropeverythingondespawn = default to secondary shards.	
-[00:00:36]: New incoming connection 127.0.0.1|64966 <7604895011672167973>
-[00:00:36]: Client connected from [LAN] 127.0.0.1|64966 <7604895011672167973>
-[00:00:36]: [ClientObject] Added (pre-auth) on server: guid=7604895011672167973
-[00:00:36]: ValidateGameSessionToken GUID<7604895011672167973>
+[00:00:37]: New incoming connection 127.0.0.1|60191 <8276886880362270860>
+[00:00:37]: Client connected from [LAN] 127.0.0.1|60191 <8276886880362270860>
+[00:00:37]: [ClientObject] Added (pre-auth) on server: guid=8276886880362270860
+[00:00:37]: ValidateGameSessionToken GUID<8276886880362270860>
 [00:00:37]: Client authenticated: (KU_stiTW-Ay) Apache Spark
 [00:00:37]: [Steam] Authenticated host '76561198172760737'
 [00:00:40]: There is no active event to validate against.
 [00:00:40]: [Shard] Read save location file for (KU_stiTW-Ay)
-[00:00:40]: [ClientObject] Initialized (authenticated) on server: guid=7604895011672167973 userid=KU_stiTW-Ay netid=76561198172760737 admin=1
+[00:00:40]: [ClientObject] Initialized (authenticated) on server: guid=8276886880362270860 userid=KU_stiTW-Ay netid=76561198172760737 admin=1
 [00:01:14]: Resuming user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000009
-[00:01:14]: User ID	KU_stiTW-Ay	assigned ownership to entity	116462 - waxwell	
+[00:01:14]: User ID	KU_stiTW-Ay	assigned ownership to entity	116451 - waxwell	
 [00:01:14]: Spawning player at: [Load] (-54.81, 0.00, -441.61)	
 [00:01:14]: Sim unpaused
-[00:01:37]: Server Autopaused	
-[00:01:41]: Server Unpaused	
-[00:02:53]: Server Autopaused	
-[00:05:12]: Server Unpaused	
-[00:05:15]: Server Autopaused	
-[00:05:17]: Server Unpaused	
-[00:05:29]: Available disk space for save files: 127148 MB
-[00:05:29]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000010
-[00:05:29]: Serializing world: session/4D2451903C2A035F/0000000010
-[00:05:34]: Server Autopaused	
-[00:06:16]: Server Unpaused	
-[00:07:23]: Server Autopaused	
-[00:07:26]: Server Unpaused	
-[00:08:03]: Server Autopaused	
-[00:08:04]: Server Unpaused	
-[00:08:53]: Server Autopaused	
-[00:08:53]: Server Unpaused	
-[00:09:03]: Server Autopaused	
-[00:09:06]: Server Unpaused	
-[00:09:32]: Server Autopaused	
-[00:09:33]: Server Unpaused	
-[00:09:39]: Server Autopaused	
-[00:09:40]: Server Unpaused	
-[00:09:47]: Server Autopaused	
-[00:09:48]: Server Unpaused	
-[00:11:25]: Server Autopaused	
-[00:11:31]: Server Unpaused	
-[00:11:41]: Server Autopaused	
-[00:11:55]: Server Unpaused	
-[00:12:56]: Server Autopaused	
-[00:12:56]: Server Unpaused	
-[00:12:57]: Server Autopaused	
-[00:12:58]: Server Unpaused	
-[00:14:02]: Server Autopaused	
-[00:14:03]: Server Unpaused	
-[00:14:44]: Available disk space for save files: 127145 MB
-[00:14:45]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000011
-[00:14:45]: Serializing world: session/4D2451903C2A035F/0000000011
-[00:16:37]: Could not find anim [death] in bank [ghost]
-[00:16:37]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000012
-[00:16:37]: Start world reset countdown... 120 seconds...	
-[00:16:39]: Could not find anim [idle_loop] in bank [ghost]
-[00:16:39]: Stop world reset countdown	
-[00:16:41]: Could not find anim [transform] in bank [wilson]
-[00:16:43]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000012
-[00:17:16]: Server Autopaused	
-[00:17:19]: Server Unpaused	
-[00:17:20]: [Steam] SendUserDisconnect for '76561198172760737'
-[00:17:20]: [Shard] (KU_stiTW-Ay) disconnected from Master(1)
-[00:17:20]: [IPC] Received shutdown signal.
-[00:17:20]: Available disk space for save files: 127137 MB
-[00:17:21]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000012
-[00:17:21]: Serializing world: session/4D2451903C2A035F/0000000012
-[00:17:21]: Removing server from lobby
-[00:17:21]: [Shard] Stopping shard mode
-[00:17:21]: [Steam] SendUserDisconnect for ''
-[00:17:21]: Collecting garbage...
-[00:17:21]: lua_gc took 0.27 seconds
-[00:17:21]: ~ShardLuaProxy()
-[00:17:21]: ~cEventLeaderboardProxy()
-[00:17:21]: ~ItemServerLuaProxy()
-[00:17:21]: ~InventoryLuaProxy()
-[00:17:21]: ~NetworkLuaProxy()
-[00:17:21]: ~SimLuaProxy()
-[00:17:21]: Cancelling LuaQueryCallback handle [14]
-[00:17:22]: lua_close took 0.39 seconds
-[00:17:22]: CurlRequestManager::ClientThread::Main() complete
-[00:17:22]: HttpClient2 discarded 0 callbacks.
-[00:17:22]: Shutting down
+[00:01:38]: Server Autopaused	
+[00:01:40]: Server Unpaused	
+[00:01:51]: Server Autopaused	
+[00:01:52]: Server Unpaused	
+[00:02:47]: Server Autopaused	
+[00:02:49]: Server Unpaused	
+[00:03:03]: Server Autopaused	
+[00:03:05]: Server Unpaused	
+[00:03:11]: Available disk space for save files: 128299 MB
+[00:03:11]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000010
+[00:03:11]: Serializing world: session/4D2451903C2A035F/0000000010
+[00:04:19]: Server Autopaused	
+[00:04:20]: Server Unpaused	
+[00:04:54]: Server Autopaused	
+[00:04:55]: Server Unpaused	
+[00:06:38]: Server Autopaused	
+[00:06:39]: Server Unpaused	
+[00:06:42]: Server Autopaused	
+[00:06:45]: Server Unpaused	
+[00:07:09]: Server Autopaused	
+[00:07:12]: Server Unpaused	
+[00:07:29]: Server Autopaused	
+[00:07:37]: Server Unpaused	
+[00:07:48]: Server Autopaused	
+[00:07:50]: Server Unpaused	
+[00:08:21]: Server Autopaused	
+[00:08:26]: Server Unpaused	
+[00:10:26]: Server Autopaused	
+[00:10:27]: Server Unpaused	
+[00:10:34]: Server Autopaused	
+[00:10:51]: Server Unpaused	
+[00:11:35]: Server Autopaused	
+[00:11:36]: Server Unpaused	
+[00:11:54]: Available disk space for save files: 128297 MB
+[00:11:54]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000011
+[00:11:55]: Serializing world: session/4D2451903C2A035F/0000000011
+[00:13:06]: Server Autopaused	
+[00:13:06]: Server Unpaused	
+[00:13:06]: Server Autopaused	
+[00:13:11]: Server Unpaused	
+[00:13:12]: [Steam] SendUserDisconnect for '76561198172760737'
+[00:13:12]: [Shard] (KU_stiTW-Ay) disconnected from Master(1)
+[00:13:12]: [IPC] Received shutdown signal.
+[00:13:12]: Available disk space for save files: 128293 MB
+[00:13:12]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000012
+[00:13:12]: Serializing world: session/4D2451903C2A035F/0000000012
+[00:13:12]: Truncating to snapshot #12...
+[00:13:12]:  - session/4D2451903C2A035F/0000000004
+[00:13:12]:  - session/4D2451903C2A035F/0000000005
+[00:13:12]:  - session/4D2451903C2A035F/0000000006
+[00:13:12]:  - session/4D2451903C2A035F/A7MRFCEO7OLS/0000000006
+[00:13:12]:  - session/4D2451903C2A035F/A7MRFCEO7OLS/0000000005
+[00:13:12]:  - session/4D2451903C2A035F/A7MRFCEO7OLS/0000000004
+[00:13:12]:    6 file(s) removed
+[00:13:12]: Removing server from lobby
+[00:13:12]: [Shard] Stopping shard mode
+[00:13:12]: [Steam] SendUserDisconnect for ''
+[00:13:13]: Collecting garbage...
+[00:13:13]: lua_gc took 0.31 seconds
+[00:13:13]: ~ShardLuaProxy()
+[00:13:13]: ~cEventLeaderboardProxy()
+[00:13:13]: ~ItemServerLuaProxy()
+[00:13:13]: ~InventoryLuaProxy()
+[00:13:13]: ~NetworkLuaProxy()
+[00:13:13]: ~SimLuaProxy()
+[00:13:13]: Cancelling LuaQueryCallback handle [13]
+[00:13:13]: lua_close took 0.38 seconds
+[00:13:14]: CurlRequestManager::ClientThread::Main() complete
+[00:13:14]: HttpClient2 discarded 0 callbacks.
+[00:13:14]: Shutting down
