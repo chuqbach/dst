@@ -1,8 +1,2 @@
-[00:01:00]: [Join Announcement] Apache Spark
-[00:03:38]: [Vote Announcement] regenerateidentical passed
-[00:04:11]: [Vote Announcement] regenerateidentical passed
-[00:46:03]: [Vote Announcement] rollback passed
-[00:46:05]: [Death Announcement] Apache Spark was killed by Pig Man. He became a spooky ghost!
-[00:49:47]: [Vote Announcement] rollback passed
-[00:49:52]: [Death Announcement] Apache Spark was killed by Pig Man. He became a spooky ghost!
-[01:13:06]: [Leave Announcement] Apache Spark
+[00:00:57]: [Join Announcement] Apache Spark
+[00:13:11]: [Leave Announcement] Apache Spark
