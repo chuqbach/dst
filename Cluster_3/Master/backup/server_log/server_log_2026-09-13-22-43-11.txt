@@ -1,8 +1,8 @@
 [00:00:00]: 
 System Memory:
-	Memory Load: 22%
-	Available Physical Memory: 37903m/49058m
-	Available Page File: 37604m/52130m
+	Memory Load: 20%
+	Available Physical Memory: 39204m/49058m
+	Available Page File: 39195m/52130m
 	Available Virtual Memory: 134213474m/134217727m
 	Available Extended Virtual Memory: 0m
 [00:00:00]: 
@@ -18,22 +18,22 @@ Process Memory:
 [00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/212495009/Cluster_3/Master/ 
 [00:00:00]: Starting Up
 [00:00:00]: Version: 747465
-[00:00:00]: Current time: Sun Sep 13 22:43:11 2026
+[00:00:00]: Current time: Sun Sep 13 20:29:34 2026
 
 [00:00:00]: Don't Starve Together: 747465 WIN32
 [00:00:00]: Build Date: 4239
 [00:00:00]: Mode: 64-bit
 [00:00:00]: Parsing command line
-[00:00:00]: Command Line Arguments: -monitor_parent_process 11512 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_3 -ownernetid 76561198172760737 -ownerdir 212495009 -clouddir 212495009 -backup_log_count 25 -backup_log_period 0 -ugc_directory F:\\SteamLibrary\\steamapps\\workshop -shard Master -secondary_log_prefix master -sigprefix DST_Master -token ************************************************************************************ 
+[00:00:00]: Command Line Arguments: -monitor_parent_process 26436 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_3 -ownernetid 76561198172760737 -ownerdir 212495009 -clouddir 212495009 -backup_log_count 25 -backup_log_period 0 -ugc_directory F:\\SteamLibrary\\steamapps\\workshop -shard Master -secondary_log_prefix master -sigprefix DST_Master -token ************************************************************************************ 
 [00:00:00]: Initializing distribution platform
 [00:00:00]: Initializing Minidump handler
 [00:00:00]: ....Done
 [00:00:00]: ....Done
 [00:00:00]: Fixing DPI
 [00:00:00]: ...Done
-[00:00:00]: THREAD - started 'GAClient' (23284)
+[00:00:00]: THREAD - started 'GAClient' (23792)
 [00:00:00]: CurlRequestManager::ClientThread::Main()
-[00:00:00]: ProfileIndex:0.50
+[00:00:00]: ProfileIndex:0.51
 [00:00:00]: Mounting file system databundles/klump.zip successful.
 [00:00:00]: Mounting file system databundles/shaders.zip successful.
 [00:00:00]: Mounting file system databundles/fonts.zip successful.
@@ -50,8 +50,8 @@ Process Memory:
 [00:00:00]: Authorized application F:\SteamLibrary\steamapps\common\Don't Starve Together\bin64\dontstarve_dedicated_server_nullrenderer_x64.exe is enabled in the firewall.
 [00:00:00]: WindowsFirewall - Application already authorized
 [00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/212495009/client_save/blocklist.txt (Failure)
-[00:00:00]: THREAD - started 'StreamInput' (27120)
 [00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/212495009/client_save/adminlist.txt (Failure)
+[00:00:00]: THREAD - started 'StreamInput' (14604)
 [00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/212495009/client_save/whitelist.txt (Failure)
 [00:00:00]: Offline user ID: OU_76561198172760737
 [00:00:00]: HardwareStats:
@@ -453,23 +453,23 @@ Process Memory:
 [00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
 [00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
 [00:00:05]: 	Load FE	
-[00:00:05]: 	Load FE: done	
-[00:00:05]: THREAD - started 'FilesExistAsyncThread' (27084)
-[00:00:05]: FilesExistAsyncThread started (0 files)...
-[00:00:05]: ... FilesExistAsyncThread complete
-[00:00:05]: Check for write access: TRUE
-[00:00:05]: Check for read access: TRUE
-[00:00:05]: Available disk space for save files: 127402 MB
-[00:00:05]: ModIndex: Load sequence finished successfully.	
-[00:00:05]: Reset() returning
-[00:00:05]: [IPC] Signal 'DST_Master_Kill' opened  #00000000000006D4
-[00:00:05]: [IPC] Registering handler for signal #00000000000006D4
-[00:00:05]: [IPC] Handle #00000000000006D4 added to the Eventhandles
-[00:00:05]: [IPC] Signal 'DST_Master_ShutdownNoSave' opened  #0000000000000A48
-[00:00:05]: [IPC] Registering handler for signal #0000000000000A48
-[00:00:05]: [IPC] Handle #0000000000000A48 added to the Eventhandles
-[00:00:05]: [IPC] Signal 'DST_Master_Starting' opened  #0000000000000A64
-[00:00:05]: [IPC] Sending signal... #0000000000000A64
+[00:00:06]: 	Load FE: done	
+[00:00:06]: THREAD - started 'FilesExistAsyncThread' (19144)
+[00:00:06]: FilesExistAsyncThread started (0 files)...
+[00:00:06]: ... FilesExistAsyncThread complete
+[00:00:06]: Check for write access: TRUE
+[00:00:06]: Check for read access: TRUE
+[00:00:06]: Available disk space for save files: 127445 MB
+[00:00:06]: ModIndex: Load sequence finished successfully.	
+[00:00:06]: Reset() returning
+[00:00:06]: [IPC] Signal 'DST_Master_Kill' opened  #0000000000000A74
+[00:00:06]: [IPC] Registering handler for signal #0000000000000A74
+[00:00:06]: [IPC] Handle #0000000000000A74 added to the Eventhandles
+[00:00:06]: [IPC] Signal 'DST_Master_ShutdownNoSave' opened  #0000000000000A78
+[00:00:06]: [IPC] Registering handler for signal #0000000000000A78
+[00:00:06]: [IPC] Handle #0000000000000A78 added to the Eventhandles
+[00:00:06]: [IPC] Signal 'DST_Master_Starting' opened  #0000000000000A00
+[00:00:06]: [IPC] Sending signal... #0000000000000A00
 [00:00:06]: [200] Account Communication Success (6)
 [00:00:06]: Cached userid (null) saved to APP:Klei//DoNotStarveTogether/212495009/Cluster_3/Master/save/cached_userid
 [00:00:06]: Received (KU_stiTW-Ay) from TokenPurpose
@@ -525,8 +525,8 @@ Process Memory:
 [00:00:06]: SUCCESS: Loaded modoverrides.lua	
 [00:00:06]: Could not load mod_config_data/modconfiguration_workshop-3075429483	
 [00:00:06]: Online Server Started on port: 10999
-[00:00:06]: [ClientObject] Added (pre-auth) on server: guid=1182591499520986188
-[00:00:06]: [ClientObject] Initialized (self/server object, locally trusted) on server: guid=1182591499520986188 userid=KU_stiTW-Ay netid= admin=1
+[00:00:06]: [ClientObject] Added (pre-auth) on server: guid=7616290214190807425
+[00:00:06]: [ClientObject] Initialized (self/server object, locally trusted) on server: guid=7616290214190807425 userid=KU_stiTW-Ay netid= admin=1
 [00:00:06]: SUCCESS: Loaded modoverrides.lua	
 [00:00:06]: Found a level data override file with these contents:	
 [00:00:06]: 	K: 	desc	 V: 	The standard Don't Starve experience.	
@@ -538,7 +538,7 @@ Process Memory:
 [00:00:06]: 	K: 	name	 V: 	Survival	
 [00:00:06]: 	K: 	numrandom_set_pieces	 V: 	4	
 [00:00:06]: 	K: 	override_level_string	 V: 	false	
-[00:00:06]: 	K: 	overrides	 V: 	table: 00000000189C3A30	
+[00:00:06]: 	K: 	overrides	 V: 	table: 0000000018BA0BF0	
 [00:00:06]: 		K: 	alternatehunt	 V: 	default	
 [00:00:06]: 		K: 	angrybees	 V: 	default	
 [00:00:06]: 		K: 	antliontribute	 V: 	default	
@@ -737,7 +737,7 @@ Process Memory:
 [00:00:06]: 		K: 	year_of_the_snake	 V: 	default	
 [00:00:06]: 		K: 	year_of_the_varg	 V: 	default	
 [00:00:06]: 	K: 	playstyle	 V: 	survival	
-[00:00:06]: 	K: 	random_set_pieces	 V: 	table: 00000000189C33A0	
+[00:00:06]: 	K: 	random_set_pieces	 V: 	table: 0000000018BA1320	
 [00:00:06]: 		K: 	1	 V: 	Sculptures_2	
 [00:00:06]: 		K: 	2	 V: 	Sculptures_3	
 [00:00:06]: 		K: 	3	 V: 	Sculptures_4	
@@ -757,15 +757,15 @@ Process Memory:
 [00:00:06]: 		K: 	17	 V: 	Warzone_1	
 [00:00:06]: 		K: 	18	 V: 	Warzone_2	
 [00:00:06]: 		K: 	19	 V: 	Warzone_3	
-[00:00:06]: 	K: 	required_prefabs	 V: 	table: 00000000189C2DB0	
+[00:00:06]: 	K: 	required_prefabs	 V: 	table: 0000000018BA0DD0	
 [00:00:06]: 		K: 	1	 V: 	multiplayer_portal	
-[00:00:06]: 	K: 	required_setpieces	 V: 	table: 00000000189C36C0	
+[00:00:06]: 	K: 	required_setpieces	 V: 	table: 0000000018BA06A0	
 [00:00:06]: 		K: 	1	 V: 	Sculptures_1	
 [00:00:06]: 		K: 	2	 V: 	Maxwell5	
 [00:00:06]: 	K: 	settings_desc	 V: 	The standard Don't Starve experience.	
 [00:00:06]: 	K: 	settings_id	 V: 	SURVIVAL_TOGETHER	
 [00:00:06]: 	K: 	settings_name	 V: 	Survival	
-[00:00:06]: 	K: 	substitutes	 V: 	table: 00000000189C2BD0	
+[00:00:06]: 	K: 	substitutes	 V: 	table: 0000000018BA02E0	
 [00:00:06]: 	K: 	version	 V: 	4	
 [00:00:06]: 	K: 	worldgen_desc	 V: 	The standard Don't Starve experience.	
 [00:00:06]: 	K: 	worldgen_id	 V: 	SURVIVAL_TOGETHER	
@@ -781,7 +781,7 @@ Process Memory:
 [00:00:06]: ~InventoryLuaProxy()
 [00:00:06]: ~NetworkLuaProxy()
 [00:00:06]: ~SimLuaProxy()
-[00:00:06]: lua_close took 0.08 seconds
+[00:00:06]: lua_close took 0.09 seconds
 [00:00:06]: ReleaseAll
 [00:00:06]: ReleaseAll Finished
 [00:00:06]: cGame::StartPlaying
@@ -1103,7 +1103,7 @@ Process Memory:
 [00:00:08]: bloom_enabled	true	
 [00:00:08]: OnFilesLoaded()	
 [00:00:08]: OnUpdatePurchaseStateComplete	
-[00:00:08]: Loading world: session/4D2451903C2A035F/0000000024	
+[00:00:08]: Loading world: session/4D2451903C2A035F/0000000016	
 [00:00:08]: Save file is at version 5.23	
 [00:00:08]: Klump load on boot started.	
 [00:00:08]: Klump files loaded: 	0	
@@ -1170,7 +1170,7 @@ Process Memory:
 [00:00:20]: Could not preload undefined prefab (wurt_turf_marsh)
 [00:00:20]: Could not preload undefined prefab (carnival_popcorn)
 [00:00:20]: Could not preload undefined prefab (wanderingtradershop_cutreeds)
-[00:00:20]: Could not preload undefined prefab (wormwood_juicyberrybush)
+[00:00:21]: Could not preload undefined prefab (wormwood_juicyberrybush)
 [00:00:21]: Could not preload undefined prefab (wagpunk_workstation_security_pulse_cage)
 [00:00:21]: Could not preload undefined prefab (transmute_orangegem)
 [00:00:21]: Could not preload undefined prefab (hermitshop_winter_ornament_boss_pearl)
@@ -1220,7 +1220,7 @@ Process Memory:
 [00:00:22]: Could not preload undefined prefab (hermitshop_winch_blueprint)
 [00:00:22]: Could not preload undefined prefab (hermitcrabtea_succulent_picked_2)
 [00:00:22]: Could not preload undefined prefab (yotc_shrinecarrat)
-[00:00:22]: Could not preload undefined prefab (shellweaver_desiccant)
+[00:00:23]: Could not preload undefined prefab (shellweaver_desiccant)
 [00:00:23]: Could not preload undefined prefab (hermitshop_oceanfishinglure_hermit_rain)
 [00:00:23]: Could not preload undefined prefab (hermitcrabtea_succulent_picked_3)
 [00:00:23]: Could not preload undefined prefab (hermitshop_oceanfishingbobber_malbatross)
@@ -1239,17 +1239,17 @@ Process Memory:
 [00:00:23]: Could not preload undefined prefab (hermitcrabtea_forgetmelots_3)
 [00:00:23]: Could not preload undefined prefab (hermitcrabtea_petals_evil_3)
 [00:00:23]: Could not preload undefined prefab (transmute_boneshard)
-[00:00:23]: Could not preload undefined prefab (hermitshop_oceanfishingbobber_crow)
-[00:00:23]: Could not preload undefined prefab (hermitshop_oceanfishinglure_hermit_drowsy)
-[00:00:23]: Could not preload undefined prefab (hermitcrabtea_moon_tree_blossom_3)
-[00:00:23]: Could not preload undefined prefab (wormwood_berrybush2)
-[00:00:23]: Could not preload undefined prefab (hermitshop_oceanfishinglure_hermit_snow)
-[00:00:23]: Could not preload undefined prefab (hermitcrabtea_firenettles_3)
-[00:00:23]: Could not preload undefined prefab (shellweaver_messagebottleempty)
-[00:00:23]: Could not preload undefined prefab (hermitcrabtea_firenettles_2)
-[00:00:23]: Could not preload undefined prefab (hermitcrabtea_petals_2)
-[00:00:23]: Could not preload undefined prefab (hermitcrabtea_moon_tree_blossom_1)
-[00:00:23]: Could not preload undefined prefab (hermitcrabtea_succulent_picked_1)
+[00:00:24]: Could not preload undefined prefab (hermitshop_oceanfishingbobber_crow)
+[00:00:24]: Could not preload undefined prefab (hermitshop_oceanfishinglure_hermit_drowsy)
+[00:00:24]: Could not preload undefined prefab (hermitcrabtea_moon_tree_blossom_3)
+[00:00:24]: Could not preload undefined prefab (wormwood_berrybush2)
+[00:00:24]: Could not preload undefined prefab (hermitshop_oceanfishinglure_hermit_snow)
+[00:00:24]: Could not preload undefined prefab (hermitcrabtea_firenettles_3)
+[00:00:24]: Could not preload undefined prefab (shellweaver_messagebottleempty)
+[00:00:24]: Could not preload undefined prefab (hermitcrabtea_firenettles_2)
+[00:00:24]: Could not preload undefined prefab (hermitcrabtea_petals_2)
+[00:00:24]: Could not preload undefined prefab (hermitcrabtea_moon_tree_blossom_1)
+[00:00:24]: Could not preload undefined prefab (hermitcrabtea_succulent_picked_1)
 [00:00:24]: Could not preload undefined prefab (hermitcrabtea_petals_1)
 [00:00:24]: Could not preload undefined prefab (transmute_purebrilliance)
 [00:00:24]: Could not preload undefined prefab (transmute_houndstooth)
@@ -1275,10 +1275,10 @@ Process Memory:
 [00:00:24]: Could not preload undefined prefab (shellweaver_nonslipgritboosted)
 [00:00:24]: Could not preload undefined prefab (shellweaver_icestaff2)
 [00:00:24]: Could not preload undefined prefab (carnival_gametoken_multiple)
-[00:00:24]: Could not preload undefined prefab (slingshot_frame_wagpunk_1)
-[00:00:24]: 	LOAD BE: done	
-[00:00:24]: Begin Session: 4D2451903C2A035F
-[00:00:24]: saving to server_temp/server_save	
+[00:00:25]: Could not preload undefined prefab (slingshot_frame_wagpunk_1)
+[00:00:25]: 	LOAD BE: done	
+[00:00:25]: Begin Session: 4D2451903C2A035F
+[00:00:25]: saving to server_temp/server_save	
 [00:00:25]: OVERRIDE: setting	healthpenalty	to	always	
 [00:00:25]: OVERRIDE: setting	wanderingtrader_enabled	to	always	
 [00:00:25]: OVERRIDE: setting	lessdamagetaken	to	none	
@@ -1317,12 +1317,12 @@ Process Memory:
 [00:00:26]: Loading Nav Grid	
 [00:00:26]: World generated on build 747465 with save version: 5.23, using seed: 1542063096	
 [00:00:26]: setting 	summerlength	15	
-[00:00:26]: setting 	cavemoonphase	quarter	
+[00:00:26]: setting 	cavemoonphase	threequarter	
 [00:00:26]: setting 	iscavefullmoon	false	
 [00:00:26]: setting 	isnightmaredawn	false	
-[00:00:26]: setting 	elapseddaysinseason	19	
+[00:00:26]: setting 	elapseddaysinseason	11	
 [00:00:26]: setting 	isfullmoon	false	
-[00:00:26]: setting 	moisture	3833.8283691406	
+[00:00:26]: setting 	moisture	1360.1362304688	
 [00:00:26]: setting 	springlength	20	
 [00:00:26]: setting 	islunarhailing	false	
 [00:00:26]: setting 	isnightmarewild	false	
@@ -1334,261 +1334,295 @@ Process Memory:
 [00:00:26]: setting 	iscavewaxingmoon	false	
 [00:00:26]: setting 	iswinter	false	
 [00:00:26]: setting 	isnightmarewarn	false	
-[00:00:26]: setting 	cavephase	day	
-[00:00:26]: setting 	temperature	5.2705554878422	
+[00:00:26]: setting 	cavephase	dusk	
+[00:00:26]: setting 	temperature	16.734792825032	
 [00:00:26]: setting 	isacidraining	false	
 [00:00:26]: setting 	lunarhailrate	0	
 [00:00:26]: setting 	season	autumn	
 [00:00:26]: setting 	wetness	0	
-[00:00:26]: setting 	timeinphase	0.0048477172851562	
-[00:00:26]: setting 	iscaveday	true	
+[00:00:26]: setting 	timeinphase	0.8184935675727	
+[00:00:26]: setting 	iscaveday	false	
 [00:00:26]: setting 	moistureceil	6449.8706054688	
-[00:00:26]: setting 	isday	true	
+[00:00:26]: setting 	isday	false	
 [00:00:26]: setting 	winterlength	15	
-[00:00:26]: setting 	remainingdaysinseason	1	
+[00:00:26]: setting 	remainingdaysinseason	9	
 [00:00:26]: setting 	issnowcovered	false	
 [00:00:26]: setting 	isalterawake	false	
 [00:00:26]: setting 	isnightmarecalm	false	
 [00:00:26]: setting 	isnight	false	
-[00:00:26]: setting 	isdusk	false	
+[00:00:26]: setting 	isdusk	true	
 [00:00:26]: setting 	isspring	false	
 [00:00:26]: setting 	isautumn	true	
 [00:00:26]: setting 	issnowing	false	
 [00:00:26]: setting 	lunarhaillevel	0	
-[00:00:26]: setting 	pop	0.57110307761442	
+[00:00:26]: setting 	pop	0.16554427949084	
 [00:00:26]: setting 	snowlevel	0	
 [00:00:26]: setting 	iswaxingmoon	false	
 [00:00:26]: setting 	autumnlength	20	
-[00:00:26]: setting 	phase	day	
+[00:00:26]: setting 	phase	dusk	
 [00:00:26]: setting 	nightmaretime	0	
-[00:00:26]: setting 	iscavedusk	false	
-[00:00:26]: setting 	cycles	19	
+[00:00:26]: setting 	iscavedusk	true	
+[00:00:26]: setting 	cycles	11	
 [00:00:26]: setting 	nightmarephase	none	
-[00:00:26]: setting 	seasonprogress	0.975	
-[00:00:26]: setting 	moonphase	quarter	
+[00:00:26]: setting 	seasonprogress	0.775	
+[00:00:26]: setting 	moonphase	threequarter	
 [00:00:26]: setting 	iscavenight	false	
 [00:00:26]: setting 	iscavenewmoon	false	
 [00:00:26]: setting 	issummer	false	
 [00:00:26]: setting 	precipitation	none	
-[00:00:26]: setting 	time	0.0021208763122558	
+[00:00:26]: setting 	time	0.74443508783976	
 [00:00:26]: OVERRIDE: setting	ghostenabled	to	always	
 [00:00:26]: OVERRIDE: setting	basicresource_regrowth	to	none	
 [00:00:26]: OVERRIDE: setting	portalresurection	to	none	
 [00:00:26]: OVERRIDE: setting	spawnmode	to	fixed	
 [00:00:26]: OVERRIDE: setting	ghostsanitydrain	to	always	
-[00:00:33]: Reconstructing topology	
-[00:00:33]: 	...Sorting points	
-[00:00:33]: 	...Sorting edges	
-[00:00:33]: 	...Connecting nodes	
-[00:00:33]: 	...Validating connections	
-[00:00:33]: 	...Housekeeping	
-[00:00:33]: 	...Done!	
-[00:00:33]: Restoring user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000024	
-[00:00:33]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000025
-[00:00:33]: 1 uploads added to server. From server_temp
-[00:00:33]: About to start a shard with these settings:
-[00:00:33]:   ShardName: Master
-[00:00:33]:   ShardID: 1
-[00:00:33]:   ShardRole: MASTER
-[00:00:33]:   MasterHost: (null)
-[00:00:33]:   MasterBind: 127.0.0.1
-[00:00:33]:   MasterPort: 10888
-[00:00:33]: [Shard] Starting master server
-[00:00:33]: [Warning] Could not confirm port 10888 is open in the firewall. 
-[00:00:33]: [Shard] Shard server started on port: 10888
-[00:00:33]: [IPC] Signal 'DST_Master_Ready' opened  #0000000000000790
-[00:00:33]: [IPC] Sending signal... #0000000000000790
-[00:00:33]: Telling Client our new session identifier: 4D2451903C2A035F
-[00:00:33]: Check for write access: TRUE
-[00:00:33]: Check for read access: TRUE
-[00:00:33]: Available disk space for save files: 127401 MB
-[00:00:33]: ModIndex: Load sequence finished successfully.	
-[00:00:33]: Reset() returning
-[00:00:34]: Validating portal[5] <-> 2673340608[5] (inactive)	
-[00:00:34]: Validating portal[10] <-> 2673340608[10] (inactive)	
-[00:00:34]: Validating portal[4] <-> 2673340608[4] (inactive)	
-[00:00:34]: Validating portal[8] <-> 2673340608[8] (inactive)	
-[00:00:34]: Validating portal[1] <-> 2673340608[1] (inactive)	
-[00:00:34]: Validating portal[3] <-> 2673340608[3] (inactive)	
-[00:00:34]: Validating portal[oceanwhirlbigportal] <-> 2673340608[oceanwhirlbigportal] (inactive)	
-[00:00:34]: Validating portal[7] <-> 2673340608[7] (inactive)	
-[00:00:34]: Validating portal[9] <-> 2673340608[9] (inactive)	
-[00:00:34]: Validating portal[2] <-> 2673340608[2] (inactive)	
-[00:00:34]: Validating portal[6] <-> 2673340608[6] (inactive)	
-[00:00:34]: Sim paused
-[00:00:34]: Server registered via geo DNS in ap-east-1
-[00:00:35]: [Shard] Secondary shard Caves(2673340608) connected: [LAN] 127.0.0.1
-[00:00:36]: [Shard] Secondary Caves(2673340608) ready!
-[00:00:36]: World 2673340608(Caves) is now connected	
-[00:00:36]: [SyncWorldSettings] Sending master world option ghostsanitydrain = always to secondary shards.	
-[00:00:36]: [SyncWorldSettings] Sending master world option darkness = default to secondary shards.	
-[00:00:36]: [SyncWorldSettings] Sending master world option resettime = default to secondary shards.	
-[00:00:36]: [SyncWorldSettings] Sending master world option hunger = default to secondary shards.	
-[00:00:36]: [SyncWorldSettings] Sending master world option healthpenalty = always to secondary shards.	
-[00:00:36]: [SyncWorldSettings] Sending master world option temperaturedamage = default to secondary shards.	
-[00:00:36]: [SyncWorldSettings] Sending master world option spawnmode = fixed to secondary shards.	
-[00:00:36]: [SyncWorldSettings] Sending master world option shadowcreatures = default to secondary shards.	
-[00:00:36]: [SyncWorldSettings] Sending master world option ghostenabled = always to secondary shards.	
-[00:00:36]: [SyncWorldSettings] Sending master world option brightmarecreatures = default to secondary shards.	
-[00:00:36]: [SyncWorldSettings] Sending master world option lessdamagetaken = none to secondary shards.	
-[00:00:36]: [SyncWorldSettings] Sending master world option portalresurection = none to secondary shards.	
-[00:00:36]: [SyncWorldSettings] Sending master world option basicresource_regrowth = none to secondary shards.	
-[00:00:36]: [SyncWorldSettings] Sending master world option krampus = default to secondary shards.	
-[00:00:36]: [SyncWorldSettings] Sending master world option dropeverythingondespawn = default to secondary shards.	
-[00:00:36]: Validating portal[5] <-> 2673340608[5] (disabled)	
-[00:00:36]: Validating portal[10] <-> 2673340608[10] (disabled)	
-[00:00:36]: Validating portal[4] <-> 2673340608[4] (disabled)	
-[00:00:36]: Validating portal[8] <-> 2673340608[8] (disabled)	
-[00:00:36]: Validating portal[1] <-> 2673340608[1] (disabled)	
-[00:00:36]: Validating portal[3] <-> 2673340608[3] (disabled)	
-[00:00:36]: Validating portal[oceanwhirlbigportal] <-> 2673340608[oceanwhirlbigportal] (active)	
-[00:00:36]: Validating portal[7] <-> 2673340608[7] (disabled)	
-[00:00:36]: Validating portal[9] <-> 2673340608[9] (disabled)	
-[00:00:36]: Validating portal[2] <-> 2673340608[2] (active)	
-[00:00:36]: Validating portal[6] <-> 2673340608[6] (disabled)	
-[00:00:36]: [Shard] Secondary shard 'Caves(2673340608)' restarting...
-[00:00:36]: World 2673340608(n/a) is now disconnected	
-[00:00:36]: Validating portal[5] <-> 2673340608[5] (inactive)	
-[00:00:36]: Validating portal[10] <-> 2673340608[10] (inactive)	
-[00:00:36]: Validating portal[4] <-> 2673340608[4] (inactive)	
-[00:00:36]: Validating portal[8] <-> 2673340608[8] (inactive)	
-[00:00:36]: Validating portal[1] <-> 2673340608[1] (inactive)	
-[00:00:36]: Validating portal[3] <-> 2673340608[3] (inactive)	
-[00:00:36]: Validating portal[oceanwhirlbigportal] <-> 2673340608[oceanwhirlbigportal] (inactive)	
-[00:00:36]: Validating portal[7] <-> 2673340608[7] (inactive)	
-[00:00:36]: Validating portal[9] <-> 2673340608[9] (inactive)	
-[00:00:36]: Validating portal[2] <-> 2673340608[2] (inactive)	
-[00:00:36]: Validating portal[6] <-> 2673340608[6] (inactive)	
-[00:00:47]: [Shard] Secondary Caves(2673340608) ready!
-[00:00:47]: World 2673340608(Caves) is now connected	
-[00:00:47]: [SyncWorldSettings] Sending master world option ghostsanitydrain = always to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Sending master world option darkness = default to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Sending master world option resettime = default to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Sending master world option hunger = default to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Sending master world option healthpenalty = always to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Sending master world option temperaturedamage = default to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Sending master world option spawnmode = fixed to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Sending master world option shadowcreatures = default to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Sending master world option ghostenabled = always to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Sending master world option brightmarecreatures = default to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Sending master world option lessdamagetaken = none to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Sending master world option portalresurection = none to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Sending master world option basicresource_regrowth = none to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Sending master world option krampus = default to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Sending master world option dropeverythingondespawn = default to secondary shards.	
-[00:00:47]: Validating portal[5] <-> 2673340608[5] (disabled)	
-[00:00:47]: Validating portal[10] <-> 2673340608[10] (disabled)	
-[00:00:47]: Validating portal[4] <-> 2673340608[4] (disabled)	
-[00:00:47]: Validating portal[8] <-> 2673340608[8] (disabled)	
-[00:00:47]: Validating portal[1] <-> 2673340608[1] (disabled)	
-[00:00:47]: Validating portal[3] <-> 2673340608[3] (disabled)	
-[00:00:47]: Validating portal[oceanwhirlbigportal] <-> 2673340608[oceanwhirlbigportal] (active)	
-[00:00:47]: Validating portal[7] <-> 2673340608[7] (disabled)	
-[00:00:47]: Validating portal[9] <-> 2673340608[9] (disabled)	
-[00:00:47]: Validating portal[2] <-> 2673340608[2] (active)	
-[00:00:47]: Validating portal[6] <-> 2673340608[6] (disabled)	
-[00:00:47]: [SyncWorldSettings] Resyncing master world option ghostsanitydrain = always to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Resyncing master world option darkness = default to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Resyncing master world option resettime = default to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Resyncing master world option hunger = default to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Resyncing master world option healthpenalty = always to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Resyncing master world option temperaturedamage = default to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Resyncing master world option spawnmode = fixed to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Resyncing master world option shadowcreatures = default to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Resyncing master world option ghostenabled = always to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Resyncing master world option brightmarecreatures = default to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Resyncing master world option lessdamagetaken = none to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Resyncing master world option portalresurection = none to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Resyncing master world option basicresource_regrowth = none to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Resyncing master world option krampus = default to secondary shards.	
-[00:00:47]: [SyncWorldSettings] Resyncing master world option dropeverythingondespawn = default to secondary shards.	
-[00:00:48]: New incoming connection 127.0.0.1|53949 <8304970587279835769>
-[00:00:48]: Client connected from [LAN] 127.0.0.1|53949 <8304970587279835769>
-[00:00:48]: [ClientObject] Added (pre-auth) on server: guid=8304970587279835769
-[00:00:48]: ValidateGameSessionToken GUID<8304970587279835769>
-[00:00:49]: Client authenticated: (KU_stiTW-Ay) Apache Spark
-[00:00:49]: [Steam] Authenticated host '76561198172760737'
-[00:00:52]: There is no active event to validate against.
-[00:00:52]: [Shard] Read save location file for (KU_stiTW-Ay)
-[00:00:52]: [ClientObject] Initialized (authenticated) on server: guid=8304970587279835769 userid=KU_stiTW-Ay netid=76561198172760737 admin=1
-[00:01:26]: Resuming user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000025
-[00:01:26]: User ID	KU_stiTW-Ay	assigned ownership to entity	117158 - waxwell	
-[00:01:26]: Spawning player at: [Load] (180.56, 0.00, 159.64)	
-[00:01:26]: Sim unpaused
-[00:01:31]: Server Autopaused	
-[00:01:36]: Server Unpaused	
-[00:01:36]: Server Autopaused	
-[00:01:39]: Server Unpaused	
-[00:03:25]: Failed to assign item skin ids due to ownership check failure.
-[00:04:20]: Failed to assign item skin ids due to ownership check failure.
-[00:04:28]: Failed to assign item skin ids due to ownership check failure.
-[00:05:25]: Server Autopaused	
-[00:05:26]: Server Unpaused	
-[00:05:34]: Failed to assign item skin ids due to ownership check failure.
-[00:06:42]: Failed to assign item skin ids due to ownership check failure.
-[00:07:26]: Failed to assign item skin ids due to ownership check failure.
-[00:09:32]: Server Autopaused	
-[00:09:33]: Server Unpaused	
-[00:09:37]: Available disk space for save files: 127406 MB
-[00:09:37]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000025
-[00:09:37]: Serializing world: session/4D2451903C2A035F/0000000025
-[00:09:40]: Failed to assign item skin ids due to ownership check failure.
-[00:10:53]: Server Autopaused	
-[00:10:57]: Server Unpaused	
-[00:11:28]: Server Autopaused	
-[00:11:30]: Server Unpaused	
-[00:11:37]: Server Autopaused	
-[00:11:38]: Server Unpaused	
-[00:12:16]: Failed to assign item skin ids due to ownership check failure.
-[00:12:55]: Server Autopaused	
-[00:12:57]: Server Unpaused	
-[00:13:21]: Server Autopaused	
-[00:13:22]: Server Unpaused	
-[00:13:50]: Failed to assign item skin ids due to ownership check failure.
-[00:14:05]: Failed to assign item skin ids due to ownership check failure.
-[00:17:48]: Available disk space for save files: 127400 MB
-[00:17:48]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000026
-[00:17:48]: Serializing world: session/4D2451903C2A035F/0000000026
-[00:18:11]: Server Autopaused	
-[00:18:28]: Server Unpaused	
-[00:18:29]: Server Autopaused	
-[00:18:30]: Server Unpaused	
-[00:25:25]: Server Autopaused	
-[00:25:25]: Server Unpaused	
-[00:26:07]: Available disk space for save files: 127171 MB
-[00:26:07]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000027
-[00:26:08]: Serializing world: session/4D2451903C2A035F/0000000027
-[00:26:51]: Server Autopaused	
-[00:26:52]: Server Unpaused	
-[00:27:43]: Server Autopaused	
-[00:27:46]: Server Unpaused	
-[00:27:47]: [Steam] SendUserDisconnect for '76561198172760737'
-[00:27:47]: [Shard] (KU_stiTW-Ay) disconnected from Master(1)
-[00:27:47]: [IPC] Received shutdown signal.
-[00:27:47]: Available disk space for save files: 127168 MB
-[00:27:47]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000028
-[00:27:47]: Serializing world: session/4D2451903C2A035F/0000000028
-[00:27:47]: Truncating to snapshot #28...
-[00:27:47]:  - session/4D2451903C2A035F/0000000020
-[00:27:47]:  - session/4D2451903C2A035F/0000000021
-[00:27:47]:  - session/4D2451903C2A035F/0000000022
-[00:27:47]:  - session/4D2451903C2A035F/A7MRFCEO7OLS/0000000022
-[00:27:47]:  - session/4D2451903C2A035F/A7MRFCEO7OLS/0000000021
-[00:27:47]:  - session/4D2451903C2A035F/A7MRFCEO7OLS/0000000020
-[00:27:47]:    6 file(s) removed
-[00:27:47]: Removing server from lobby
-[00:27:47]: [Shard] Stopping shard mode
-[00:27:47]: [Steam] SendUserDisconnect for ''
-[00:27:47]: Collecting garbage...
-[00:27:48]: lua_gc took 0.31 seconds
-[00:27:48]: ~ShardLuaProxy()
-[00:27:48]: ~cEventLeaderboardProxy()
-[00:27:48]: ~ItemServerLuaProxy()
-[00:27:48]: ~InventoryLuaProxy()
-[00:27:48]: ~NetworkLuaProxy()
-[00:27:48]: ~SimLuaProxy()
-[00:27:48]: Cancelling LuaQueryCallback handle [21]
-[00:27:48]: lua_close took 0.55 seconds
-[00:27:49]: CurlRequestManager::ClientThread::Main() complete
-[00:27:49]: HttpClient2 discarded 0 callbacks.
-[00:27:49]: Shutting down
+[00:00:31]: Reconstructing topology	
+[00:00:31]: 	...Sorting points	
+[00:00:31]: 	...Sorting edges	
+[00:00:31]: 	...Connecting nodes	
+[00:00:31]: 	...Validating connections	
+[00:00:31]: 	...Housekeeping	
+[00:00:31]: 	...Done!	
+[00:00:31]: 1 uploads added to server. From server_temp
+[00:00:31]: About to start a shard with these settings:
+[00:00:31]:   ShardName: Master
+[00:00:31]:   ShardID: 1
+[00:00:31]:   ShardRole: MASTER
+[00:00:31]:   MasterHost: (null)
+[00:00:31]:   MasterBind: 127.0.0.1
+[00:00:31]:   MasterPort: 10888
+[00:00:31]: [Shard] Starting master server
+[00:00:31]: [Warning] Could not confirm port 10888 is open in the firewall. 
+[00:00:31]: [Shard] Shard server started on port: 10888
+[00:00:31]: [IPC] Signal 'DST_Master_Ready' opened  #0000000000000944
+[00:00:31]: [IPC] Sending signal... #0000000000000944
+[00:00:31]: Telling Client our new session identifier: 4D2451903C2A035F
+[00:00:31]: Check for write access: TRUE
+[00:00:31]: Check for read access: TRUE
+[00:00:31]: Available disk space for save files: 127444 MB
+[00:00:31]: ModIndex: Load sequence finished successfully.	
+[00:00:32]: Reset() returning
+[00:00:32]: Validating portal[7] <-> 2673340608[7] (inactive)	
+[00:00:32]: Validating portal[2] <-> 2673340608[2] (inactive)	
+[00:00:32]: Validating portal[3] <-> 2673340608[3] (inactive)	
+[00:00:32]: Validating portal[10] <-> 2673340608[10] (inactive)	
+[00:00:32]: Validating portal[9] <-> 2673340608[9] (inactive)	
+[00:00:32]: Validating portal[6] <-> 2673340608[6] (inactive)	
+[00:00:32]: Validating portal[4] <-> 2673340608[4] (inactive)	
+[00:00:32]: Validating portal[5] <-> 2673340608[5] (inactive)	
+[00:00:32]: Validating portal[oceanwhirlbigportal] <-> 2673340608[oceanwhirlbigportal] (inactive)	
+[00:00:32]: Validating portal[8] <-> 2673340608[8] (inactive)	
+[00:00:32]: Validating portal[1] <-> 2673340608[1] (inactive)	
+[00:00:32]: Sim paused
+[00:00:32]: Server registered via geo DNS in ap-east-1
+[00:00:33]: [Shard] Secondary shard Caves(2673340608) connected: [LAN] 127.0.0.1
+[00:00:33]: [Shard] Secondary Caves(2673340608) ready!
+[00:00:33]: World 2673340608(Caves) is now connected	
+[00:00:33]: [SyncWorldSettings] Sending master world option ghostsanitydrain = always to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option darkness = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option resettime = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option hunger = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option healthpenalty = always to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option temperaturedamage = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option spawnmode = fixed to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option shadowcreatures = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option ghostenabled = always to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option brightmarecreatures = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option lessdamagetaken = none to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option portalresurection = none to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option basicresource_regrowth = none to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option krampus = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option dropeverythingondespawn = default to secondary shards.	
+[00:00:33]: Validating portal[7] <-> 2673340608[7] (disabled)	
+[00:00:33]: Validating portal[2] <-> 2673340608[2] (active)	
+[00:00:33]: Validating portal[3] <-> 2673340608[3] (disabled)	
+[00:00:33]: Validating portal[10] <-> 2673340608[10] (disabled)	
+[00:00:33]: Validating portal[9] <-> 2673340608[9] (disabled)	
+[00:00:33]: Validating portal[6] <-> 2673340608[6] (disabled)	
+[00:00:33]: Validating portal[4] <-> 2673340608[4] (disabled)	
+[00:00:33]: Validating portal[5] <-> 2673340608[5] (disabled)	
+[00:00:33]: Validating portal[oceanwhirlbigportal] <-> 2673340608[oceanwhirlbigportal] (active)	
+[00:00:33]: Validating portal[8] <-> 2673340608[8] (disabled)	
+[00:00:33]: Validating portal[1] <-> 2673340608[1] (disabled)	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option ghostsanitydrain = always to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option darkness = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option resettime = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option hunger = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option healthpenalty = always to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option temperaturedamage = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option spawnmode = fixed to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option shadowcreatures = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option ghostenabled = always to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option brightmarecreatures = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option lessdamagetaken = none to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option portalresurection = none to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option basicresource_regrowth = none to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option krampus = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option dropeverythingondespawn = default to secondary shards.	
+[00:00:35]: New incoming connection 127.0.0.1|56581 <2139628787941522514>
+[00:00:35]: Client connected from [LAN] 127.0.0.1|56581 <2139628787941522514>
+[00:00:35]: [ClientObject] Added (pre-auth) on server: guid=2139628787941522514
+[00:00:35]: ValidateGameSessionToken GUID<2139628787941522514>
+[00:00:36]: Client authenticated: (KU_stiTW-Ay) Apache Spark
+[00:00:36]: [Steam] Authenticated host '76561198172760737'
+[00:00:39]: There is no active event to validate against.
+[00:00:39]: [Shard] Read save location file for (KU_stiTW-Ay)
+[00:00:39]: [ClientObject] Initialized (authenticated) on server: guid=2139628787941522514 userid=KU_stiTW-Ay netid=76561198172760737 admin=1
+[00:01:12]: Resuming user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000016
+[00:01:12]: User ID	KU_stiTW-Ay	assigned ownership to entity	116911 - waxwell	
+[00:01:12]: Spawning player at: [Load] (186.15, 0.00, 158.64)	
+[00:01:12]: Sim unpaused
+[00:02:02]: Server Autopaused	
+[00:02:04]: Server Unpaused	
+[00:02:39]: Server Autopaused	
+[00:02:42]: Server Unpaused	
+[00:03:06]: Server Autopaused	
+[00:03:07]: Server Unpaused	
+[00:03:21]: Available disk space for save files: 127445 MB
+[00:03:21]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000017
+[00:03:22]: Serializing world: session/4D2451903C2A035F/0000000017
+[00:03:34]: Server Autopaused	
+[00:03:35]: Server Unpaused	
+[00:04:32]: Server Autopaused	
+[00:04:33]: Server Unpaused	
+[00:05:10]: Server Autopaused	
+[00:05:13]: Server Unpaused	
+[00:05:54]: Server Autopaused	
+[00:05:58]: Server Unpaused	
+[00:06:11]: Server Autopaused	
+[00:06:12]: Server Unpaused	
+[00:06:37]: Server Autopaused	
+[00:06:38]: Server Unpaused	
+[00:10:12]: Server Autopaused	
+[00:10:15]: Server Unpaused	
+[00:11:37]: Available disk space for save files: 127440 MB
+[00:11:38]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000018
+[00:11:38]: Serializing world: session/4D2451903C2A035F/0000000018
+[00:12:06]: Server Autopaused	
+[00:12:40]: Server Unpaused	
+[00:15:31]: Server Autopaused	
+[00:15:52]: Server Unpaused	
+[00:20:32]: Available disk space for save files: 127435 MB
+[00:20:33]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000019
+[00:20:33]: Serializing world: session/4D2451903C2A035F/0000000019
+[00:21:34]: Server Autopaused	
+[00:21:35]: Server Unpaused	
+[00:23:10]: Server Autopaused	
+[00:23:11]: Server Unpaused	
+[00:23:32]: Server Autopaused	
+[00:23:37]: Server Unpaused	
+[00:23:40]: Server Autopaused	
+[00:24:54]: Server Unpaused	
+[00:26:17]: Server Autopaused	
+[00:26:51]: Server Unpaused	
+[00:27:37]: Failed to assign item skin ids due to ownership check failure.
+[00:27:44]: Failed to assign item skin ids due to ownership check failure.
+[00:29:05]: Server Autopaused	
+[00:29:13]: Server Unpaused	
+[00:30:06]: [200] Account Communication Success (6)
+[00:30:06]: Received (KU_stiTW-Ay) from TokenPurpose
+[00:30:37]: Available disk space for save files: 127454 MB
+[00:30:37]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000020
+[00:30:37]: Serializing world: session/4D2451903C2A035F/0000000020
+[00:30:46]: Server Autopaused	
+[00:30:48]: Server Unpaused	
+[00:32:27]: Server Autopaused	
+[00:32:28]: Server Unpaused	
+[00:32:53]: Server Autopaused	
+[00:32:53]: Server Unpaused	
+[00:34:54]: Server Autopaused	
+[00:35:07]: Server Unpaused	
+[00:38:53]: Available disk space for save files: 127453 MB
+[00:38:54]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000021
+[00:38:54]: Serializing world: session/4D2451903C2A035F/0000000021
+[00:39:26]: Server Autopaused	
+[00:39:29]: Server Unpaused	
+[00:41:03]: Server Autopaused	
+[00:41:07]: Server Unpaused	
+[00:41:21]: Server Autopaused	
+[00:41:22]: Server Unpaused	
+[00:41:31]: Server Autopaused	
+[00:41:32]: Server Unpaused	
+[00:41:54]: Server Autopaused	
+[00:42:33]: Server Unpaused	
+[00:42:54]: Server Autopaused	
+[00:42:55]: Server Unpaused	
+[00:43:11]: Server Autopaused	
+[00:43:24]: Server Unpaused	
+[00:45:51]: Server Autopaused	
+[00:45:53]: Server Unpaused	
+[00:47:58]: Available disk space for save files: 127449 MB
+[00:47:58]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000022
+[00:47:58]: Serializing world: session/4D2451903C2A035F/0000000022
+[00:53:24]: Server Autopaused	
+[00:53:25]: Server Unpaused	
+[00:55:59]: Available disk space for save files: 127445 MB
+[00:55:59]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000023
+[00:56:00]: Serializing world: session/4D2451903C2A035F/0000000023
+[00:57:50]: Server Autopaused	
+[00:57:56]: Server Unpaused	
+[00:58:33]: Failed to assign item skin ids due to ownership check failure.
+[00:59:08]: Failed to assign item skin ids due to ownership check failure.
+[00:59:58]: Server Autopaused	
+[00:59:59]: Server Unpaused	
+[01:00:06]: [200] Account Communication Success (6)
+[01:00:06]: Received (KU_stiTW-Ay) from TokenPurpose
+[01:00:12]: Failed to assign item skin ids due to ownership check failure.
+[01:00:51]: Server Autopaused	
+[01:00:51]: Server Unpaused	
+[01:00:59]: Failed to assign item skin ids due to ownership check failure.
+[01:02:19]: Server Autopaused	
+[01:02:20]: Server Unpaused	
+[01:03:13]: Server Autopaused	
+[01:03:13]: Server Unpaused	
+[01:03:35]: Server Autopaused	
+[01:03:39]: Server Unpaused	
+[01:04:14]: Available disk space for save files: 127446 MB
+[01:04:14]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000024
+[01:04:15]: Serializing world: session/4D2451903C2A035F/0000000024
+[01:05:28]: Server Autopaused	
+[01:05:28]: Server Unpaused	
+[01:05:43]: Server Autopaused	
+[01:06:01]: Server Unpaused	
+[01:06:02]: [Steam] SendUserDisconnect for '76561198172760737'
+[01:06:02]: [Shard] (KU_stiTW-Ay) disconnected from Master(1)
+[01:06:02]: [IPC] Received shutdown signal.
+[01:06:02]: Available disk space for save files: 127441 MB
+[01:06:02]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000025
+[01:06:03]: Serializing world: session/4D2451903C2A035F/0000000025
+[01:06:03]: Truncating to snapshot #25...
+[01:06:03]:  - session/4D2451903C2A035F/0000000011
+[01:06:03]:  - session/4D2451903C2A035F/0000000012
+[01:06:03]:  - session/4D2451903C2A035F/0000000013
+[01:06:03]:  - session/4D2451903C2A035F/0000000014
+[01:06:03]:  - session/4D2451903C2A035F/0000000015
+[01:06:03]:  - session/4D2451903C2A035F/0000000016
+[01:06:03]:  - session/4D2451903C2A035F/0000000017
+[01:06:03]:  - session/4D2451903C2A035F/0000000018
+[01:06:03]:  - session/4D2451903C2A035F/0000000019
+[01:06:03]:  - session/4D2451903C2A035F/A7MRFCEO7OLS/0000000019
+[01:06:03]:  - session/4D2451903C2A035F/A7MRFCEO7OLS/0000000018
+[01:06:03]:  - session/4D2451903C2A035F/A7MRFCEO7OLS/0000000017
+[01:06:03]:  - session/4D2451903C2A035F/A7MRFCEO7OLS/0000000016
+[01:06:03]:  - session/4D2451903C2A035F/A7MRFCEO7OLS/0000000015
+[01:06:03]:  - session/4D2451903C2A035F/A7MRFCEO7OLS/0000000014
+[01:06:03]:  - session/4D2451903C2A035F/A7MRFCEO7OLS/0000000013
+[01:06:03]:  - session/4D2451903C2A035F/A7MRFCEO7OLS/0000000012
+[01:06:03]:  - session/4D2451903C2A035F/A7MRFCEO7OLS/0000000011
+[01:06:03]:    18 file(s) removed
+[01:06:03]: Removing server from lobby
+[01:06:03]: [Shard] Stopping shard mode
+[01:06:03]: [Steam] SendUserDisconnect for ''
+[01:06:03]: Collecting garbage...
+[01:06:03]: lua_gc took 0.40 seconds
+[01:06:04]: ~ShardLuaProxy()
+[01:06:04]: ~cEventLeaderboardProxy()
+[01:06:04]: ~ItemServerLuaProxy()
+[01:06:04]: ~InventoryLuaProxy()
+[01:06:04]: ~NetworkLuaProxy()
+[01:06:04]: ~SimLuaProxy()
+[01:06:04]: Cancelling LuaQueryCallback handle [62]
+[01:06:04]: lua_close took 0.53 seconds
+[01:06:04]: CurlRequestManager::ClientThread::Main() complete
+[01:06:04]: HttpClient2 discarded 0 callbacks.
+[01:06:04]: Shutting down
