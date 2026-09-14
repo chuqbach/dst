@@ -1,2 +1,6 @@
 [00:00:56]: [Join Announcement] Apache Spark
-[00:29:21]: [Leave Announcement] Apache Spark
+[00:13:33]: [Death Announcement] Apache Spark was killed by Spider Warrior. He became a spooky ghost!
+[00:13:44]: [Vote Announcement] rollback passed
+[00:16:14]: [Vote Announcement] rollback passed
+[00:16:15]: [Death Announcement] Apache Spark was killed by Merm. He became a spooky ghost!
+[00:28:58]: [Leave Announcement] Apache Spark
