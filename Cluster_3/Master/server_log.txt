@@ -1,11 +1,11 @@
-[00:00:00]: 
+[00:00:01]: 
 System Memory:
-	Memory Load: 39%
-	Available Physical Memory: 29467m/49058m
-	Available Page File: 28624m/52130m
+	Memory Load: 40%
+	Available Physical Memory: 29266m/49058m
+	Available Page File: 28048m/52130m
 	Available Virtual Memory: 134213474m/134217727m
 	Available Extended Virtual Memory: 0m
-[00:00:00]: 
+[00:00:01]: 
 Process Memory:
 	Peak Working Set Size: 33m
 	Working Set Size: 33m
@@ -15,46 +15,46 @@ Process Memory:
 	Quota Non Paged Pool Usage: 15k
 	Page File Usage: 5m
 	Peak Page File Usage: 5m
-[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/212495009/Cluster_3/Master/ 
-[00:00:00]: Starting Up
-[00:00:00]: Version: 747465
-[00:00:00]: Current time: Mon Sep 14 11:21:58 2026
+[00:00:01]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/212495009/Cluster_3/Master/ 
+[00:00:01]: Starting Up
+[00:00:01]: Version: 747465
+[00:00:01]: Current time: Mon Sep 14 11:35:35 2026
 
-[00:00:00]: Don't Starve Together: 747465 WIN32
-[00:00:00]: Build Date: 4239
-[00:00:00]: Mode: 64-bit
-[00:00:00]: Parsing command line
-[00:00:00]: Command Line Arguments: -monitor_parent_process 21988 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_3 -ownernetid 76561198172760737 -ownerdir 212495009 -clouddir 212495009 -backup_log_count 25 -backup_log_period 0 -ugc_directory F:\\SteamLibrary\\steamapps\\workshop -shard Master -secondary_log_prefix master -sigprefix DST_Master -token ************************************************************************************ 
-[00:00:00]: Initializing distribution platform
-[00:00:00]: Initializing Minidump handler
-[00:00:00]: ....Done
-[00:00:00]: ....Done
-[00:00:00]: Fixing DPI
-[00:00:00]: ...Done
-[00:00:00]: THREAD - started 'GAClient' (25916)
-[00:00:00]: CurlRequestManager::ClientThread::Main()
-[00:00:00]: ProfileIndex:0.51
-[00:00:00]: Mounting file system databundles/klump.zip successful.
-[00:00:00]: Mounting file system databundles/shaders.zip successful.
-[00:00:00]: Mounting file system databundles/fonts.zip successful.
-[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
-[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
-[00:00:00]: Mounting file system databundles/images.zip successful.
-[00:00:00]: Mounting file system databundles/scripts.zip successful.
-[00:00:00]: [Steam] SteamGameServer_Init(10999, 27016)
-[00:00:00]: [Steam] SteamGameServer_Init success
-[00:00:00]: [Connect] PendingConnection::Reset(true)
-[00:00:00]: Platform: 1
-[00:00:00]: Network tick rate: U=15(2), D=0
-[00:00:00]: Network tick rate: U=15(2), D=0
-[00:00:00]: Authorized application F:\SteamLibrary\steamapps\common\Don't Starve Together\bin64\dontstarve_dedicated_server_nullrenderer_x64.exe is enabled in the firewall.
-[00:00:00]: WindowsFirewall - Application already authorized
-[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/212495009/client_save/blocklist.txt (Failure)
-[00:00:00]: THREAD - started 'StreamInput' (16248)
-[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/212495009/client_save/adminlist.txt (Failure)
-[00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/212495009/client_save/whitelist.txt (Failure)
-[00:00:00]: Offline user ID: OU_76561198172760737
-[00:00:00]: HardwareStats:
+[00:00:01]: Don't Starve Together: 747465 WIN32
+[00:00:01]: Build Date: 4239
+[00:00:01]: Mode: 64-bit
+[00:00:01]: Parsing command line
+[00:00:01]: Command Line Arguments: -monitor_parent_process 21988 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_3 -ownernetid 76561198172760737 -ownerdir 212495009 -clouddir 212495009 -backup_log_count 25 -backup_log_period 0 -ugc_directory F:\\SteamLibrary\\steamapps\\workshop -shard Master -secondary_log_prefix master -sigprefix DST_Master -token ************************************************************************************ 
+[00:00:01]: Initializing distribution platform
+[00:00:01]: Initializing Minidump handler
+[00:00:01]: ....Done
+[00:00:01]: ....Done
+[00:00:01]: Fixing DPI
+[00:00:01]: ...Done
+[00:00:01]: THREAD - started 'GAClient' (10984)
+[00:00:01]: CurlRequestManager::ClientThread::Main()
+[00:00:01]: ProfileIndex:0.50
+[00:00:01]: Mounting file system databundles/klump.zip successful.
+[00:00:01]: Mounting file system databundles/shaders.zip successful.
+[00:00:01]: Mounting file system databundles/fonts.zip successful.
+[00:00:01]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:01]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:01]: Mounting file system databundles/images.zip successful.
+[00:00:01]: Mounting file system databundles/scripts.zip successful.
+[00:00:01]: [Steam] SteamGameServer_Init(10999, 27016)
+[00:00:01]: [Steam] SteamGameServer_Init success
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Authorized application F:\SteamLibrary\steamapps\common\Don't Starve Together\bin64\dontstarve_dedicated_server_nullrenderer_x64.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/212495009/client_save/blocklist.txt (Failure)
+[00:00:01]: THREAD - started 'StreamInput' (15280)
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/212495009/client_save/adminlist.txt (Failure)
+[00:00:01]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/212495009/client_save/whitelist.txt (Failure)
+[00:00:01]: Offline user ID: OU_76561198172760737
+[00:00:01]: HardwareStats:
   OS                        
     name                      Microsoft Windows 11 Pro
     version                   10.0.26200
@@ -76,17 +76,17 @@ Process Memory:
     driverDate                20240814000000.000000-000
     refreshRate               59
 
-[00:00:00]: cGame::InitializeOnMainThread
-[00:00:00]: Renderer initialize: Okay
-[00:00:00]: AnimManager initialize: Okay
-[00:00:00]: Buffers initialize: Okay
-[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
-[00:00:00]: GameSpecific initialize: Okay
-[00:00:00]: cGame::StartPlaying
-[00:00:00]: AppVersion::GetArchitecture() x64
-[00:00:00]: LOADING LUA
-[00:00:00]: DoLuaFile scripts/main.lua
-[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: AppVersion::GetArchitecture() x64
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
 [00:00:01]:   taskgrouplist:	default	Together	
 [00:00:01]:   taskgrouplist:	classic	Classic	
 [00:00:01]:   taskgrouplist:	cave_default	Underground	
@@ -453,23 +453,23 @@ Process Memory:
 [00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
 [00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
 [00:00:05]: 	Load FE	
-[00:00:05]: 	Load FE: done	
-[00:00:05]: THREAD - started 'FilesExistAsyncThread' (3504)
-[00:00:05]: FilesExistAsyncThread started (0 files)...
-[00:00:05]: ... FilesExistAsyncThread complete
-[00:00:05]: Check for write access: TRUE
-[00:00:05]: Check for read access: TRUE
-[00:00:05]: Available disk space for save files: 127812 MB
-[00:00:05]: ModIndex: Load sequence finished successfully.	
-[00:00:05]: Reset() returning
-[00:00:05]: [IPC] Signal 'DST_Master_Kill' opened  #0000000000000A20
-[00:00:05]: [IPC] Registering handler for signal #0000000000000A20
-[00:00:05]: [IPC] Handle #0000000000000A20 added to the Eventhandles
-[00:00:05]: [IPC] Signal 'DST_Master_ShutdownNoSave' opened  #0000000000000A04
-[00:00:05]: [IPC] Registering handler for signal #0000000000000A04
-[00:00:05]: [IPC] Handle #0000000000000A04 added to the Eventhandles
-[00:00:05]: [IPC] Signal 'DST_Master_Starting' opened  #0000000000000A14
-[00:00:05]: [IPC] Sending signal... #0000000000000A14
+[00:00:06]: 	Load FE: done	
+[00:00:06]: THREAD - started 'FilesExistAsyncThread' (8772)
+[00:00:06]: FilesExistAsyncThread started (0 files)...
+[00:00:06]: ... FilesExistAsyncThread complete
+[00:00:06]: Check for write access: TRUE
+[00:00:06]: Check for read access: TRUE
+[00:00:06]: Available disk space for save files: 127805 MB
+[00:00:06]: ModIndex: Load sequence finished successfully.	
+[00:00:06]: Reset() returning
+[00:00:06]: [IPC] Signal 'DST_Master_Kill' opened  #0000000000000A50
+[00:00:06]: [IPC] Registering handler for signal #0000000000000A50
+[00:00:06]: [IPC] Handle #0000000000000A50 added to the Eventhandles
+[00:00:06]: [IPC] Signal 'DST_Master_ShutdownNoSave' opened  #0000000000000A30
+[00:00:06]: [IPC] Registering handler for signal #0000000000000A30
+[00:00:06]: [IPC] Handle #0000000000000A30 added to the Eventhandles
+[00:00:06]: [IPC] Signal 'DST_Master_Starting' opened  #0000000000000A4C
+[00:00:06]: [IPC] Sending signal... #0000000000000A4C
 [00:00:06]: [200] Account Communication Success (6)
 [00:00:06]: Cached userid (null) saved to APP:Klei//DoNotStarveTogether/212495009/Cluster_3/Master/save/cached_userid
 [00:00:06]: Received (KU_stiTW-Ay) from TokenPurpose
@@ -525,270 +525,270 @@ Process Memory:
 [00:00:06]: SUCCESS: Loaded modoverrides.lua	
 [00:00:06]: Could not load mod_config_data/modconfiguration_workshop-3075429483	
 [00:00:06]: Online Server Started on port: 10999
-[00:00:06]: [ClientObject] Added (pre-auth) on server: guid=2380240275223805483
-[00:00:06]: [ClientObject] Initialized (self/server object, locally trusted) on server: guid=2380240275223805483 userid=KU_stiTW-Ay netid= admin=1
-[00:00:06]: SUCCESS: Loaded modoverrides.lua	
-[00:00:06]: Found a level data override file with these contents:	
-[00:00:06]: 	K: 	desc	 V: 	The standard Don't Starve experience.	
-[00:00:06]: 	K: 	hideminimap	 V: 	false	
-[00:00:06]: 	K: 	id	 V: 	SURVIVAL_TOGETHER	
-[00:00:06]: 	K: 	location	 V: 	forest	
-[00:00:06]: 	K: 	max_playlist_position	 V: 	999	
-[00:00:06]: 	K: 	min_playlist_position	 V: 	0	
-[00:00:06]: 	K: 	name	 V: 	Survival	
-[00:00:06]: 	K: 	numrandom_set_pieces	 V: 	4	
-[00:00:06]: 	K: 	override_level_string	 V: 	false	
-[00:00:06]: 	K: 	overrides	 V: 	table: 0000000018529260	
-[00:00:06]: 		K: 	alternatehunt	 V: 	default	
-[00:00:06]: 		K: 	angrybees	 V: 	default	
-[00:00:06]: 		K: 	antliontribute	 V: 	default	
-[00:00:06]: 		K: 	autumn	 V: 	default	
-[00:00:06]: 		K: 	balatro	 V: 	default	
-[00:00:06]: 		K: 	bananabush_portalrate	 V: 	default	
-[00:00:06]: 		K: 	basicresource_regrowth	 V: 	none	
-[00:00:06]: 		K: 	bats_setting	 V: 	default	
-[00:00:06]: 		K: 	bearger	 V: 	default	
-[00:00:06]: 		K: 	beefalo	 V: 	default	
-[00:00:06]: 		K: 	beefaloheat	 V: 	default	
-[00:00:06]: 		K: 	beequeen	 V: 	default	
-[00:00:06]: 		K: 	bees	 V: 	default	
-[00:00:06]: 		K: 	bees_setting	 V: 	default	
-[00:00:06]: 		K: 	berrybush	 V: 	default	
-[00:00:06]: 		K: 	birds	 V: 	default	
-[00:00:06]: 		K: 	boons	 V: 	default	
-[00:00:06]: 		K: 	branching	 V: 	default	
-[00:00:06]: 		K: 	brightmarecreatures	 V: 	default	
-[00:00:06]: 		K: 	bunnymen_setting	 V: 	default	
-[00:00:06]: 		K: 	butterfly	 V: 	default	
-[00:00:06]: 		K: 	buzzard	 V: 	default	
-[00:00:06]: 		K: 	cactus	 V: 	default	
-[00:00:06]: 		K: 	cactus_regrowth	 V: 	default	
-[00:00:06]: 		K: 	carrot	 V: 	default	
-[00:00:06]: 		K: 	carrots_regrowth	 V: 	default	
-[00:00:06]: 		K: 	catcoon	 V: 	default	
-[00:00:06]: 		K: 	catcoons	 V: 	default	
-[00:00:06]: 		K: 	chess	 V: 	default	
-[00:00:06]: 		K: 	cookiecutters	 V: 	default	
-[00:00:06]: 		K: 	crabking	 V: 	default	
-[00:00:06]: 		K: 	crow_carnival	 V: 	default	
-[00:00:06]: 		K: 	darkness	 V: 	default	
-[00:00:06]: 		K: 	day	 V: 	default	
-[00:00:06]: 		K: 	daywalker2	 V: 	default	
-[00:00:06]: 		K: 	deciduousmonster	 V: 	default	
-[00:00:06]: 		K: 	deciduoustree_regrowth	 V: 	default	
-[00:00:06]: 		K: 	deerclops	 V: 	default	
-[00:00:06]: 		K: 	dragonfly	 V: 	default	
-[00:00:06]: 		K: 	dropeverythingondespawn	 V: 	default	
-[00:00:06]: 		K: 	evergreen_regrowth	 V: 	default	
-[00:00:06]: 		K: 	extrastartingitems	 V: 	default	
-[00:00:06]: 		K: 	eyeofterror	 V: 	default	
-[00:00:06]: 		K: 	fishschools	 V: 	default	
-[00:00:06]: 		K: 	flint	 V: 	default	
-[00:00:06]: 		K: 	flowers	 V: 	default	
-[00:00:06]: 		K: 	flowers_regrowth	 V: 	default	
-[00:00:06]: 		K: 	frograin	 V: 	default	
-[00:00:06]: 		K: 	frogs	 V: 	default	
-[00:00:06]: 		K: 	fruitfly	 V: 	default	
-[00:00:06]: 		K: 	ghostenabled	 V: 	always	
-[00:00:06]: 		K: 	ghostsanitydrain	 V: 	always	
-[00:00:06]: 		K: 	gnarwail	 V: 	default	
-[00:00:06]: 		K: 	goosemoose	 V: 	default	
-[00:00:06]: 		K: 	grass	 V: 	default	
-[00:00:06]: 		K: 	grassgekkos	 V: 	default	
-[00:00:06]: 		K: 	hallowed_nights	 V: 	default	
-[00:00:06]: 		K: 	has_ocean	 V: 	true	
-[00:00:06]: 		K: 	healthpenalty	 V: 	always	
-[00:00:06]: 		K: 	hound_mounds	 V: 	default	
-[00:00:06]: 		K: 	houndmound	 V: 	default	
-[00:00:06]: 		K: 	hounds	 V: 	default	
-[00:00:06]: 		K: 	hunger	 V: 	default	
-[00:00:06]: 		K: 	hunt	 V: 	default	
-[00:00:06]: 		K: 	junkyard	 V: 	default	
-[00:00:06]: 		K: 	keep_disconnected_tiles	 V: 	true	
-[00:00:06]: 		K: 	klaus	 V: 	default	
-[00:00:06]: 		K: 	krampus	 V: 	default	
-[00:00:06]: 		K: 	layout_mode	 V: 	LinkNodesByKeys	
-[00:00:06]: 		K: 	lessdamagetaken	 V: 	none	
-[00:00:06]: 		K: 	liefs	 V: 	default	
-[00:00:06]: 		K: 	lightcrab_portalrate	 V: 	default	
-[00:00:06]: 		K: 	lightning	 V: 	default	
-[00:00:06]: 		K: 	lightninggoat	 V: 	default	
-[00:00:06]: 		K: 	loop	 V: 	default	
-[00:00:06]: 		K: 	lunarhail_frequency	 V: 	default	
-[00:00:06]: 		K: 	lureplants	 V: 	default	
-[00:00:06]: 		K: 	malbatross	 V: 	default	
-[00:00:06]: 		K: 	marshbush	 V: 	default	
-[00:00:06]: 		K: 	merm	 V: 	default	
-[00:00:06]: 		K: 	merms	 V: 	default	
-[00:00:06]: 		K: 	meteorshowers	 V: 	default	
-[00:00:06]: 		K: 	meteorspawner	 V: 	default	
-[00:00:06]: 		K: 	moles	 V: 	default	
-[00:00:06]: 		K: 	moles_setting	 V: 	default	
-[00:00:06]: 		K: 	monkeytail_portalrate	 V: 	default	
-[00:00:06]: 		K: 	moon_berrybush	 V: 	default	
-[00:00:06]: 		K: 	moon_bullkelp	 V: 	default	
-[00:00:06]: 		K: 	moon_carrot	 V: 	default	
-[00:00:06]: 		K: 	moon_fissure	 V: 	default	
-[00:00:06]: 		K: 	moon_fruitdragon	 V: 	default	
-[00:00:06]: 		K: 	moon_hotspring	 V: 	default	
-[00:00:06]: 		K: 	moon_rock	 V: 	default	
-[00:00:06]: 		K: 	moon_sapling	 V: 	default	
-[00:00:06]: 		K: 	moon_spider	 V: 	default	
-[00:00:06]: 		K: 	moon_spiders	 V: 	default	
-[00:00:06]: 		K: 	moon_starfish	 V: 	default	
-[00:00:06]: 		K: 	moon_tree	 V: 	default	
-[00:00:06]: 		K: 	moon_tree_regrowth	 V: 	default	
-[00:00:06]: 		K: 	mosquitos	 V: 	default	
-[00:00:06]: 		K: 	mushroom	 V: 	default	
-[00:00:06]: 		K: 	mutated_bearger	 V: 	default	
-[00:00:06]: 		K: 	mutated_bird_gestalt	 V: 	default	
-[00:00:06]: 		K: 	mutated_birds	 V: 	default	
-[00:00:06]: 		K: 	mutated_buzzard_gestalt	 V: 	default	
-[00:00:06]: 		K: 	mutated_deerclops	 V: 	default	
-[00:00:06]: 		K: 	mutated_hounds	 V: 	default	
-[00:00:06]: 		K: 	mutated_merm	 V: 	default	
-[00:00:06]: 		K: 	mutated_spiderqueen	 V: 	default	
-[00:00:06]: 		K: 	mutated_warg	 V: 	default	
-[00:00:06]: 		K: 	no_joining_islands	 V: 	true	
-[00:00:06]: 		K: 	no_wormholes_to_disconnected_tiles	 V: 	true	
-[00:00:06]: 		K: 	ocean_bullkelp	 V: 	default	
-[00:00:06]: 		K: 	ocean_otterdens	 V: 	default	
-[00:00:06]: 		K: 	ocean_seastack	 V: 	ocean_default	
-[00:00:06]: 		K: 	ocean_shoal	 V: 	default	
-[00:00:06]: 		K: 	ocean_waterplant	 V: 	ocean_default	
-[00:00:06]: 		K: 	ocean_wobsterden	 V: 	default	
-[00:00:06]: 		K: 	otters_setting	 V: 	default	
-[00:00:06]: 		K: 	palmcone_seed_portalrate	 V: 	default	
-[00:00:06]: 		K: 	palmconetree	 V: 	default	
-[00:00:06]: 		K: 	palmconetree_regrowth	 V: 	default	
-[00:00:06]: 		K: 	penguins	 V: 	default	
-[00:00:06]: 		K: 	penguins_moon	 V: 	default	
-[00:00:06]: 		K: 	perd	 V: 	default	
-[00:00:06]: 		K: 	petrification	 V: 	default	
-[00:00:06]: 		K: 	pigs	 V: 	default	
-[00:00:06]: 		K: 	pigs_setting	 V: 	default	
-[00:00:06]: 		K: 	pirateraids	 V: 	default	
-[00:00:06]: 		K: 	ponds	 V: 	default	
-[00:00:06]: 		K: 	portal_spawnrate	 V: 	default	
-[00:00:06]: 		K: 	portalresurection	 V: 	none	
-[00:00:06]: 		K: 	powder_monkey_portalrate	 V: 	default	
-[00:00:06]: 		K: 	prefabswaps_start	 V: 	default	
-[00:00:06]: 		K: 	rabbits	 V: 	default	
-[00:00:06]: 		K: 	rabbits_setting	 V: 	default	
-[00:00:06]: 		K: 	reeds	 V: 	default	
-[00:00:06]: 		K: 	reeds_regrowth	 V: 	default	
-[00:00:06]: 		K: 	regrowth	 V: 	default	
-[00:00:06]: 		K: 	resettime	 V: 	default	
-[00:00:06]: 		K: 	rifts_enabled	 V: 	default	
-[00:00:06]: 		K: 	rifts_frequency	 V: 	default	
-[00:00:06]: 		K: 	roads	 V: 	default	
-[00:00:06]: 		K: 	rock	 V: 	default	
-[00:00:06]: 		K: 	rock_ice	 V: 	default	
-[00:00:06]: 		K: 	saltstack_regrowth	 V: 	default	
-[00:00:06]: 		K: 	sapling	 V: 	default	
-[00:00:06]: 		K: 	season_start	 V: 	default	
-[00:00:06]: 		K: 	seasonalstartingitems	 V: 	default	
-[00:00:06]: 		K: 	shadowcreatures	 V: 	default	
-[00:00:06]: 		K: 	sharkboi	 V: 	default	
-[00:00:06]: 		K: 	sharks	 V: 	default	
-[00:00:06]: 		K: 	spawnmode	 V: 	fixed	
-[00:00:06]: 		K: 	spawnprotection	 V: 	default	
-[00:00:06]: 		K: 	specialevent	 V: 	default	
-[00:00:06]: 		K: 	spider_warriors	 V: 	default	
-[00:00:06]: 		K: 	spiderqueen	 V: 	default	
-[00:00:06]: 		K: 	spiders	 V: 	default	
-[00:00:06]: 		K: 	spiders_setting	 V: 	default	
-[00:00:06]: 		K: 	spring	 V: 	default	
-[00:00:06]: 		K: 	squid	 V: 	default	
-[00:00:06]: 		K: 	stageplays	 V: 	default	
-[00:00:06]: 		K: 	start_location	 V: 	default	
-[00:00:06]: 		K: 	summer	 V: 	default	
-[00:00:06]: 		K: 	summerhounds	 V: 	default	
-[00:00:06]: 		K: 	tallbirds	 V: 	default	
-[00:00:06]: 		K: 	task_set	 V: 	default	
-[00:00:06]: 		K: 	temperaturedamage	 V: 	default	
-[00:00:06]: 		K: 	tentacles	 V: 	default	
-[00:00:06]: 		K: 	terrariumchest	 V: 	default	
-[00:00:06]: 		K: 	touchstone	 V: 	default	
-[00:00:06]: 		K: 	trees	 V: 	default	
-[00:00:06]: 		K: 	tumbleweed	 V: 	default	
-[00:00:06]: 		K: 	twiggytrees_regrowth	 V: 	default	
-[00:00:06]: 		K: 	walrus	 V: 	default	
-[00:00:06]: 		K: 	walrus_setting	 V: 	default	
-[00:00:06]: 		K: 	wanderingtrader_enabled	 V: 	always	
-[00:00:06]: 		K: 	wasps	 V: 	default	
-[00:00:06]: 		K: 	weather	 V: 	default	
-[00:00:06]: 		K: 	wildfires	 V: 	default	
-[00:00:06]: 		K: 	winter	 V: 	default	
-[00:00:06]: 		K: 	winterhounds	 V: 	default	
-[00:00:06]: 		K: 	winters_feast	 V: 	default	
-[00:00:06]: 		K: 	wobsters	 V: 	default	
-[00:00:06]: 		K: 	world_size	 V: 	default	
-[00:00:06]: 		K: 	worldseed	 V: 	1542063096	
-[00:00:06]: 		K: 	wormhole_prefab	 V: 	wormhole	
-[00:00:06]: 		K: 	year_of_the_beefalo	 V: 	default	
-[00:00:06]: 		K: 	year_of_the_bunnyman	 V: 	default	
-[00:00:06]: 		K: 	year_of_the_carrat	 V: 	default	
-[00:00:06]: 		K: 	year_of_the_catcoon	 V: 	default	
-[00:00:06]: 		K: 	year_of_the_dragonfly	 V: 	default	
-[00:00:06]: 		K: 	year_of_the_gobbler	 V: 	default	
-[00:00:06]: 		K: 	year_of_the_knight	 V: 	default	
-[00:00:06]: 		K: 	year_of_the_pig	 V: 	default	
-[00:00:06]: 		K: 	year_of_the_snake	 V: 	default	
-[00:00:06]: 		K: 	year_of_the_varg	 V: 	default	
-[00:00:06]: 	K: 	playstyle	 V: 	survival	
-[00:00:06]: 	K: 	random_set_pieces	 V: 	table: 00000000185292B0	
-[00:00:06]: 		K: 	1	 V: 	Sculptures_2	
-[00:00:06]: 		K: 	2	 V: 	Sculptures_3	
-[00:00:06]: 		K: 	3	 V: 	Sculptures_4	
-[00:00:06]: 		K: 	4	 V: 	Sculptures_5	
-[00:00:06]: 		K: 	5	 V: 	Chessy_1	
-[00:00:06]: 		K: 	6	 V: 	Chessy_2	
-[00:00:06]: 		K: 	7	 V: 	Chessy_3	
-[00:00:06]: 		K: 	8	 V: 	Chessy_4	
-[00:00:06]: 		K: 	9	 V: 	Chessy_5	
-[00:00:06]: 		K: 	10	 V: 	Chessy_6	
-[00:00:06]: 		K: 	11	 V: 	Maxwell1	
-[00:00:06]: 		K: 	12	 V: 	Maxwell2	
-[00:00:06]: 		K: 	13	 V: 	Maxwell3	
-[00:00:06]: 		K: 	14	 V: 	Maxwell4	
-[00:00:06]: 		K: 	15	 V: 	Maxwell6	
-[00:00:06]: 		K: 	16	 V: 	Maxwell7	
-[00:00:06]: 		K: 	17	 V: 	Warzone_1	
-[00:00:06]: 		K: 	18	 V: 	Warzone_2	
-[00:00:06]: 		K: 	19	 V: 	Warzone_3	
-[00:00:06]: 	K: 	required_prefabs	 V: 	table: 00000000185291C0	
-[00:00:06]: 		K: 	1	 V: 	multiplayer_portal	
-[00:00:06]: 	K: 	required_setpieces	 V: 	table: 0000000018529300	
-[00:00:06]: 		K: 	1	 V: 	Sculptures_1	
-[00:00:06]: 		K: 	2	 V: 	Maxwell5	
-[00:00:06]: 	K: 	settings_desc	 V: 	The standard Don't Starve experience.	
-[00:00:06]: 	K: 	settings_id	 V: 	SURVIVAL_TOGETHER	
-[00:00:06]: 	K: 	settings_name	 V: 	Survival	
-[00:00:06]: 	K: 	substitutes	 V: 	table: 0000000018529350	
-[00:00:06]: 	K: 	version	 V: 	4	
-[00:00:06]: 	K: 	worldgen_desc	 V: 	The standard Don't Starve experience.	
-[00:00:06]: 	K: 	worldgen_id	 V: 	SURVIVAL_TOGETHER	
-[00:00:06]: 	K: 	worldgen_name	 V: 	Survival	
-[00:00:06]: Loaded and applied level data override from ../leveldataoverride.lua	
-[00:00:06]: Overwriting savedata with level data file.	
-[00:00:06]: Not applying world gen overrides.	
-[00:00:06]: Collecting garbage...
-[00:00:06]: lua_gc took 0.10 seconds
-[00:00:06]: ~ShardLuaProxy()
-[00:00:06]: ~cEventLeaderboardProxy()
-[00:00:06]: ~ItemServerLuaProxy()
-[00:00:06]: ~InventoryLuaProxy()
-[00:00:06]: ~NetworkLuaProxy()
-[00:00:06]: ~SimLuaProxy()
-[00:00:06]: lua_close took 0.09 seconds
-[00:00:06]: ReleaseAll
-[00:00:06]: ReleaseAll Finished
-[00:00:06]: cGame::StartPlaying
-[00:00:06]: AppVersion::GetArchitecture() x64
-[00:00:06]: LOADING LUA
-[00:00:06]: DoLuaFile scripts/main.lua
-[00:00:06]: DoLuaFile loading buffer scripts/main.lua
+[00:00:07]: [ClientObject] Added (pre-auth) on server: guid=5909398449037717130
+[00:00:07]: [ClientObject] Initialized (self/server object, locally trusted) on server: guid=5909398449037717130 userid=KU_stiTW-Ay netid= admin=1
+[00:00:07]: SUCCESS: Loaded modoverrides.lua	
+[00:00:07]: Found a level data override file with these contents:	
+[00:00:07]: 	K: 	desc	 V: 	The standard Don't Starve experience.	
+[00:00:07]: 	K: 	hideminimap	 V: 	false	
+[00:00:07]: 	K: 	id	 V: 	SURVIVAL_TOGETHER	
+[00:00:07]: 	K: 	location	 V: 	forest	
+[00:00:07]: 	K: 	max_playlist_position	 V: 	999	
+[00:00:07]: 	K: 	min_playlist_position	 V: 	0	
+[00:00:07]: 	K: 	name	 V: 	Survival	
+[00:00:07]: 	K: 	numrandom_set_pieces	 V: 	4	
+[00:00:07]: 	K: 	override_level_string	 V: 	false	
+[00:00:07]: 	K: 	overrides	 V: 	table: 0000000018A6BCE0	
+[00:00:07]: 		K: 	alternatehunt	 V: 	default	
+[00:00:07]: 		K: 	angrybees	 V: 	default	
+[00:00:07]: 		K: 	antliontribute	 V: 	default	
+[00:00:07]: 		K: 	autumn	 V: 	default	
+[00:00:07]: 		K: 	balatro	 V: 	default	
+[00:00:07]: 		K: 	bananabush_portalrate	 V: 	default	
+[00:00:07]: 		K: 	basicresource_regrowth	 V: 	none	
+[00:00:07]: 		K: 	bats_setting	 V: 	default	
+[00:00:07]: 		K: 	bearger	 V: 	default	
+[00:00:07]: 		K: 	beefalo	 V: 	default	
+[00:00:07]: 		K: 	beefaloheat	 V: 	default	
+[00:00:07]: 		K: 	beequeen	 V: 	default	
+[00:00:07]: 		K: 	bees	 V: 	default	
+[00:00:07]: 		K: 	bees_setting	 V: 	default	
+[00:00:07]: 		K: 	berrybush	 V: 	default	
+[00:00:07]: 		K: 	birds	 V: 	default	
+[00:00:07]: 		K: 	boons	 V: 	default	
+[00:00:07]: 		K: 	branching	 V: 	default	
+[00:00:07]: 		K: 	brightmarecreatures	 V: 	default	
+[00:00:07]: 		K: 	bunnymen_setting	 V: 	default	
+[00:00:07]: 		K: 	butterfly	 V: 	default	
+[00:00:07]: 		K: 	buzzard	 V: 	default	
+[00:00:07]: 		K: 	cactus	 V: 	default	
+[00:00:07]: 		K: 	cactus_regrowth	 V: 	default	
+[00:00:07]: 		K: 	carrot	 V: 	default	
+[00:00:07]: 		K: 	carrots_regrowth	 V: 	default	
+[00:00:07]: 		K: 	catcoon	 V: 	default	
+[00:00:07]: 		K: 	catcoons	 V: 	default	
+[00:00:07]: 		K: 	chess	 V: 	default	
+[00:00:07]: 		K: 	cookiecutters	 V: 	default	
+[00:00:07]: 		K: 	crabking	 V: 	default	
+[00:00:07]: 		K: 	crow_carnival	 V: 	default	
+[00:00:07]: 		K: 	darkness	 V: 	default	
+[00:00:07]: 		K: 	day	 V: 	default	
+[00:00:07]: 		K: 	daywalker2	 V: 	default	
+[00:00:07]: 		K: 	deciduousmonster	 V: 	default	
+[00:00:07]: 		K: 	deciduoustree_regrowth	 V: 	default	
+[00:00:07]: 		K: 	deerclops	 V: 	default	
+[00:00:07]: 		K: 	dragonfly	 V: 	default	
+[00:00:07]: 		K: 	dropeverythingondespawn	 V: 	default	
+[00:00:07]: 		K: 	evergreen_regrowth	 V: 	default	
+[00:00:07]: 		K: 	extrastartingitems	 V: 	default	
+[00:00:07]: 		K: 	eyeofterror	 V: 	default	
+[00:00:07]: 		K: 	fishschools	 V: 	default	
+[00:00:07]: 		K: 	flint	 V: 	default	
+[00:00:07]: 		K: 	flowers	 V: 	default	
+[00:00:07]: 		K: 	flowers_regrowth	 V: 	default	
+[00:00:07]: 		K: 	frograin	 V: 	default	
+[00:00:07]: 		K: 	frogs	 V: 	default	
+[00:00:07]: 		K: 	fruitfly	 V: 	default	
+[00:00:07]: 		K: 	ghostenabled	 V: 	always	
+[00:00:07]: 		K: 	ghostsanitydrain	 V: 	always	
+[00:00:07]: 		K: 	gnarwail	 V: 	default	
+[00:00:07]: 		K: 	goosemoose	 V: 	default	
+[00:00:07]: 		K: 	grass	 V: 	default	
+[00:00:07]: 		K: 	grassgekkos	 V: 	default	
+[00:00:07]: 		K: 	hallowed_nights	 V: 	default	
+[00:00:07]: 		K: 	has_ocean	 V: 	true	
+[00:00:07]: 		K: 	healthpenalty	 V: 	always	
+[00:00:07]: 		K: 	hound_mounds	 V: 	default	
+[00:00:07]: 		K: 	houndmound	 V: 	default	
+[00:00:07]: 		K: 	hounds	 V: 	default	
+[00:00:07]: 		K: 	hunger	 V: 	default	
+[00:00:07]: 		K: 	hunt	 V: 	default	
+[00:00:07]: 		K: 	junkyard	 V: 	default	
+[00:00:07]: 		K: 	keep_disconnected_tiles	 V: 	true	
+[00:00:07]: 		K: 	klaus	 V: 	default	
+[00:00:07]: 		K: 	krampus	 V: 	default	
+[00:00:07]: 		K: 	layout_mode	 V: 	LinkNodesByKeys	
+[00:00:07]: 		K: 	lessdamagetaken	 V: 	none	
+[00:00:07]: 		K: 	liefs	 V: 	default	
+[00:00:07]: 		K: 	lightcrab_portalrate	 V: 	default	
+[00:00:07]: 		K: 	lightning	 V: 	default	
+[00:00:07]: 		K: 	lightninggoat	 V: 	default	
+[00:00:07]: 		K: 	loop	 V: 	default	
+[00:00:07]: 		K: 	lunarhail_frequency	 V: 	default	
+[00:00:07]: 		K: 	lureplants	 V: 	default	
+[00:00:07]: 		K: 	malbatross	 V: 	default	
+[00:00:07]: 		K: 	marshbush	 V: 	default	
+[00:00:07]: 		K: 	merm	 V: 	default	
+[00:00:07]: 		K: 	merms	 V: 	default	
+[00:00:07]: 		K: 	meteorshowers	 V: 	default	
+[00:00:07]: 		K: 	meteorspawner	 V: 	default	
+[00:00:07]: 		K: 	moles	 V: 	default	
+[00:00:07]: 		K: 	moles_setting	 V: 	default	
+[00:00:07]: 		K: 	monkeytail_portalrate	 V: 	default	
+[00:00:07]: 		K: 	moon_berrybush	 V: 	default	
+[00:00:07]: 		K: 	moon_bullkelp	 V: 	default	
+[00:00:07]: 		K: 	moon_carrot	 V: 	default	
+[00:00:07]: 		K: 	moon_fissure	 V: 	default	
+[00:00:07]: 		K: 	moon_fruitdragon	 V: 	default	
+[00:00:07]: 		K: 	moon_hotspring	 V: 	default	
+[00:00:07]: 		K: 	moon_rock	 V: 	default	
+[00:00:07]: 		K: 	moon_sapling	 V: 	default	
+[00:00:07]: 		K: 	moon_spider	 V: 	default	
+[00:00:07]: 		K: 	moon_spiders	 V: 	default	
+[00:00:07]: 		K: 	moon_starfish	 V: 	default	
+[00:00:07]: 		K: 	moon_tree	 V: 	default	
+[00:00:07]: 		K: 	moon_tree_regrowth	 V: 	default	
+[00:00:07]: 		K: 	mosquitos	 V: 	default	
+[00:00:07]: 		K: 	mushroom	 V: 	default	
+[00:00:07]: 		K: 	mutated_bearger	 V: 	default	
+[00:00:07]: 		K: 	mutated_bird_gestalt	 V: 	default	
+[00:00:07]: 		K: 	mutated_birds	 V: 	default	
+[00:00:07]: 		K: 	mutated_buzzard_gestalt	 V: 	default	
+[00:00:07]: 		K: 	mutated_deerclops	 V: 	default	
+[00:00:07]: 		K: 	mutated_hounds	 V: 	default	
+[00:00:07]: 		K: 	mutated_merm	 V: 	default	
+[00:00:07]: 		K: 	mutated_spiderqueen	 V: 	default	
+[00:00:07]: 		K: 	mutated_warg	 V: 	default	
+[00:00:07]: 		K: 	no_joining_islands	 V: 	true	
+[00:00:07]: 		K: 	no_wormholes_to_disconnected_tiles	 V: 	true	
+[00:00:07]: 		K: 	ocean_bullkelp	 V: 	default	
+[00:00:07]: 		K: 	ocean_otterdens	 V: 	default	
+[00:00:07]: 		K: 	ocean_seastack	 V: 	ocean_default	
+[00:00:07]: 		K: 	ocean_shoal	 V: 	default	
+[00:00:07]: 		K: 	ocean_waterplant	 V: 	ocean_default	
+[00:00:07]: 		K: 	ocean_wobsterden	 V: 	default	
+[00:00:07]: 		K: 	otters_setting	 V: 	default	
+[00:00:07]: 		K: 	palmcone_seed_portalrate	 V: 	default	
+[00:00:07]: 		K: 	palmconetree	 V: 	default	
+[00:00:07]: 		K: 	palmconetree_regrowth	 V: 	default	
+[00:00:07]: 		K: 	penguins	 V: 	default	
+[00:00:07]: 		K: 	penguins_moon	 V: 	default	
+[00:00:07]: 		K: 	perd	 V: 	default	
+[00:00:07]: 		K: 	petrification	 V: 	default	
+[00:00:07]: 		K: 	pigs	 V: 	default	
+[00:00:07]: 		K: 	pigs_setting	 V: 	default	
+[00:00:07]: 		K: 	pirateraids	 V: 	default	
+[00:00:07]: 		K: 	ponds	 V: 	default	
+[00:00:07]: 		K: 	portal_spawnrate	 V: 	default	
+[00:00:07]: 		K: 	portalresurection	 V: 	none	
+[00:00:07]: 		K: 	powder_monkey_portalrate	 V: 	default	
+[00:00:07]: 		K: 	prefabswaps_start	 V: 	default	
+[00:00:07]: 		K: 	rabbits	 V: 	default	
+[00:00:07]: 		K: 	rabbits_setting	 V: 	default	
+[00:00:07]: 		K: 	reeds	 V: 	default	
+[00:00:07]: 		K: 	reeds_regrowth	 V: 	default	
+[00:00:07]: 		K: 	regrowth	 V: 	default	
+[00:00:07]: 		K: 	resettime	 V: 	default	
+[00:00:07]: 		K: 	rifts_enabled	 V: 	default	
+[00:00:07]: 		K: 	rifts_frequency	 V: 	default	
+[00:00:07]: 		K: 	roads	 V: 	default	
+[00:00:07]: 		K: 	rock	 V: 	default	
+[00:00:07]: 		K: 	rock_ice	 V: 	default	
+[00:00:07]: 		K: 	saltstack_regrowth	 V: 	default	
+[00:00:07]: 		K: 	sapling	 V: 	default	
+[00:00:07]: 		K: 	season_start	 V: 	default	
+[00:00:07]: 		K: 	seasonalstartingitems	 V: 	default	
+[00:00:07]: 		K: 	shadowcreatures	 V: 	default	
+[00:00:07]: 		K: 	sharkboi	 V: 	default	
+[00:00:07]: 		K: 	sharks	 V: 	default	
+[00:00:07]: 		K: 	spawnmode	 V: 	fixed	
+[00:00:07]: 		K: 	spawnprotection	 V: 	default	
+[00:00:07]: 		K: 	specialevent	 V: 	default	
+[00:00:07]: 		K: 	spider_warriors	 V: 	default	
+[00:00:07]: 		K: 	spiderqueen	 V: 	default	
+[00:00:07]: 		K: 	spiders	 V: 	default	
+[00:00:07]: 		K: 	spiders_setting	 V: 	default	
+[00:00:07]: 		K: 	spring	 V: 	default	
+[00:00:07]: 		K: 	squid	 V: 	default	
+[00:00:07]: 		K: 	stageplays	 V: 	default	
+[00:00:07]: 		K: 	start_location	 V: 	default	
+[00:00:07]: 		K: 	summer	 V: 	default	
+[00:00:07]: 		K: 	summerhounds	 V: 	default	
+[00:00:07]: 		K: 	tallbirds	 V: 	default	
+[00:00:07]: 		K: 	task_set	 V: 	default	
+[00:00:07]: 		K: 	temperaturedamage	 V: 	default	
+[00:00:07]: 		K: 	tentacles	 V: 	default	
+[00:00:07]: 		K: 	terrariumchest	 V: 	default	
+[00:00:07]: 		K: 	touchstone	 V: 	default	
+[00:00:07]: 		K: 	trees	 V: 	default	
+[00:00:07]: 		K: 	tumbleweed	 V: 	default	
+[00:00:07]: 		K: 	twiggytrees_regrowth	 V: 	default	
+[00:00:07]: 		K: 	walrus	 V: 	default	
+[00:00:07]: 		K: 	walrus_setting	 V: 	default	
+[00:00:07]: 		K: 	wanderingtrader_enabled	 V: 	always	
+[00:00:07]: 		K: 	wasps	 V: 	default	
+[00:00:07]: 		K: 	weather	 V: 	default	
+[00:00:07]: 		K: 	wildfires	 V: 	default	
+[00:00:07]: 		K: 	winter	 V: 	default	
+[00:00:07]: 		K: 	winterhounds	 V: 	default	
+[00:00:07]: 		K: 	winters_feast	 V: 	default	
+[00:00:07]: 		K: 	wobsters	 V: 	default	
+[00:00:07]: 		K: 	world_size	 V: 	default	
+[00:00:07]: 		K: 	worldseed	 V: 	1542063096	
+[00:00:07]: 		K: 	wormhole_prefab	 V: 	wormhole	
+[00:00:07]: 		K: 	year_of_the_beefalo	 V: 	default	
+[00:00:07]: 		K: 	year_of_the_bunnyman	 V: 	default	
+[00:00:07]: 		K: 	year_of_the_carrat	 V: 	default	
+[00:00:07]: 		K: 	year_of_the_catcoon	 V: 	default	
+[00:00:07]: 		K: 	year_of_the_dragonfly	 V: 	default	
+[00:00:07]: 		K: 	year_of_the_gobbler	 V: 	default	
+[00:00:07]: 		K: 	year_of_the_knight	 V: 	default	
+[00:00:07]: 		K: 	year_of_the_pig	 V: 	default	
+[00:00:07]: 		K: 	year_of_the_snake	 V: 	default	
+[00:00:07]: 		K: 	year_of_the_varg	 V: 	default	
+[00:00:07]: 	K: 	playstyle	 V: 	survival	
+[00:00:07]: 	K: 	random_set_pieces	 V: 	table: 0000000018A6AD40	
+[00:00:07]: 		K: 	1	 V: 	Sculptures_2	
+[00:00:07]: 		K: 	2	 V: 	Sculptures_3	
+[00:00:07]: 		K: 	3	 V: 	Sculptures_4	
+[00:00:07]: 		K: 	4	 V: 	Sculptures_5	
+[00:00:07]: 		K: 	5	 V: 	Chessy_1	
+[00:00:07]: 		K: 	6	 V: 	Chessy_2	
+[00:00:07]: 		K: 	7	 V: 	Chessy_3	
+[00:00:07]: 		K: 	8	 V: 	Chessy_4	
+[00:00:07]: 		K: 	9	 V: 	Chessy_5	
+[00:00:07]: 		K: 	10	 V: 	Chessy_6	
+[00:00:07]: 		K: 	11	 V: 	Maxwell1	
+[00:00:07]: 		K: 	12	 V: 	Maxwell2	
+[00:00:07]: 		K: 	13	 V: 	Maxwell3	
+[00:00:07]: 		K: 	14	 V: 	Maxwell4	
+[00:00:07]: 		K: 	15	 V: 	Maxwell6	
+[00:00:07]: 		K: 	16	 V: 	Maxwell7	
+[00:00:07]: 		K: 	17	 V: 	Warzone_1	
+[00:00:07]: 		K: 	18	 V: 	Warzone_2	
+[00:00:07]: 		K: 	19	 V: 	Warzone_3	
+[00:00:07]: 	K: 	required_prefabs	 V: 	table: 0000000018A6B330	
+[00:00:07]: 		K: 	1	 V: 	multiplayer_portal	
+[00:00:07]: 	K: 	required_setpieces	 V: 	table: 0000000018A6AED0	
+[00:00:07]: 		K: 	1	 V: 	Sculptures_1	
+[00:00:07]: 		K: 	2	 V: 	Maxwell5	
+[00:00:07]: 	K: 	settings_desc	 V: 	The standard Don't Starve experience.	
+[00:00:07]: 	K: 	settings_id	 V: 	SURVIVAL_TOGETHER	
+[00:00:07]: 	K: 	settings_name	 V: 	Survival	
+[00:00:07]: 	K: 	substitutes	 V: 	table: 0000000018A6B600	
+[00:00:07]: 	K: 	version	 V: 	4	
+[00:00:07]: 	K: 	worldgen_desc	 V: 	The standard Don't Starve experience.	
+[00:00:07]: 	K: 	worldgen_id	 V: 	SURVIVAL_TOGETHER	
+[00:00:07]: 	K: 	worldgen_name	 V: 	Survival	
+[00:00:07]: Loaded and applied level data override from ../leveldataoverride.lua	
+[00:00:07]: Overwriting savedata with level data file.	
+[00:00:07]: Not applying world gen overrides.	
+[00:00:07]: Collecting garbage...
+[00:00:07]: lua_gc took 0.09 seconds
+[00:00:07]: ~ShardLuaProxy()
+[00:00:07]: ~cEventLeaderboardProxy()
+[00:00:07]: ~ItemServerLuaProxy()
+[00:00:07]: ~InventoryLuaProxy()
+[00:00:07]: ~NetworkLuaProxy()
+[00:00:07]: ~SimLuaProxy()
+[00:00:07]: lua_close took 0.09 seconds
+[00:00:07]: ReleaseAll
+[00:00:07]: ReleaseAll Finished
+[00:00:07]: cGame::StartPlaying
+[00:00:07]: AppVersion::GetArchitecture() x64
+[00:00:07]: LOADING LUA
+[00:00:07]: DoLuaFile scripts/main.lua
+[00:00:07]: DoLuaFile loading buffer scripts/main.lua
 [00:00:07]:   taskgrouplist:	default	Together	
 [00:00:07]:   taskgrouplist:	classic	Classic	
 [00:00:07]:   taskgrouplist:	cave_default	Underground	
@@ -1103,7 +1103,7 @@ Process Memory:
 [00:00:08]: bloom_enabled	true	
 [00:00:08]: OnFilesLoaded()	
 [00:00:08]: OnUpdatePurchaseStateComplete	
-[00:00:08]: Loading world: session/4D2451903C2A035F/0000000044	
+[00:00:08]: Loading world: session/4D2451903C2A035F/0000000046	
 [00:00:08]: Save file is at version 5.23	
 [00:00:08]: Klump load on boot started.	
 [00:00:08]: Klump files loaded: 	0	
@@ -1168,17 +1168,17 @@ Process Memory:
 [00:00:20]: Could not preload undefined prefab (wagpunk_workstation_blueprint_moon_device_construction1)
 [00:00:20]: Could not preload undefined prefab (shellweaver_nonslipgrit)
 [00:00:20]: Could not preload undefined prefab (wurt_turf_marsh)
-[00:00:20]: Could not preload undefined prefab (carnival_popcorn)
-[00:00:20]: Could not preload undefined prefab (wanderingtradershop_cutreeds)
-[00:00:20]: Could not preload undefined prefab (wormwood_juicyberrybush)
-[00:00:20]: Could not preload undefined prefab (wagpunk_workstation_security_pulse_cage)
-[00:00:20]: Could not preload undefined prefab (transmute_orangegem)
-[00:00:20]: Could not preload undefined prefab (hermitshop_winter_ornament_boss_pearl)
-[00:00:20]: Could not preload undefined prefab (transmute_yellowgem)
-[00:00:20]: Could not preload undefined prefab (cutstone_bunch)
-[00:00:20]: Could not preload undefined prefab (transmute_horrorfuel)
-[00:00:20]: Could not preload undefined prefab (transmute_rocks)
-[00:00:20]: Could not preload undefined prefab (hermitcrabtea_forgetmelots_1)
+[00:00:21]: Could not preload undefined prefab (carnival_popcorn)
+[00:00:21]: Could not preload undefined prefab (wanderingtradershop_cutreeds)
+[00:00:21]: Could not preload undefined prefab (wormwood_juicyberrybush)
+[00:00:21]: Could not preload undefined prefab (wagpunk_workstation_security_pulse_cage)
+[00:00:21]: Could not preload undefined prefab (transmute_orangegem)
+[00:00:21]: Could not preload undefined prefab (hermitshop_winter_ornament_boss_pearl)
+[00:00:21]: Could not preload undefined prefab (transmute_yellowgem)
+[00:00:21]: Could not preload undefined prefab (cutstone_bunch)
+[00:00:21]: Could not preload undefined prefab (transmute_horrorfuel)
+[00:00:21]: Could not preload undefined prefab (transmute_rocks)
+[00:00:21]: Could not preload undefined prefab (hermitcrabtea_forgetmelots_1)
 [00:00:21]: Could not preload undefined prefab (transmute_greengem)
 [00:00:21]: Could not preload undefined prefab (shellweaver_icestaff3)
 [00:00:21]: Could not preload undefined prefab (wanderingtradershop_redgem)
@@ -1190,23 +1190,23 @@ Process Memory:
 [00:00:21]: Could not preload undefined prefab (boards_bunch)
 [00:00:21]: Could not preload undefined prefab (wendy_gravestone)
 [00:00:21]: Could not preload undefined prefab (transmute_bluegem)
-[00:00:21]: Could not preload undefined prefab (yotd_boatpatch_proxy)
-[00:00:21]: Could not preload undefined prefab (hermitshop_chum)
-[00:00:21]: Could not preload undefined prefab (wanderingtradershop_gears)
-[00:00:21]: Could not preload undefined prefab (hermitshop_hermit_bundle_shells)
-[00:00:21]: Could not preload undefined prefab (wagpunk_workstation_moonstorm_static_catcher)
-[00:00:21]: Could not preload undefined prefab (woodie_boards)
-[00:00:21]: Could not preload undefined prefab (hermitcrabtea_moon_tree_blossom_2)
-[00:00:21]: Could not preload undefined prefab (transmute_beefalowool)
-[00:00:21]: Could not preload undefined prefab (wormwood_lureplant)
-[00:00:21]: Could not preload undefined prefab (rabbitkingshop_armor_carrotlure)
-[00:00:21]: Could not preload undefined prefab (wormwood_berrybush)
-[00:00:21]: Could not preload undefined prefab (hermitcrabtea_foliage_3)
-[00:00:21]: Could not preload undefined prefab (hermitshop_supertacklecontainer)
-[00:00:21]: Could not preload undefined prefab (hermitshop_oceanfishingbobber_robin)
-[00:00:21]: Could not preload undefined prefab (hermitcrabtea_petals_evil_1)
-[00:00:21]: Could not preload undefined prefab (transmute_opalpreciousgem)
-[00:00:21]: Could not preload undefined prefab (hermitcrabtea_foliage_1)
+[00:00:22]: Could not preload undefined prefab (yotd_boatpatch_proxy)
+[00:00:22]: Could not preload undefined prefab (hermitshop_chum)
+[00:00:22]: Could not preload undefined prefab (wanderingtradershop_gears)
+[00:00:22]: Could not preload undefined prefab (hermitshop_hermit_bundle_shells)
+[00:00:22]: Could not preload undefined prefab (wagpunk_workstation_moonstorm_static_catcher)
+[00:00:22]: Could not preload undefined prefab (woodie_boards)
+[00:00:22]: Could not preload undefined prefab (hermitcrabtea_moon_tree_blossom_2)
+[00:00:22]: Could not preload undefined prefab (transmute_beefalowool)
+[00:00:22]: Could not preload undefined prefab (wormwood_lureplant)
+[00:00:22]: Could not preload undefined prefab (rabbitkingshop_armor_carrotlure)
+[00:00:22]: Could not preload undefined prefab (wormwood_berrybush)
+[00:00:22]: Could not preload undefined prefab (hermitcrabtea_foliage_3)
+[00:00:22]: Could not preload undefined prefab (hermitshop_supertacklecontainer)
+[00:00:22]: Could not preload undefined prefab (hermitshop_oceanfishingbobber_robin)
+[00:00:22]: Could not preload undefined prefab (hermitcrabtea_petals_evil_1)
+[00:00:22]: Could not preload undefined prefab (transmute_opalpreciousgem)
+[00:00:22]: Could not preload undefined prefab (hermitcrabtea_foliage_1)
 [00:00:22]: Could not preload undefined prefab (transmute_nightmarefuel)
 [00:00:22]: Could not preload undefined prefab (hermitshop_winter_ornament_boss_hermithouse)
 [00:00:22]: Could not preload undefined prefab (hermitcrabtea_foliage_2)
@@ -1214,16 +1214,16 @@ Process Memory:
 [00:00:22]: Could not preload undefined prefab (transmute_smallmeat)
 [00:00:22]: Could not preload undefined prefab (shellweaver_salty_doghat)
 [00:00:22]: Could not preload undefined prefab (wormwood_reeds)
-[00:00:22]: Could not preload undefined prefab (transmute_moonrocknugget)
-[00:00:22]: Could not preload undefined prefab (rabbitkingshop_hat_rabbit)
-[00:00:22]: Could not preload undefined prefab (wanderingtradershop_livinglog)
-[00:00:22]: Could not preload undefined prefab (hermitshop_winch_blueprint)
-[00:00:22]: Could not preload undefined prefab (hermitcrabtea_succulent_picked_2)
-[00:00:22]: Could not preload undefined prefab (yotc_shrinecarrat)
-[00:00:22]: Could not preload undefined prefab (shellweaver_desiccant)
-[00:00:22]: Could not preload undefined prefab (hermitshop_oceanfishinglure_hermit_rain)
-[00:00:22]: Could not preload undefined prefab (hermitcrabtea_succulent_picked_3)
-[00:00:22]: Could not preload undefined prefab (hermitshop_oceanfishingbobber_malbatross)
+[00:00:23]: Could not preload undefined prefab (transmute_moonrocknugget)
+[00:00:23]: Could not preload undefined prefab (rabbitkingshop_hat_rabbit)
+[00:00:23]: Could not preload undefined prefab (wanderingtradershop_livinglog)
+[00:00:23]: Could not preload undefined prefab (hermitshop_winch_blueprint)
+[00:00:23]: Could not preload undefined prefab (hermitcrabtea_succulent_picked_2)
+[00:00:23]: Could not preload undefined prefab (yotc_shrinecarrat)
+[00:00:23]: Could not preload undefined prefab (shellweaver_desiccant)
+[00:00:23]: Could not preload undefined prefab (hermitshop_oceanfishinglure_hermit_rain)
+[00:00:23]: Could not preload undefined prefab (hermitcrabtea_succulent_picked_3)
+[00:00:23]: Could not preload undefined prefab (hermitshop_oceanfishingbobber_malbatross)
 [00:00:23]: Could not preload undefined prefab (walter_rope)
 [00:00:23]: Could not preload undefined prefab (wanderingtradershop_bluegem)
 [00:00:23]: Could not preload undefined prefab (wanderingtradershop_flint)
@@ -1233,39 +1233,39 @@ Process Memory:
 [00:00:23]: Could not preload undefined prefab (hermitshop_chum_blueprint)
 [00:00:23]: Could not preload undefined prefab (hermitshop_oceanfishingbobber_robin_winter)
 [00:00:23]: Could not preload undefined prefab (hermitcrabtea_tillweed_2)
-[00:00:23]: Could not preload undefined prefab (shellweaver_hermitcrab_shell)
-[00:00:23]: Could not preload undefined prefab (wendy_moonbutterfly)
-[00:00:23]: Could not preload undefined prefab (transmute_flint)
-[00:00:23]: Could not preload undefined prefab (hermitcrabtea_forgetmelots_3)
-[00:00:23]: Could not preload undefined prefab (hermitcrabtea_petals_evil_3)
-[00:00:23]: Could not preload undefined prefab (transmute_boneshard)
-[00:00:23]: Could not preload undefined prefab (hermitshop_oceanfishingbobber_crow)
-[00:00:23]: Could not preload undefined prefab (hermitshop_oceanfishinglure_hermit_drowsy)
-[00:00:23]: Could not preload undefined prefab (hermitcrabtea_moon_tree_blossom_3)
-[00:00:23]: Could not preload undefined prefab (wormwood_berrybush2)
-[00:00:23]: Could not preload undefined prefab (hermitshop_oceanfishinglure_hermit_snow)
-[00:00:23]: Could not preload undefined prefab (hermitcrabtea_firenettles_3)
-[00:00:23]: Could not preload undefined prefab (shellweaver_messagebottleempty)
-[00:00:23]: Could not preload undefined prefab (hermitcrabtea_firenettles_2)
-[00:00:23]: Could not preload undefined prefab (hermitcrabtea_petals_2)
-[00:00:23]: Could not preload undefined prefab (hermitcrabtea_moon_tree_blossom_1)
-[00:00:23]: Could not preload undefined prefab (hermitcrabtea_succulent_picked_1)
-[00:00:23]: Could not preload undefined prefab (hermitcrabtea_petals_1)
-[00:00:23]: Could not preload undefined prefab (transmute_purebrilliance)
-[00:00:23]: Could not preload undefined prefab (transmute_houndstooth)
-[00:00:23]: Could not preload undefined prefab (transmute_cutstone)
-[00:00:23]: Could not preload undefined prefab (transmute_marble)
-[00:00:23]: Could not preload undefined prefab (transmute_nitre)
-[00:00:23]: Could not preload undefined prefab (transmute_redgem)
-[00:00:23]: Could not preload undefined prefab (hermitshop_turf_shellbeach_blueprint)
-[00:00:23]: Could not preload undefined prefab (wanderingtradershop_twigs)
-[00:00:23]: Could not preload undefined prefab (wormwood_sapling)
-[00:00:23]: Could not preload undefined prefab (hermitcrabtea_tillweed_1)
-[00:00:23]: Could not preload undefined prefab (hermitcrabtea_petals_evil_2)
-[00:00:23]: Could not preload undefined prefab (tophat_magician)
-[00:00:23]: Could not preload undefined prefab (transmute_goldnugget)
-[00:00:23]: Could not preload undefined prefab (hermitshop_tacklecontainer)
-[00:00:23]: Could not preload undefined prefab (hermitcrabtea_forgetmelots_2)
+[00:00:24]: Could not preload undefined prefab (shellweaver_hermitcrab_shell)
+[00:00:24]: Could not preload undefined prefab (wendy_moonbutterfly)
+[00:00:24]: Could not preload undefined prefab (transmute_flint)
+[00:00:24]: Could not preload undefined prefab (hermitcrabtea_forgetmelots_3)
+[00:00:24]: Could not preload undefined prefab (hermitcrabtea_petals_evil_3)
+[00:00:24]: Could not preload undefined prefab (transmute_boneshard)
+[00:00:24]: Could not preload undefined prefab (hermitshop_oceanfishingbobber_crow)
+[00:00:24]: Could not preload undefined prefab (hermitshop_oceanfishinglure_hermit_drowsy)
+[00:00:24]: Could not preload undefined prefab (hermitcrabtea_moon_tree_blossom_3)
+[00:00:24]: Could not preload undefined prefab (wormwood_berrybush2)
+[00:00:24]: Could not preload undefined prefab (hermitshop_oceanfishinglure_hermit_snow)
+[00:00:24]: Could not preload undefined prefab (hermitcrabtea_firenettles_3)
+[00:00:24]: Could not preload undefined prefab (shellweaver_messagebottleempty)
+[00:00:24]: Could not preload undefined prefab (hermitcrabtea_firenettles_2)
+[00:00:24]: Could not preload undefined prefab (hermitcrabtea_petals_2)
+[00:00:24]: Could not preload undefined prefab (hermitcrabtea_moon_tree_blossom_1)
+[00:00:24]: Could not preload undefined prefab (hermitcrabtea_succulent_picked_1)
+[00:00:24]: Could not preload undefined prefab (hermitcrabtea_petals_1)
+[00:00:24]: Could not preload undefined prefab (transmute_purebrilliance)
+[00:00:24]: Could not preload undefined prefab (transmute_houndstooth)
+[00:00:24]: Could not preload undefined prefab (transmute_cutstone)
+[00:00:24]: Could not preload undefined prefab (transmute_marble)
+[00:00:24]: Could not preload undefined prefab (transmute_nitre)
+[00:00:24]: Could not preload undefined prefab (transmute_redgem)
+[00:00:24]: Could not preload undefined prefab (hermitshop_turf_shellbeach_blueprint)
+[00:00:24]: Could not preload undefined prefab (wanderingtradershop_twigs)
+[00:00:24]: Could not preload undefined prefab (wormwood_sapling)
+[00:00:24]: Could not preload undefined prefab (hermitcrabtea_tillweed_1)
+[00:00:24]: Could not preload undefined prefab (hermitcrabtea_petals_evil_2)
+[00:00:24]: Could not preload undefined prefab (tophat_magician)
+[00:00:24]: Could not preload undefined prefab (transmute_goldnugget)
+[00:00:24]: Could not preload undefined prefab (hermitshop_tacklecontainer)
+[00:00:24]: Could not preload undefined prefab (hermitcrabtea_forgetmelots_2)
 [00:00:24]: Could not preload undefined prefab (wanderingtradershop_pigskin)
 [00:00:24]: Could not preload undefined prefab (transmute_twigs)
 [00:00:24]: Could not preload undefined prefab (wagpunk_workstation_blueprint_moonstorm_goggleshat)
@@ -1275,146 +1275,146 @@ Process Memory:
 [00:00:24]: Could not preload undefined prefab (shellweaver_nonslipgritboosted)
 [00:00:24]: Could not preload undefined prefab (shellweaver_icestaff2)
 [00:00:24]: Could not preload undefined prefab (carnival_gametoken_multiple)
-[00:00:24]: Could not preload undefined prefab (slingshot_frame_wagpunk_1)
-[00:00:24]: 	LOAD BE: done	
-[00:00:24]: Begin Session: 4D2451903C2A035F
-[00:00:24]: saving to server_temp/server_save	
-[00:00:24]: OVERRIDE: setting	healthpenalty	to	always	
-[00:00:24]: OVERRIDE: setting	wanderingtrader_enabled	to	always	
-[00:00:24]: OVERRIDE: setting	lessdamagetaken	to	none	
-[00:00:24]: MiniMapComponent::AddAtlas( minimap/minimap_data1.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( minimap/minimap_data2.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_1.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_2.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_3.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_4.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_5.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_6.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_7.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_8.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_9.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_10.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_11.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_12.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_13.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_14.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_15.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_16.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_17.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_18.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_19.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_20.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_21.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_22.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
-[00:00:24]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
-[00:00:24]: Loading 19 new character(s)	
+[00:00:25]: Could not preload undefined prefab (slingshot_frame_wagpunk_1)
+[00:00:25]: 	LOAD BE: done	
+[00:00:25]: Begin Session: 4D2451903C2A035F
+[00:00:25]: saving to server_temp/server_save	
+[00:00:25]: OVERRIDE: setting	healthpenalty	to	always	
+[00:00:25]: OVERRIDE: setting	wanderingtrader_enabled	to	always	
+[00:00:25]: OVERRIDE: setting	lessdamagetaken	to	none	
+[00:00:25]: MiniMapComponent::AddAtlas( minimap/minimap_data1.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( minimap/minimap_data2.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_1.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_2.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_3.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_4.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_5.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_6.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_7.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_8.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_9.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_10.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_11.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_12.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_13.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_14.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_15.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_16.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_17.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_18.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_19.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_20.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_21.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_22.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:00:25]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:00:25]: Loading 19 new character(s)	
 [00:00:26]: Total 19 character(s) loaded	
-[00:00:26]: Loading Nav Grid	
-[00:00:26]: World generated on build 747465 with save version: 5.23, using seed: 1542063096	
-[00:00:26]: setting 	summerlength	15	
-[00:00:26]: setting 	cavemoonphase	threequarter	
-[00:00:26]: setting 	iscavefullmoon	false	
-[00:00:26]: setting 	isnightmaredawn	false	
-[00:00:26]: setting 	elapseddaysinseason	11	
-[00:00:26]: setting 	isfullmoon	false	
-[00:00:26]: setting 	moisture	1967.4559326172	
-[00:00:26]: setting 	springlength	20	
-[00:00:26]: setting 	islunarhailing	false	
-[00:00:26]: setting 	isnightmarewild	false	
-[00:00:26]: setting 	nightmaretimeinphase	0	
-[00:00:26]: setting 	precipitationrate	0	
-[00:00:26]: setting 	israining	false	
-[00:00:26]: setting 	iswet	false	
-[00:00:26]: setting 	isnewmoon	false	
-[00:00:26]: setting 	iscavewaxingmoon	false	
-[00:00:26]: setting 	iswinter	true	
-[00:00:26]: setting 	isnightmarewarn	false	
-[00:00:26]: setting 	cavephase	day	
-[00:00:26]: setting 	temperature	-15.865959450378	
-[00:00:26]: setting 	isacidraining	false	
-[00:00:26]: setting 	lunarhailrate	0	
-[00:00:26]: setting 	season	winter	
-[00:00:26]: setting 	wetness	0	
-[00:00:26]: setting 	timeinphase	0.31965866088867	
-[00:00:26]: setting 	iscaveday	true	
-[00:00:26]: setting 	moistureceil	2259.6745605469	
-[00:00:26]: setting 	isday	true	
-[00:00:26]: setting 	winterlength	15	
-[00:00:26]: setting 	remainingdaysinseason	4	
-[00:00:26]: setting 	issnowcovered	true	
-[00:00:26]: setting 	isalterawake	false	
-[00:00:26]: setting 	isnightmarecalm	false	
-[00:00:26]: setting 	isnight	false	
-[00:00:26]: setting 	isdusk	false	
-[00:00:26]: setting 	isspring	false	
-[00:00:26]: setting 	isautumn	false	
-[00:00:26]: setting 	issnowing	false	
-[00:00:26]: setting 	lunarhaillevel	0	
-[00:00:26]: setting 	pop	0.78694415444903	
-[00:00:26]: setting 	snowlevel	1	
-[00:00:26]: setting 	iswaxingmoon	false	
-[00:00:26]: setting 	autumnlength	20	
-[00:00:26]: setting 	phase	day	
-[00:00:26]: setting 	nightmaretime	0	
-[00:00:26]: setting 	iscavedusk	false	
-[00:00:26]: setting 	cycles	31	
-[00:00:26]: setting 	nightmarephase	none	
-[00:00:26]: setting 	seasonprogress	0.73333333333333	
-[00:00:26]: setting 	moonphase	threequarter	
-[00:00:26]: setting 	iscavenight	false	
-[00:00:26]: setting 	iscavenewmoon	false	
-[00:00:26]: setting 	issummer	false	
-[00:00:26]: setting 	precipitation	none	
-[00:00:26]: setting 	time	0.09989333152771	
-[00:00:26]: OVERRIDE: setting	ghostenabled	to	always	
-[00:00:26]: OVERRIDE: setting	basicresource_regrowth	to	none	
-[00:00:26]: OVERRIDE: setting	portalresurection	to	none	
-[00:00:26]: OVERRIDE: setting	spawnmode	to	fixed	
-[00:00:26]: OVERRIDE: setting	ghostsanitydrain	to	always	
+[00:00:27]: Loading Nav Grid	
+[00:00:27]: World generated on build 747465 with save version: 5.23, using seed: 1542063096	
+[00:00:27]: setting 	summerlength	15	
+[00:00:27]: setting 	cavemoonphase	threequarter	
+[00:00:27]: setting 	iscavefullmoon	false	
+[00:00:27]: setting 	isnightmaredawn	false	
+[00:00:27]: setting 	elapseddaysinseason	12	
+[00:00:27]: setting 	isfullmoon	false	
+[00:00:27]: setting 	moisture	2166.6596679688	
+[00:00:27]: setting 	springlength	20	
+[00:00:27]: setting 	islunarhailing	false	
+[00:00:27]: setting 	isnightmarewild	false	
+[00:00:27]: setting 	nightmaretimeinphase	0	
+[00:00:27]: setting 	precipitationrate	0	
+[00:00:27]: setting 	israining	false	
+[00:00:27]: setting 	iswet	false	
+[00:00:27]: setting 	isnewmoon	false	
+[00:00:27]: setting 	iscavewaxingmoon	false	
+[00:00:27]: setting 	iswinter	true	
+[00:00:27]: setting 	isnightmarewarn	false	
+[00:00:27]: setting 	cavephase	day	
+[00:00:27]: setting 	temperature	-13.190251863239	
+[00:00:27]: setting 	isacidraining	false	
+[00:00:27]: setting 	lunarhailrate	0	
+[00:00:27]: setting 	season	winter	
+[00:00:27]: setting 	wetness	0	
+[00:00:27]: setting 	timeinphase	0.10397878011068	
+[00:00:27]: setting 	iscaveday	true	
+[00:00:27]: setting 	moistureceil	2259.6745605469	
+[00:00:27]: setting 	isday	true	
+[00:00:27]: setting 	winterlength	15	
+[00:00:27]: setting 	remainingdaysinseason	3	
+[00:00:27]: setting 	issnowcovered	true	
+[00:00:27]: setting 	isalterawake	false	
+[00:00:27]: setting 	isnightmarecalm	false	
+[00:00:27]: setting 	isnight	false	
+[00:00:27]: setting 	isdusk	false	
+[00:00:27]: setting 	isspring	false	
+[00:00:27]: setting 	isautumn	false	
+[00:00:27]: setting 	issnowing	false	
+[00:00:27]: setting 	lunarhaillevel	0	
+[00:00:27]: setting 	pop	0.93218308248359	
+[00:00:27]: setting 	snowlevel	1	
+[00:00:27]: setting 	iswaxingmoon	false	
+[00:00:27]: setting 	autumnlength	20	
+[00:00:27]: setting 	phase	day	
+[00:00:27]: setting 	nightmaretime	0	
+[00:00:27]: setting 	iscavedusk	false	
+[00:00:27]: setting 	cycles	32	
+[00:00:27]: setting 	nightmarephase	none	
+[00:00:27]: setting 	seasonprogress	0.8	
+[00:00:27]: setting 	moonphase	threequarter	
+[00:00:27]: setting 	iscavenight	false	
+[00:00:27]: setting 	iscavenewmoon	false	
+[00:00:27]: setting 	issummer	false	
+[00:00:27]: setting 	precipitation	none	
+[00:00:27]: setting 	time	0.032493368784587	
+[00:00:27]: OVERRIDE: setting	ghostenabled	to	always	
+[00:00:27]: OVERRIDE: setting	basicresource_regrowth	to	none	
+[00:00:27]: OVERRIDE: setting	portalresurection	to	none	
+[00:00:27]: OVERRIDE: setting	spawnmode	to	fixed	
+[00:00:27]: OVERRIDE: setting	ghostsanitydrain	to	always	
 [00:00:32]: Reconstructing topology	
 [00:00:32]: 	...Sorting points	
 [00:00:32]: 	...Sorting edges	
 [00:00:32]: 	...Connecting nodes	
 [00:00:32]: 	...Validating connections	
-[00:00:32]: 	...Housekeeping	
-[00:00:32]: 	...Done!	
-[00:00:32]: 1 uploads added to server. From server_temp
-[00:00:32]: About to start a shard with these settings:
-[00:00:32]:   ShardName: Master
-[00:00:32]:   ShardID: 1
-[00:00:32]:   ShardRole: MASTER
-[00:00:32]:   MasterHost: (null)
-[00:00:32]:   MasterBind: 127.0.0.1
-[00:00:32]:   MasterPort: 10888
-[00:00:32]: [Shard] Starting master server
-[00:00:32]: [Warning] Could not confirm port 10888 is open in the firewall. 
-[00:00:32]: [Shard] Shard server started on port: 10888
-[00:00:32]: [IPC] Signal 'DST_Master_Ready' opened  #0000000000000AD4
-[00:00:32]: [IPC] Sending signal... #0000000000000AD4
-[00:00:32]: Telling Client our new session identifier: 4D2451903C2A035F
-[00:00:32]: Check for write access: TRUE
-[00:00:32]: Check for read access: TRUE
-[00:00:32]: Available disk space for save files: 127811 MB
-[00:00:32]: ModIndex: Load sequence finished successfully.	
-[00:00:32]: Reset() returning
-[00:00:33]: Validating portal[5] <-> 2673340608[5] (inactive)	
-[00:00:33]: Validating portal[8] <-> 2673340608[8] (inactive)	
-[00:00:33]: Validating portal[oceanwhirlbigportal] <-> 2673340608[oceanwhirlbigportal] (inactive)	
-[00:00:33]: Validating portal[2] <-> 2673340608[2] (inactive)	
-[00:00:33]: Validating portal[1] <-> 2673340608[1] (inactive)	
-[00:00:33]: Validating portal[9] <-> 2673340608[9] (inactive)	
-[00:00:33]: Validating portal[3] <-> 2673340608[3] (inactive)	
-[00:00:33]: Validating portal[10] <-> 2673340608[10] (inactive)	
-[00:00:33]: Validating portal[6] <-> 2673340608[6] (inactive)	
-[00:00:33]: Validating portal[4] <-> 2673340608[4] (inactive)	
-[00:00:33]: Validating portal[7] <-> 2673340608[7] (inactive)	
-[00:00:33]: Server registered via geo DNS in ap-east-1
-[00:00:33]: Sim paused
+[00:00:33]: 	...Housekeeping	
+[00:00:33]: 	...Done!	
+[00:00:33]: 1 uploads added to server. From server_temp
+[00:00:33]: About to start a shard with these settings:
+[00:00:33]:   ShardName: Master
+[00:00:33]:   ShardID: 1
+[00:00:33]:   ShardRole: MASTER
+[00:00:33]:   MasterHost: (null)
+[00:00:33]:   MasterBind: 127.0.0.1
+[00:00:33]:   MasterPort: 10888
+[00:00:33]: [Shard] Starting master server
+[00:00:33]: [Warning] Could not confirm port 10888 is open in the firewall. 
+[00:00:33]: [Shard] Shard server started on port: 10888
+[00:00:33]: [IPC] Signal 'DST_Master_Ready' opened  #0000000000000AA0
+[00:00:33]: [IPC] Sending signal... #0000000000000AA0
+[00:00:33]: Telling Client our new session identifier: 4D2451903C2A035F
+[00:00:33]: Check for write access: TRUE
+[00:00:33]: Check for read access: TRUE
+[00:00:33]: Available disk space for save files: 127805 MB
+[00:00:33]: ModIndex: Load sequence finished successfully.	
+[00:00:33]: Reset() returning
+[00:00:34]: Validating portal[7] <-> 2673340608[7] (inactive)	
+[00:00:34]: Validating portal[3] <-> 2673340608[3] (inactive)	
+[00:00:34]: Validating portal[2] <-> 2673340608[2] (inactive)	
+[00:00:34]: Validating portal[5] <-> 2673340608[5] (inactive)	
+[00:00:34]: Validating portal[10] <-> 2673340608[10] (inactive)	
+[00:00:34]: Validating portal[4] <-> 2673340608[4] (inactive)	
+[00:00:34]: Validating portal[6] <-> 2673340608[6] (inactive)	
+[00:00:34]: Validating portal[8] <-> 2673340608[8] (inactive)	
+[00:00:34]: Validating portal[9] <-> 2673340608[9] (inactive)	
+[00:00:34]: Validating portal[oceanwhirlbigportal] <-> 2673340608[oceanwhirlbigportal] (inactive)	
+[00:00:34]: Validating portal[1] <-> 2673340608[1] (inactive)	
+[00:00:34]: Server registered via geo DNS in ap-east-1
+[00:00:34]: Sim paused
 [00:00:34]: [Shard] Secondary shard Caves(2673340608) connected: [LAN] 127.0.0.1
 [00:00:35]: [Shard] Secondary Caves(2673340608) ready!
 [00:00:35]: World 2673340608(Caves) is now connected	
@@ -1433,17 +1433,17 @@ Process Memory:
 [00:00:35]: [SyncWorldSettings] Sending master world option basicresource_regrowth = none to secondary shards.	
 [00:00:35]: [SyncWorldSettings] Sending master world option krampus = default to secondary shards.	
 [00:00:35]: [SyncWorldSettings] Sending master world option dropeverythingondespawn = default to secondary shards.	
-[00:00:35]: Validating portal[5] <-> 2673340608[5] (disabled)	
-[00:00:35]: Validating portal[8] <-> 2673340608[8] (disabled)	
-[00:00:35]: Validating portal[oceanwhirlbigportal] <-> 2673340608[oceanwhirlbigportal] (active)	
-[00:00:35]: Validating portal[2] <-> 2673340608[2] (active)	
-[00:00:35]: Validating portal[1] <-> 2673340608[1] (disabled)	
-[00:00:35]: Validating portal[9] <-> 2673340608[9] (disabled)	
-[00:00:35]: Validating portal[3] <-> 2673340608[3] (disabled)	
-[00:00:35]: Validating portal[10] <-> 2673340608[10] (disabled)	
-[00:00:35]: Validating portal[6] <-> 2673340608[6] (disabled)	
-[00:00:35]: Validating portal[4] <-> 2673340608[4] (disabled)	
 [00:00:35]: Validating portal[7] <-> 2673340608[7] (disabled)	
+[00:00:35]: Validating portal[3] <-> 2673340608[3] (disabled)	
+[00:00:35]: Validating portal[2] <-> 2673340608[2] (active)	
+[00:00:35]: Validating portal[5] <-> 2673340608[5] (disabled)	
+[00:00:35]: Validating portal[10] <-> 2673340608[10] (disabled)	
+[00:00:35]: Validating portal[4] <-> 2673340608[4] (disabled)	
+[00:00:35]: Validating portal[6] <-> 2673340608[6] (disabled)	
+[00:00:35]: Validating portal[8] <-> 2673340608[8] (disabled)	
+[00:00:35]: Validating portal[9] <-> 2673340608[9] (disabled)	
+[00:00:35]: Validating portal[oceanwhirlbigportal] <-> 2673340608[oceanwhirlbigportal] (active)	
+[00:00:35]: Validating portal[1] <-> 2673340608[1] (disabled)	
 [00:00:35]: [SyncWorldSettings] Resyncing master world option ghostsanitydrain = always to secondary shards.	
 [00:00:35]: [SyncWorldSettings] Resyncing master world option darkness = default to secondary shards.	
 [00:00:35]: [SyncWorldSettings] Resyncing master world option resettime = default to secondary shards.	
@@ -1459,65 +1459,54 @@ Process Memory:
 [00:00:35]: [SyncWorldSettings] Resyncing master world option basicresource_regrowth = none to secondary shards.	
 [00:00:35]: [SyncWorldSettings] Resyncing master world option krampus = default to secondary shards.	
 [00:00:35]: [SyncWorldSettings] Resyncing master world option dropeverythingondespawn = default to secondary shards.	
-[00:00:36]: New incoming connection 127.0.0.1|52950 <919656415062584670>
-[00:00:36]: Client connected from [LAN] 127.0.0.1|52950 <919656415062584670>
-[00:00:36]: [ClientObject] Added (pre-auth) on server: guid=919656415062584670
-[00:00:36]: ValidateGameSessionToken GUID<919656415062584670>
+[00:00:36]: New incoming connection 127.0.0.1|57599 <63713372902025118>
+[00:00:36]: Client connected from [LAN] 127.0.0.1|57599 <63713372902025118>
+[00:00:36]: [ClientObject] Added (pre-auth) on server: guid=63713372902025118
+[00:00:36]: ValidateGameSessionToken GUID<63713372902025118>
 [00:00:37]: Client authenticated: (KU_stiTW-Ay) Apache Spark
 [00:00:37]: [Steam] Authenticated host '76561198172760737'
 [00:00:40]: There is no active event to validate against.
 [00:00:40]: [Shard] Read save location file for (KU_stiTW-Ay)
-[00:00:40]: [ClientObject] Initialized (authenticated) on server: guid=919656415062584670 userid=KU_stiTW-Ay netid=76561198172760737 admin=1
-[00:01:13]: Resuming user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000044
-[00:01:14]: User ID	KU_stiTW-Ay	assigned ownership to entity	117194 - waxwell	
-[00:01:14]: Spawning player at: [Load] (182.23, 0.00, 160.73)	
+[00:00:40]: [ClientObject] Initialized (authenticated) on server: guid=63713372902025118 userid=KU_stiTW-Ay netid=76561198172760737 admin=1
+[00:01:14]: Resuming user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000046
+[00:01:14]: User ID	KU_stiTW-Ay	assigned ownership to entity	117204 - waxwell	
+[00:01:14]: Spawning player at: [Load] (-59.84, 0.00, -437.44)	
 [00:01:14]: Sim unpaused
-[00:02:06]: Server Autopaused	
-[00:02:08]: Server Unpaused	
-[00:03:14]: Server Autopaused	
-[00:03:16]: Server Unpaused	
-[00:03:21]: Server Autopaused	
-[00:03:26]: Server Unpaused	
-[00:05:22]: Server Autopaused	
-[00:05:23]: Server Unpaused	
-[00:05:24]: Server Autopaused	
-[00:05:25]: Server Unpaused	
-[00:06:40]: Server Autopaused	
-[00:06:45]: Server Unpaused	
-[00:08:01]: Server Autopaused	
-[00:08:04]: Server Unpaused	
-[00:08:45]: Available disk space for save files: 127811 MB
-[00:08:45]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000045
-[00:08:46]: Serializing world: session/4D2451903C2A035F/0000000045
-[00:08:51]: Server Autopaused	
-[00:09:03]: Server Unpaused	
-[00:09:11]: Server Autopaused	
-[00:09:14]: Server Unpaused	
-[00:09:15]: [Steam] SendUserDisconnect for '76561198172760737'
-[00:09:15]: [Shard] (KU_stiTW-Ay) disconnected from Master(1)
-[00:09:15]: [IPC] Received shutdown signal.
-[00:09:15]: Available disk space for save files: 127806 MB
-[00:09:15]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000046
-[00:09:16]: Serializing world: session/4D2451903C2A035F/0000000046
-[00:09:16]: Truncating to snapshot #46...
-[00:09:16]:  - session/4D2451903C2A035F/0000000039
-[00:09:16]:  - session/4D2451903C2A035F/0000000040
-[00:09:16]:  - session/4D2451903C2A035F/A7MRFCEO7OLS/0000000040
-[00:09:16]:  - session/4D2451903C2A035F/A7MRFCEO7OLS/0000000039
-[00:09:16]:    4 file(s) removed
-[00:09:16]: Removing server from lobby
-[00:09:16]: [Shard] Stopping shard mode
-[00:09:16]: [Steam] SendUserDisconnect for ''
-[00:09:16]: Collecting garbage...
-[00:09:16]: lua_gc took 0.33 seconds
-[00:09:16]: ~ShardLuaProxy()
-[00:09:16]: ~cEventLeaderboardProxy()
-[00:09:16]: ~ItemServerLuaProxy()
-[00:09:16]: ~InventoryLuaProxy()
-[00:09:16]: ~NetworkLuaProxy()
-[00:09:16]: ~SimLuaProxy()
-[00:09:16]: Cancelling LuaQueryCallback handle [8]
-[00:09:17]: lua_close took 0.41 seconds
-[00:09:17]: CurlRequestManager::ClientThread::Main() complete
-[00:09:17]: HttpClient2 discarded 0 callbacks.
-[00:09:17]: Shutting down
+[00:02:01]: Failed to assign item skin ids due to ownership check failure.
+[00:02:02]: Failed to assign item skin ids due to ownership check failure.
+[00:02:40]: Failed to assign item skin ids due to ownership check failure.
+[00:02:41]: Failed to assign item skin ids due to ownership check failure.
+[00:03:16]: Server Autopaused	
+[00:03:17]: Server Unpaused	
+[00:05:30]: Server Autopaused	
+[00:05:31]: Server Unpaused	
+[00:08:25]: Server Autopaused	
+[00:08:26]: Server Unpaused	
+[00:08:43]: Server Autopaused	
+[00:08:46]: Server Unpaused	
+[00:08:47]: [Steam] SendUserDisconnect for '76561198172760737'
+[00:08:47]: [Shard] (KU_stiTW-Ay) disconnected from Master(1)
+[00:08:47]: [IPC] Received shutdown signal.
+[00:08:47]: Available disk space for save files: 127804 MB
+[00:08:47]: Serializing user: session/4D2451903C2A035F/A7MRFCEO7OLS/0000000047
+[00:08:47]: Serializing world: session/4D2451903C2A035F/0000000047
+[00:08:47]: Truncating to snapshot #47...
+[00:08:47]:  - session/4D2451903C2A035F/0000000041
+[00:08:47]:  - session/4D2451903C2A035F/A7MRFCEO7OLS/0000000041
+[00:08:47]:    2 file(s) removed
+[00:08:47]: Removing server from lobby
+[00:08:47]: [Shard] Stopping shard mode
+[00:08:47]: [Steam] SendUserDisconnect for ''
+[00:08:47]: Collecting garbage...
+[00:08:48]: lua_gc took 0.26 seconds
+[00:08:48]: ~ShardLuaProxy()
+[00:08:48]: ~cEventLeaderboardProxy()
+[00:08:48]: ~ItemServerLuaProxy()
+[00:08:48]: ~InventoryLuaProxy()
+[00:08:48]: ~NetworkLuaProxy()
+[00:08:48]: ~SimLuaProxy()
+[00:08:48]: Cancelling LuaQueryCallback handle [8]
+[00:08:48]: lua_close took 0.40 seconds
+[00:08:48]: CurlRequestManager::ClientThread::Main() complete
+[00:08:48]: HttpClient2 discarded 0 callbacks.
+[00:08:49]: Shutting down
