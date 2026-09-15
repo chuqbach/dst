@@ -119,7 +119,7 @@ return {
     weather="default",
     winters_feast="default",
     world_size="medium",
-    worldseed="",
+    worldseed=1743313427,
     wormattacks="default",
     wormattacks_boss="default",
     wormhole_prefab="tentacle_pillar",
