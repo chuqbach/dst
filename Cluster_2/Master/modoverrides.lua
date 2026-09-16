@@ -2,6 +2,7 @@ return {
   ["workshop-1207269058"]={ configuration_options={  }, enabled=true },
   ["workshop-1378549454"]={
     configuration_options={
+      craftinghighlight=false,
       ["MemSpikeFix:"]=false,
       MemSpikeFixmaster_override=true,
       ["MemSpikeFixworkshop-1207269058"]="default",
@@ -34,8 +35,7 @@ return {
       ["MemSpikeFixworkshop-727774324"]="default",
       ["MemSpikeFixworkshop-758532836"]="default",
       ["MemSpikeFixworkshop-780009141"]="default",
-      ["MemSpikeFixworkshop-804549021"]="default",
-      craftinghighlight=false 
+      ["MemSpikeFixworkshop-804549021"]="default" 
     },
     enabled=true 
   },
@@ -46,9 +46,6 @@ return {
   ["workshop-2287303119"]={
     configuration_options={
       [""]=0,
-      Show_naughtiness=true,
-      Show_range=true,
-      T_crop=true,
       chestB=-1,
       chestG=-1,
       chestR=-1,
@@ -62,9 +59,12 @@ return {
       show_food_units=-1,
       show_fuel=true,
       show_fueled=3,
+      Show_naughtiness=true,
       show_nutrients=1,
       show_planar_resist=true,
-      show_uses=-1 
+      Show_range=true,
+      show_uses=-1,
+      T_crop=true 
     },
     enabled=true 
   },
@@ -112,6 +112,10 @@ return {
   ["workshop-569043634"]={
     configuration_options={
       [""]=false,
+      campfire="Enabled",
+      coldfire="Enabled",
+      coldfirepit="Enabled",
+      firepit="Enabled",
       Health_Penalty_Campfire="Unchanged",
       Health_Penalty_Generic="Unchanged",
       Health_Penalty_Maximum="Unchanged",
@@ -126,13 +130,9 @@ return {
       RespawnMe="Unchanged",
       ReturnHotkey="Unchanged",
       ReturnHotkey_Mode="Closest",
-      SpawnProtection="Unchanged",
-      campfire="Enabled",
-      coldfire="Enabled",
-      coldfirepit="Enabled",
-      firepit="Enabled",
       reviver="Unchanged",
       skeleton="Unchanged",
+      SpawnProtection="Unchanged",
       usetags="Unchanged" 
     },
     enabled=true 
