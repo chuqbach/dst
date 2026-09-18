@@ -1,0 +1,8 @@
+[00:00:59]: [Join Announcement] Apache Spark
+[00:03:14]: [Join Announcement] pL4y3r
+[00:15:11]: [Death Announcement] pL4y3r was killed by Darkness. She became a spooky ghost!
+[00:15:16]: [Resurrect Announcement] pL4y3r was resurrected by Campfire.
+[00:28:09]: [Join Announcement] DINO
+[00:29:20]: [Leave Announcement] DINO
+[00:30:50]: [Leave Announcement] Apache Spark
+[00:30:51]: [Leave Announcement] pL4y3r

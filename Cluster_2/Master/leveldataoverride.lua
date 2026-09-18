@@ -194,7 +194,7 @@ return {
     winters_feast="default",
     wobsters="default",
     world_size="medium",
-    worldseed="",
+    worldseed=1297652341,
     wormhole_prefab="wormhole",
     year_of_the_beefalo="default",
     year_of_the_bunnyman="default",

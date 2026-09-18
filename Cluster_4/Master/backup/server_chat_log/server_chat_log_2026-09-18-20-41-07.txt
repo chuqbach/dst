@@ -1,0 +1,4 @@
+[00:00:58]: [Join Announcement] Apache Spark
+[00:02:12]: [Join Announcement] pL4y3r
+[01:13:02]: [Leave Announcement] Apache Spark
+[01:13:02]: [Leave Announcement] pL4y3r
