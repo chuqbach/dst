@@ -1,4 +1,0 @@
-[00:00:58]: [Join Announcement] Apache Spark
-[00:16:37]: [Death Announcement] Apache Spark was killed by Starvation. He became a spooky ghost!
-[00:16:39]: [Resurrect Announcement] Apache Spark was resurrected by Fire Pit.
-[00:17:20]: [Leave Announcement] Apache Spark
