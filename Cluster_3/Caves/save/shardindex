@@ -5,41 +5,70 @@ KLEI     1 return {
       configuration_options={
         ["MemSpikeFix:"]=false,
         MemSpikeFixmaster_override=true,
+        ["MemSpikeFixworkshop-1120124958"]="default",
         ["MemSpikeFixworkshop-1207269058"]="default",
-        ["MemSpikeFixworkshop-1577038978"]="default",
-        ["MemSpikeFixworkshop-1608191708"]="default",
+        ["MemSpikeFixworkshop-1290774114"]="default",
+        ["MemSpikeFixworkshop-1595631294"]="default",
         ["MemSpikeFixworkshop-1653324376"]="default",
+        ["MemSpikeFixworkshop-1895335315"]="default",
+        ["MemSpikeFixworkshop-1938799734"]="default",
+        ["MemSpikeFixworkshop-2033458869"]="default",
         ["MemSpikeFixworkshop-2078243581"]="default",
         ["MemSpikeFixworkshop-2189004162"]="default",
-        ["MemSpikeFixworkshop-2287303119"]="default",
+        ["MemSpikeFixworkshop-2302837868"]="default",
         ["MemSpikeFixworkshop-2321974509"]="default",
+        ["MemSpikeFixworkshop-2477889104"]="default",
         ["MemSpikeFixworkshop-2849308125"]="default",
         ["MemSpikeFixworkshop-2873533916"]="default",
         ["MemSpikeFixworkshop-2921270365"]="default",
         ["MemSpikeFixworkshop-3075429483"]="default",
+        ["MemSpikeFixworkshop-3371086303"]="default",
         ["MemSpikeFixworkshop-345692228"]="default",
         ["MemSpikeFixworkshop-347079953"]="default",
-        ["MemSpikeFixworkshop-347360448"]="default",
         ["MemSpikeFixworkshop-351325790"]="default",
         ["MemSpikeFixworkshop-352373173"]="default",
-        ["MemSpikeFixworkshop-360722606"]="default",
         ["MemSpikeFixworkshop-362175979"]="default",
-        ["MemSpikeFixworkshop-365119238"]="default",
         ["MemSpikeFixworkshop-374550642"]="default",
         ["MemSpikeFixworkshop-375850593"]="default",
         ["MemSpikeFixworkshop-375859599"]="default",
         ["MemSpikeFixworkshop-376333686"]="default",
         ["MemSpikeFixworkshop-378160973"]="default",
         ["MemSpikeFixworkshop-458587300"]="default",
+        ["MemSpikeFixworkshop-466732225"]="default",
         ["MemSpikeFixworkshop-569043634"]="default",
-        ["MemSpikeFixworkshop-676297854"]="default",
+        ["MemSpikeFixworkshop-661253977"]="default",
         ["MemSpikeFixworkshop-677034401"]="default",
         ["MemSpikeFixworkshop-727774324"]="default",
         ["MemSpikeFixworkshop-758532836"]="default",
         ["MemSpikeFixworkshop-780009141"]="default",
-        ["MemSpikeFixworkshop-804549021"]="default",
         craftinghighlight=false 
       },
+      enabled=true 
+    },
+    ["workshop-1595631294"]={
+      configuration_options={
+        BundleItems=false,
+        ChangeSkin=true,
+        Digornot=false,
+        DragonflyChest=false,
+        Icebox=false,
+        OnlyPlayer=false,
+        SaltBox=false 
+      },
+      enabled=true 
+    },
+    ["workshop-1895335315"]={
+      configuration_options={
+        Craft="Easy",
+        Destroyable="DestroyByAll",
+        Language="En",
+        Position="Center",
+        Slots=80 
+      },
+      enabled=true 
+    },
+    ["workshop-1938799734"]={
+      configuration_options={ boat_clean=false, checking_days=20, clean_mode=0, white_area=true },
       enabled=true 
     },
     ["workshop-2078243581"]={

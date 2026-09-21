@@ -1,0 +1,25 @@
+[00:01:22]: [Join Announcement] DINO
+[00:02:21]: [Join Announcement] pL4y3r
+[00:07:43]: [Skin Announcement] DINO hand_winona_magma
+[00:10:40]: [Death Announcement] pL4y3r was killed by Tentacle. She became a spooky ghost!
+[00:13:59]: [Resurrect Announcement] pL4y3r was resurrected by Campfire.
+[00:15:58]: [Death Announcement] pL4y3r was killed by Tentacle. She became a spooky ghost!
+[00:16:02]: [Death Announcement] DINO was killed by Tentacle. He became a spooky ghost!
+[00:16:03]: [Resurrect Announcement] pL4y3r was resurrected by Campfire.
+[00:16:24]: [Death Announcement] pL4y3r was killed by Tentacle. She became a spooky ghost!
+[00:31:06]: [Skin Announcement] pL4y3r body_flannel_blue_snowbird
+[00:57:21]: [Skin Announcement] DINO feet_sneakers_red_auburn
+[00:59:34]: [Death Announcement] pL4y3r was killed by Spider. She became a spooky ghost!
+[01:00:00]: [Resurrect Announcement] pL4y3r was resurrected by Campfire.
+[01:05:35]: [Death Announcement] DINO was killed by Terrorbeak. He became a spooky ghost!
+[01:34:26]: [Death Announcement] DINO was killed by Tallbird. He became a spooky ghost!
+[01:35:39]: [Resurrect Announcement] DINO was resurrected by Fire Pit.
+[01:37:46]: [Skin Announcement] pL4y3r hand_shortgloves_white_smoke
+[01:45:51]: [Death Announcement] pL4y3r was killed by Hound. She became a spooky ghost!
+[01:45:53]: [Resurrect Announcement] pL4y3r was resurrected by Fire Pit.
+[01:46:00]: [Death Announcement] pL4y3r was killed by Hound. She became a spooky ghost!
+[01:46:01]: [Resurrect Announcement] pL4y3r was resurrected by Fire Pit.
+[01:46:10]: [Death Announcement] pL4y3r was killed by Hound. She became a spooky ghost!
+[01:46:12]: [Resurrect Announcement] pL4y3r was resurrected by Fire Pit.
+[01:57:05]: [Leave Announcement] pL4y3r
+[01:59:13]: [Leave Announcement] DINO
