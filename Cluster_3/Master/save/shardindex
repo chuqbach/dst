@@ -1,78 +1,36 @@
 KLEI     1 return {
   enabled_mods={
-    ["workshop-1207269058"]={ configuration_options={  }, enabled=true },
-    ["workshop-1378549454"]={
+    ["workshop-1111658995"]={ configuration_options={  }, enabled=true },
+    ["workshop-1185229307"]={
       configuration_options={
-        ["MemSpikeFix:"]=false,
-        MemSpikeFixmaster_override=true,
-        ["MemSpikeFixworkshop-1120124958"]="default",
-        ["MemSpikeFixworkshop-1207269058"]="default",
-        ["MemSpikeFixworkshop-1290774114"]="default",
-        ["MemSpikeFixworkshop-1595631294"]="default",
-        ["MemSpikeFixworkshop-1653324376"]="default",
-        ["MemSpikeFixworkshop-1895335315"]="default",
-        ["MemSpikeFixworkshop-1938799734"]="default",
-        ["MemSpikeFixworkshop-2033458869"]="default",
-        ["MemSpikeFixworkshop-2078243581"]="default",
-        ["MemSpikeFixworkshop-2189004162"]="default",
-        ["MemSpikeFixworkshop-2302837868"]="default",
-        ["MemSpikeFixworkshop-2321974509"]="default",
-        ["MemSpikeFixworkshop-2477889104"]="default",
-        ["MemSpikeFixworkshop-2849308125"]="default",
-        ["MemSpikeFixworkshop-2873533916"]="default",
-        ["MemSpikeFixworkshop-2921270365"]="default",
-        ["MemSpikeFixworkshop-3075429483"]="default",
-        ["MemSpikeFixworkshop-3371086303"]="default",
-        ["MemSpikeFixworkshop-345692228"]="default",
-        ["MemSpikeFixworkshop-347079953"]="default",
-        ["MemSpikeFixworkshop-351325790"]="default",
-        ["MemSpikeFixworkshop-352373173"]="default",
-        ["MemSpikeFixworkshop-362175979"]="default",
-        ["MemSpikeFixworkshop-374550642"]="default",
-        ["MemSpikeFixworkshop-375850593"]="default",
-        ["MemSpikeFixworkshop-375859599"]="default",
-        ["MemSpikeFixworkshop-376333686"]="default",
-        ["MemSpikeFixworkshop-378160973"]="default",
-        ["MemSpikeFixworkshop-458587300"]="default",
-        ["MemSpikeFixworkshop-466732225"]="default",
-        ["MemSpikeFixworkshop-569043634"]="default",
-        ["MemSpikeFixworkshop-661253977"]="default",
-        ["MemSpikeFixworkshop-677034401"]="default",
-        ["MemSpikeFixworkshop-727774324"]="default",
-        ["MemSpikeFixworkshop-758532836"]="default",
-        ["MemSpikeFixworkshop-780009141"]="default",
-        craftinghighlight=false 
+        CAMERA=false,
+        CAPTURE=false,
+        CLIENT=false,
+        DAMAGE_NUMBERS=true,
+        DAMAGE_RESISTANCE=true,
+        FRAME_PHASES=true,
+        GLOBAL=false,
+        GLOBAL_NUMBERS=true,
+        HORIZONTAL_OFFSET=0,
+        SERVER=false,
+        TAG="epic",
+        WETNESS_METER=false 
       },
       enabled=true 
     },
-    ["workshop-1595631294"]={
+    ["workshop-1304347324"]={ configuration_options={ RIDE_TIME=300 }, enabled=true },
+    ["workshop-1530801499"]={
       configuration_options={
-        BundleItems=false,
-        ChangeSkin=true,
-        Digornot=false,
-        DragonflyChest=false,
-        Icebox=false,
-        OnlyPlayer=false,
-        SaltBox=false 
+        ArrowsignEnable=false,
+        CountdownEnable=false,
+        HungerCost=1,
+        Ownership=true,
+        SanityCost=1 
       },
       enabled=true 
     },
-    ["workshop-1895335315"]={
-      configuration_options={
-        Craft="Easy",
-        Destroyable="DestroyByAll",
-        Language="En",
-        Position="Center",
-        Slots=80 
-      },
-      enabled=true 
-    },
-    ["workshop-1938799734"]={
-      configuration_options={ boat_clean=false, checking_days=20, clean_mode=0, white_area=true },
-      enabled=true 
-    },
-    ["workshop-2078243581"]={
-      configuration_options={ Blue=0, Display="target", Green=0, Projectile=true, Red=1, Type="hit" },
+    ["workshop-2074508776"]={
+      configuration_options={ companionrange=12, handmake=5, onlyclose=false, range=2.3 },
       enabled=true 
     },
     ["workshop-2189004162"]={
@@ -196,26 +154,53 @@ KLEI     1 return {
       },
       enabled=true 
     },
-    ["workshop-2321974509"]={ configuration_options={ SIB=false, SSB=false }, enabled=true },
-    ["workshop-2921270365"]={
+    ["workshop-2477889104"]={
       configuration_options={
-        quick_cook_on_fire=true,
-        quick_harvest=true,
-        quick_on_riding=true,
-        quick_pick_cactus=true,
-        quick_pick_plant_normal_ground=true,
-        quick_plant_interact=true 
+        BADGE_BG_BRIGHTNESS=60,
+        BADGE_BG_OPACITY=100,
+        COLOR_DOMESTICATION_DEFAULT="BEIGE",
+        COLOR_DOMESTICATION_ORNERY="ORANGE",
+        COLOR_DOMESTICATION_PUDGY="PURPLE",
+        COLOR_DOMESTICATION_RIDER="BLUE",
+        COLOR_OBEDIENCE="RED",
+        COLOR_TIMER="GREEN",
+        ClientConfig=false,
+        EnableSounds=false,
+        GapModifier=0,
+        HEALTH_BADGE_CLEAR_BG=false,
+        HungerThreshold=15,
+        OffsetX=0,
+        OffsetXFine=0,
+        OffsetXMult=1,
+        OffsetY=0,
+        OffsetYFine=0,
+        OffsetYMult=1,
+        SEPARATOR_BADGE_COLORS=1,
+        SEPARATOR_BADGE_SETTINGS=1,
+        SEPARATOR_GENERAL=1,
+        SEPARATOR_POSITIONING_X=1,
+        SEPARATOR_POSITIONING_Y=1,
+        Scale=1,
+        ShowByDefault=true,
+        Theme="TheForge",
+        ToggleKey="KEY_T" 
       },
       enabled=true 
     },
-    ["workshop-3075429483"]={
+    ["workshop-2784048339"]={
       configuration_options={
-        ENABLEBACKPACK=false,
-        ENABLEINTERSEP=15,
-        INITIALSLOT=false,
-        INVENTORYSIZE=45,
-        MOREEQUIPSLOTS=false 
+        Craft="Easy",
+        Destroyable="DestroyByPlayer",
+        FreshnessUp=false,
+        Language="En",
+        Slots=80,
+        srfresh="cool",
+        sroom_drag=true 
       },
+      enabled=true 
+    },
+    ["workshop-3289112324"]={
+      configuration_options={ MAX_STACK_SIZE=99, STACK_CREATURES=true, STACK_ITEMS=true, STACK_SPIDERS=true },
       enabled=true 
     },
     ["workshop-347079953"]={
@@ -223,30 +208,36 @@ KLEI     1 return {
       enabled=true 
     },
     ["workshop-362175979"]={ configuration_options={ ["Draw over FoW"]="disabled" }, enabled=true },
-    ["workshop-374550642"]={
+    ["workshop-3710782781"]={
       configuration_options={
-        FORCE_STACKSIZES=false,
-        STACK_SIZE_LARGEITEM=40,
-        STACK_SIZE_MEDITEM=80,
-        STACK_SIZE_PELLET=250,
-        STACK_SIZE_SMALLITEM=99,
-        STACK_SIZE_TINYITEM=120 
+        ENABLEBACKPACK=false,
+        EXTRAEQUIP=false,
+        EXTRASLOTS=-1,
+        INVENTORYSIZE=45,
+        INVLAYOUT=1,
+        SHOWINSPECT=false,
+        SLOTORDER=1,
+        SORTBUTTON=true,
+        SORTKEY=false,
+        SORTPAD=true 
       },
       enabled=true 
     },
-    ["workshop-375850593"]={ configuration_options={  }, enabled=true },
-    ["workshop-375859599"]={
+    ["workshop-3759757365"]={
       configuration_options={
-        divider=5,
-        random_health_value=0,
-        random_range=0,
-        send_unknwon_prefabs=false,
-        show_type=0,
-        unknwon_prefabs=1,
-        use_blacklist=true 
+        allow_damage_numbers=true,
+        allow_health_value=true,
+        allow_wall_healthbar=false,
+        debug_logging=false,
+        default_hotkey="KEY_H",
+        default_language="zh",
+        max_display_distance=40,
+        max_visible_bars=30,
+        preview_hotkey="KEY_F8" 
       },
       enabled=true 
     },
+    ["workshop-3770173902"]={ configuration_options={ dash_spacing=28, line_opacity=0.32 }, enabled=true },
     ["workshop-378160973"]={
       configuration_options={
         ENABLEPINGS=true,
@@ -259,43 +250,33 @@ KLEI     1 return {
       },
       enabled=true 
     },
-    ["workshop-458587300"]={ configuration_options={ Ownership=false, Travel_Cost=32 }, enabled=true },
-    ["workshop-569043634"]={
+    ["workshop-466732225"]={ configuration_options={  }, enabled=true },
+    ["workshop-501385076"]={
       configuration_options={
-        [""]=false,
-        Health_Penalty_Campfire="Unchanged",
-        Health_Penalty_Generic="Unchanged",
-        Health_Penalty_Maximum="Unchanged",
-        Health_Penalty_Meat_Effigy="Unchanged",
-        Health_Penalty_Portal="Unchanged",
-        Health_Penalty_Skeleton="Unchanged",
-        Health_Respawn_Amount="Unchanged",
-        KeepInventory="Unchanged",
-        KeepInventory_BugFix="Unchanged",
-        KillMe="Unchanged",
-        NoPlayerSkeletons="Unchanged",
-        RespawnMe="Unchanged",
-        ReturnHotkey="Unchanged",
-        ReturnHotkey_Mode="Closest",
-        SpawnProtection="Unchanged",
-        campfire="Enabled",
-        coldfire="Enabled",
-        coldfirepit="Enabled",
-        firepit="Enabled",
-        reviver="Unchanged",
-        skeleton="Unchanged",
-        usetags="Unchanged" 
+        quick_cook_on_fire=true,
+        quick_harvest=true,
+        quick_pick_cactus=true,
+        quick_pick_plant_normal_ground=true 
       },
       enabled=true 
     },
-    ["workshop-758532836"]={
+    ["workshop-676297854"]={
       configuration_options={
-        AUTOPAUSECONSOLE=false,
-        AUTOPAUSEMAP=false,
-        AUTOPAUSESINGLEPLAYER=true,
-        ENABLECLIENTPAUSING=false,
-        ENABLEHOTKEY=false,
-        KEYBOARDTOGGLEKEY="P" 
+        campfire=true,
+        coldfire=true,
+        coldfirepit=true,
+        deluxe_firepit=true,
+        endo_firepit=true,
+        fire_rez_health_level="default",
+        fire_rez_health_penalty=0,
+        fire_rez_hunger_level="default",
+        fire_rez_lighting_strike_on_rez=true,
+        fire_rez_sanity_level=0.5,
+        fire_rez_spawn_skelly=true,
+        firepit=true,
+        heat_star=true,
+        ice_star=true,
+        null_option=true 
       },
       enabled=true 
     } 
@@ -334,7 +315,7 @@ KLEI     1 return {
         autumn="default",
         balatro="default",
         bananabush_portalrate="default",
-        basicresource_regrowth="none",
+        basicresource_regrowth="always",
         bats_setting="default",
         bearger="default",
         beefalo="default",

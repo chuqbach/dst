@@ -1,0 +1,6 @@
+[00:00:49]: [Join Announcement] pL4y3r
+[00:01:17]: [Death Announcement] pL4y3r was killed by Spider. She became a spooky ghost!
+[00:01:21]: [Resurrect Announcement] pL4y3r was resurrected by Shenanigans.
+[00:01:49]: [Death Announcement] pL4y3r was killed by Spider. She became a spooky ghost!
+[00:02:00]: [Resurrect Announcement] pL4y3r was resurrected by Shenanigans.
+[00:02:50]: [Leave Announcement] pL4y3r
