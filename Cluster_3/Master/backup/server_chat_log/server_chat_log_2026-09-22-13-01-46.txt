@@ -1,0 +1,4 @@
+[00:00:39]: [Join Announcement] pL4y3r
+[00:02:37]: [Join Announcement] DINO
+[00:07:45]: [Leave Announcement] DINO
+[00:07:45]: [Leave Announcement] pL4y3r

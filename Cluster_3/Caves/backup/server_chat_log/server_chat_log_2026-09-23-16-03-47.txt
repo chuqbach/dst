@@ -1,0 +1,5 @@
+[00:00:35]: [Join Announcement] pL4y3r
+[00:01:04]: [Death Announcement] pL4y3r was killed by Terrorbeak. She became a spooky ghost!
+[00:01:10]: [Resurrect Announcement] pL4y3r was resurrected by Fire Pit.
+[00:09:02]: [Default Announcement] pL4y3r's creative mode is enabled
+[00:35:49]: [Leave Announcement] pL4y3r

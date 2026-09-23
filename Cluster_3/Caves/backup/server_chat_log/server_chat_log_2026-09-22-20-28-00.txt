@@ -1,0 +1,11 @@
+[00:00:37]: [Join Announcement] pL4y3r
+[00:02:06]: [Join Announcement] Apache Spark
+[00:02:24]: [Join Announcement] DINO
+[00:08:58]: [Leave Announcement] DINO
+[00:09:09]: [Leave Announcement] Apache Spark
+[00:09:35]: [Vote Announcement] rollback passed
+[00:10:09]: [Vote Announcement] rollback passed
+[00:12:31]: [Join Announcement] Apache Spark
+[00:15:02]: [Join Announcement] DINO
+[00:31:41]: [Leave Announcement] Apache Spark
+[00:46:55]: [Leave Announcement] DINO
