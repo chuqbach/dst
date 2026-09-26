@@ -18,3 +18,7 @@
 # Whitelist the Cluster_4 folder and all of its contents
 !Cluster_4/
 !Cluster_4/**
+
+# Whitelist the Cluster_5 folder and all of its contents
+!Cluster_5/
+!Cluster_5/**
