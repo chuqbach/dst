@@ -1,0 +1,17 @@
+[00:01:01]: [Join Announcement] Apache Spark
+[00:02:07]: [Join Announcement] DINO
+[00:10:08]: [Death Announcement] Apache Spark was killed by Spider Queen. He became a spooky ghost!
+[00:10:11]: [Resurrect Announcement] Apache Spark was resurrected by Fire Pit.
+[00:34:56]: [Death Announcement] DINO was killed by Darkness. They became a spooky ghost!
+[00:36:13]: [Vote Announcement] rollback passed
+[00:36:33]: [Vote Announcement] rollback passed
+[00:48:04]: [Skin Announcement] DINO backpack_invisible
+[01:04:03]: [Death Announcement] Apache Spark was killed by Dangling Depth Dweller. He became a spooky ghost!
+[01:04:39]: [Death Announcement] DINO was killed by Dangling Depth Dweller. They became a spooky ghost!
+[01:04:47]: [Vote Announcement] rollback passed
+[01:14:40]: [Death Announcement] Apache Spark was killed by Damaged Bishop. He became a spooky ghost!
+[01:14:56]: [Resurrect Announcement] Apache Spark was resurrected by Campfire.
+[01:15:06]: [Death Announcement] Apache Spark was killed by Damaged Bishop. He became a spooky ghost!
+[01:15:09]: [Resurrect Announcement] Apache Spark was resurrected by Campfire.
+[01:34:00]: [Leave Announcement] DINO
+[01:34:39]: [Leave Announcement] Apache Spark
